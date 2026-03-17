@@ -86,6 +86,6 @@ Follow this structure exactly unless the user explicitly asks for a shorter or c
 ## File Output
 
 - Save the completed report to `/reports/outlooks`.
-- Use the filename format `Cross-Asset-Weekly-Outlook-{YYYY-MM-DD}-{NN}.md`.
+- Use the filename format `cross-asset-weekly-outlook-{YYYY-MM-DD}-{NN}.md`.
 - The first report generated on a given date must use `-00`.
 - Later reports on the same date must increment: `-01`, `-02`, `-03`, and so on.

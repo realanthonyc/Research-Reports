@@ -112,7 +112,7 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 - If the user wants a chat answer only, keep the same structure without writing files.
 - Default to file output.
 - Save reports in `/reports/outlooks`.
-- Use this filename convention: `Cross-Asset-Weekly-Outlook-{YYYY-MM-DD}-{NN}.md`.
+- Use this filename convention: `cross-asset-weekly-outlook-{YYYY-MM-DD}-{NN}.md`.
 - Start the first report of the day at `-00`.
 - If multiple reports are generated on the same date, increment sequentially to `-01`, `-02`, `-03`, and so on.
 - Determine the next available `{NN}` by checking existing files in `/reports/outlooks` for the same date before writing the new report.

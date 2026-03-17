@@ -18,6 +18,11 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - Actively search for the latest macro data, central-bank signals, market moves, and geopolitical developments before drawing conclusions.
 - Prefer primary and high-authority sources: official economic releases, central banks, Treasury/Fed/ECB/BOJ/PBOC communications, exchange or government data, then high-quality financial media for context.
 - Time-stamp unstable facts such as yields, DXY, futures pricing, ETF flows, and policy probabilities.
+- Build an `important happenings radar` every run:
+- `just happened`: what was released or said in the last 0-24 hours
+- `recent`: what still matters from the last 1-7 days
+- `upcoming`: what the market is waiting for in the next few days
+- Include analyst / strategist repricing or institutional debate only when it helps explain market expectation, reaction, or positioning.
 
 3. Diagnose the macro regime
 - Explicitly classify the environment across these axes:
@@ -67,7 +72,9 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 ## Output Rules
 
 - Follow the structure in [references/report-outline.md](references/report-outline.md).
-- Start with an executive summary that states the regime and the core market message in plain language.
+- Start with a two-part summary:
+- `Detailed Summary`: slower and clearer reasoning, with explicit judgment, forecast, and explanation of harder concepts in simpler language.
+- `Brief Summary`: fast-read version that states the bottom-line regime, market message, and key judgment directly.
 - Use short paragraphs and selective bullets; do not turn the note into disconnected headline fragments.
 - Include absolute dates for recent events and data prints.
 - Include source links for material factual claims when the task expects a fully sourced note.
@@ -86,6 +93,11 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - If the user has already granted standing permission for commit/push, do not ask again before doing so.
 - If commit or push fails, report the failure reason and current git status briefly.
 - Use a clear commit message that includes the report date and sequence, for example: `add macro intelligence report 2026-03-17-00`.
+- The summary sections must explicitly cover:
+- what just happened
+- what the market is now waiting for
+- how current pricing reflects or misreads those developments
+- your own forward judgment, not only balanced caveats
 
 ## Evidence Priorities
 

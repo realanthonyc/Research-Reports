@@ -23,6 +23,14 @@ Always produce:
 - Audience: `Active trader / crypto desk`
 - Mode: `Full report | Delta update`
 - Data quality: `Pass | coverage-thin`
+- Detailed Summary:
+  - `<clearer, more explicit reasoning about what just happened / what matters next>`
+  - `<spell out the key judgment or forecast in plain language>`
+  - `<if the logic is non-obvious, explain it simply>`
+- Brief Summary:
+  - `<fast-read bottom line>`
+  - `<what the market is likely pricing>`
+  - `<most important upcoming risk or catalyst>`
 - Executive setup (3-6 bullets):
   - `<highest-impact takeaway>`
   - `<what changed vs prior session>`
@@ -111,6 +119,7 @@ Always produce:
 - Base case (inference): `<1-2 lines>`
 - Risk to base case: `<1-2 lines>`
 - What to re-check next update: `<specific datapoints / sources>`
+- Make this section decisive and explicit. Avoid vague balance-language when the evidence clearly leans one way.
 
 ### Risk Disclosure (required)
 - `This report is market analysis for informational purposes and is not investment advice.`

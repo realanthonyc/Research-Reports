@@ -38,8 +38,15 @@ Collect short-term macro context that can move BTC/ETH over the next hours to fe
 - Major scheduled data (CPI, PPI, NFP, PMI, retail sales, jobless claims)
 - Central bank communication (Fed speakers, FOMC minutes, policy decisions)
 - Geopolitical or policy shocks with immediate risk-on/risk-off impact
+- Sell-side / institutional flow commentary, ETF issuer updates, or major venue / custody commentary when it materially changes how the market interprets BTC/ETH demand or positioning
 
 For each macro item used, identify the transmission path to BTC/ETH (liquidity, risk sentiment, USD strength, rates sensitivity, ETF demand tone, leverage unwind risk). Exclude macro headlines with no clear BTC/ETH link.
+
+Build an `important happenings radar` every run:
+- `just happened`: what was released or changed in roughly the last 0-24 hours
+- `recent`: what happened in the last 1-7 days that is still driving BTC/ETH
+- `upcoming`: what is about to happen in the next 24-72 hours that traders are waiting for
+- For each retained happening, explain market expectation, what looks priced-in, and why BTC/ETH reacted or did not react.
 
 If derivatives metrics are mentioned (funding, open interest, liquidations, options skew), cite the source and timestamp.
 
@@ -57,6 +64,11 @@ Cover these categories:
 Prefer primary sources when available (official announcements, regulator releases, project blogs, exchange notices) and use reputable reporting for context.
 
 For macro items, prioritize primary/official sources (e.g., BLS, BEA, Federal Reserve, Treasury) and high-quality financial reporting for market reaction context.
+Actively look for the market's current interpretation, not just the raw event:
+- what traders expected before the release or headline
+- what actually happened
+- whether the market reaction confirms or contradicts the obvious read
+- what that mismatch implies for the next session or two
 
 ### 4. Filter and rank
 
@@ -82,6 +94,10 @@ Also score each retained item explicitly:
 ### 5. Write the digest
 
 Use the output structure in `references/output-template.md`.
+
+Start the English report with two summary sections before the development list:
+- `Detailed Summary`: a slower, clearer explanation of the most important logic, including at least one explicit judgment or forecast; explain harder concepts in simpler language when needed.
+- `Brief Summary`: a fast-read version that states the bottom-line understanding and directional judgment plainly.
 
 For each item, include:
 - Headline
@@ -121,6 +137,11 @@ End with a forward-looking section that helps a trader monitor risk over the nex
 - Upcoming catalysts (scheduled releases, decisions, unlocks, upgrade milestones)
 - Invalidations / what would change the bias
 - "Need confirmation" items to re-check
+
+The final watchlist should emphasize:
+- what just happened that still matters
+- what is about to happen next
+- what the market seems to be underpricing or overpricing
 
 ### 8. Translate to Traditional Chinese after the English report
 

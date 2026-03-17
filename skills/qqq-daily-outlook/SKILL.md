@@ -47,6 +47,12 @@ If screenshot is missing or stale, say so and lower confidence.
 6. Estimate probabilities for the relevant session path, including the next 1-4 hours if the market is already open.
 7. Produce the required report format.
 
+Treat `just happened` and `about to happen` as first-class inputs:
+- explicitly identify what happened in roughly the last 0-24 hours that still drives the tape
+- explicitly identify what the market is waiting for in the next 24-72 hours
+- if analyst actions, institutional commentary, or major strategy notes are affecting QQQ leaders or index sentiment, include them when they materially change expectations or reaction
+- explain not only the headline, but the expectation, the actual outcome, and the market's interpretation
+
 ## Screenshot Signals To Extract
 
 - Gap up/down vs prior close
@@ -179,11 +185,13 @@ In the English markdown file, place these summary sections first, before the mai
 `Detailed English Summary`
 - 2-3 compact paragraphs.
 - Explain the dominant setup, likely 1-4 hour path, and practical 0DTE implication.
+- Slow down slightly on harder logic. Make the causal chain easy to follow.
+- State your actual judgment / forecast plainly instead of hiding behind balanced caveats.
 
 `Brief Summary`
 - 4-6 bullets.
 - Keep these bullets in English.
-- Focus on bias, volatility, confirmation trigger, failure trigger, and dominant tape driver.
+- Focus on bias, volatility, confirmation trigger, failure trigger, dominant tape driver, and the single most important just-happened or upcoming catalyst.
 
 Then use exactly these main sections in the English master file:
 
@@ -239,6 +247,7 @@ Then use exactly these main sections in the English master file:
 `10. Final Quick Summary`
 - 5-7 short bullets in English.
 - Cover: bias, volatility, path, key levels, invalidation, and main risk.
+- Make this section maximally fast-read and explicit.
 - End with a brief non-advice / 0DTE risk reminder.
 
 Then translate the entire English markdown into Traditional Chinese and save it as the `-zh-TW` file:

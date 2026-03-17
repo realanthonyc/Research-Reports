@@ -29,6 +29,11 @@ Always investigate current facts first, then build explicit causal reasoning, sc
   - `BTC`
   - gold
 - Also gather a ranked list of the most valuable current and near-term market news items that must later feed the `今日熱點新聞` section.
+- Build an `important happenings radar` every run:
+- `just happened`: what changed in the last 0-24 hours and is still driving the tape
+- `recent`: what from the last few days still matters
+- `upcoming`: what the market is now waiting for over the next several days
+- Include analyst / institutional repricing or rating changes when they help explain expectations, sector leadership, or market reaction.
 - For each unstable fact, prefer same-day or latest-available sourcing and time-stamp the datapoint when useful.
 
 3. Rank the drivers before discussing prices
@@ -125,6 +130,9 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 - Use compact sections and high-signal bullets, but keep causal reasoning explicit.
 - Include source links for major factual claims.
 - Include concrete dates rather than vague time references.
+- Start the report with two summary layers:
+- `詳細總結`：更完整地解釋最近/即將發生的重要動態、推導邏輯、你的理解與判斷。
+- `總結概要`：快速、直接、可掃讀地講清楚結論、偏向、關鍵風險與最重要催化。
 - Do not number the first-level output section titles. Use plain markdown headings such as `## 標題與日期`, `## 核心判斷`, `## 大市`, and so on.
 - Whenever you make a directional or structural judgment, explicitly state the applicable time span, for example:
   - `對未來 1 到 3 個美股交易日的判斷`
@@ -142,8 +150,9 @@ Always investigate current facts first, then build explicit causal reasoning, sc
   - make the path readable as trading intelligence, not a bare scenario list
 - Add a new section `9. 今日熱點新聞` immediately after section `8`.
   - Include at least 10 news items.
-  - The section must be proactively researched each time; do not reuse stale template items.
-  - Items may include newly released data, company events, geopolitical developments, policy events, central-bank meetings, upcoming macro releases, or other market-moving expectations that matter for this report.
+- The section must be proactively researched each time; do not reuse stale template items.
+- Items may include newly released data, company events, geopolitical developments, policy events, central-bank meetings, upcoming macro releases, or other market-moving expectations that matter for this report.
+- 對於 `剛剛發生` 與 `即將發生` 的項目，要特別交代市場預期、實際內容、反應與你的解讀。
   - For each item, include:
     - `日期`
     - `來源(URL)`
@@ -173,4 +182,5 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 - Never present speculation as fact.
 - Never use stale memory for current prices, catalysts, or schedules.
 - Acknowledge uncertainty and mixed evidence.
+- 在證據允許的範圍內，避免只有保守含糊的空話；要明確講出理解與判斷。
 - Do not give personal financial advice or guarantee outcomes.

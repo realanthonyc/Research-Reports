@@ -1,153 +1,241 @@
 # Cross-Asset Weekly Outlook
 
 - 分析日期：2026-03-17
-- 分析範圍：2026-03-17 至 2026-03-20
+- 分析範圍：2026-03-17 至 2026-03-20（美東週二至週五）
+- 最新可用大市資料：以 2026-03-16 美東週一收盤與 2026-03-17 亞洲時段可得公開資訊為主
 
-> 資料截點：以 2026-03-16 美股收盤與 2026-03-17 亞洲時段可得公開資料為主。這代表本報告是在 2026-03-17（週二，Asia/Tokyo）撰寫，但大市現況主要反映 2026-03-16（美東週一）收盤後的市場定價。
+## 核心判斷
 
-## 2. 核心判斷
-
-- 主導 regime 仍是「地緣政治油價 shock 與 Fed hold / higher-for-longer 之間的拉鋸」，不是乾淨的 risk-on。美股週一反彈更像是油價暫時回落後的喘息，而不是風險完全解除。
-- 當前最重要近端 driver 是 [2026-03-17 至 2026-03-18 FOMC 會議](https://www.federalreserve.gov/newsevents/2026-march.htm) 對油價衝擊是否被視為一次性，以及市場對 2026 年降息路徑是否再被往後推。
-- 股票、BTC、黃金目前並未完全同向。美股受油價回落提振，BTC 在機構資金回流下相對強，黃金則被更高實質利率與更強美元部分壓制，呈現「BTC 比黃金更像當前的替代避險 / 流動性資產」。
-- 指數內部仍是窄領導。AI 基建敘事主要靠 Nvidia 與大型平台資本支出支撐；若油價再次急升，廣度與 small caps 仍最脆弱。
-- 週二到週五的最佳基準情境不是單邊上漲，而是「FOMC 前後高波動、方向取決於 Fed 是否容忍能源造成的通膨二次壓力」。
+- 當前主導市場的不是單一 risk-on 敘事，而是「油價 shock 是否把 Fed 重新綁死在 higher-for-longer」這條主線。2026-03-16 的美股反彈更像油價暫時回落後的喘息，而不是風險完全解除。
+- 對本週剩餘交易日的核心判斷是：FOMC 決定這波 relief rally 能不能延續。若 Fed 對能源引發的通膨二次風險維持謹慎，美股與黃金都會受限，BTC 則有機會維持相對強勢。
+- `DXY` 目前是這份報告裡最不能輕忽的 cross-asset 變數。美元若續強，黃金與非美風險資產壓力會更大，高估值股票也更難舒服擴張；若美元在 FOMC 後回落，股票、BTC、黃金的壓力才會一起減輕。
+- 股票、BTC、黃金目前不是同步的。股票靠油價回落與 AI 敘事支撐，BTC 靠資金流與替代避險敘事偏強，黃金則被美元與實質利率壓住，沒有完整確認 risk-off。
+- 對未來 1 到 3 個美股交易日最乾淨的 setup 仍偏向 `BTC relative strength`；對本週剩餘交易日最值得追蹤的 equity 子主線則是 `AI infrastructure confirmation`。
 - 整體信心：中。
 
-## 3. 市場現在在交易什麼
+## 市場現在在交易什麼
 
-- `已實現催化`：美股在 2026-03-16 大幅反彈，主因是油價從盤中高點明顯回落。據 [AP](https://apnews.com/article/wall-street-stocks-dow-nasdaq-4113edc41a9e942a5a3d14851837f77b)，S&P 500 收 6,699.38、Nasdaq 收 22,374.18、Dow 收 46,946.41、Russell 2000 收 2,503.29，皆上漲；同時 WTI 從盤中逾 102 美元回落至接近 93 美元附近。`事實`
-- `市場等待中的事件`：Fed 已排定 [2026-03-17 至 2026-03-18 兩天 FOMC 會議](https://www.federalreserve.gov/newsevents/2026-march.htm)。市場真正要判斷的不是「這次會不會按兵不動」，而是 Fed 是否把能源 shock 視為對未來通膨與降息節奏的結構性干擾。`推論`
-- `背景脈絡`：2 月 CPI 仍偏黏，[BLS](https://www.bls.gov/news.release/archives/cpi_03112026.htm) 顯示 2026-02 CPI 月增 0.3%、年增 2.4%，核心 CPI 月增 0.2%、年增 2.5%；而 [2026-03-06 Census 零售銷售](https://www.census.gov/retail/sales.html) 顯示 2026-01 headline 月減 0.2%。這代表 growth 並不強，但 inflation 也沒有弱到足以讓 Fed 輕鬆轉鴿。`事實 + 判斷`
-- `傳導鏈`：伊朗戰事推升油價預期 -> 市場先重估通膨與 Fed 路徑 -> 美元與波動率抬升 -> 黃金不一定受惠，因為實質利率與美元同步壓制；但只要油價回檔、殖利率回落，股票會立刻出現 relief rally。這正是 2026-03-16 的定價機制。`判斷`
+- `已實現催化`：[Barron's](https://www.barrons.com/livecoverage/stock-market-news-today-031626/card/the-dow-rises-nearly-400-points-after-oil-falls-5--wgD3vSaApRdHttMfowEk) 與 [AP](https://apnews.com/article/4113edc41a9e942a5a3d14851837f77b) 顯示 2026-03-16 美股上漲，背後最直接的驅動是 WTI 單日大跌約 5%，回到 93.50 美元附近。`事實`
+- `市場等待中的事件`：[Fed Calendar](https://www.federalreserve.gov/newsevents/2026-march.htm) 顯示 FOMC 會議在 2026-03-17 至 2026-03-18 進行；[BLS PPI](https://www.bls.gov/ppi/) 顯示 2 月 PPI 也會在 2026-03-18 08:30 ET 發布。市場等的是 Fed 會不會因能源風險而更不願鬆口。`事實 + 推論`
+- `背景脈絡`：[BLS CPI](https://www.bls.gov/news.release/archives/cpi_03112026.htm) 顯示 2 月 CPI 月增 0.3%、年增 2.4%，核心 CPI 月增 0.2%、年增 2.5%；[Census retail sales](https://www.census.gov/retail/sales.html) 顯示 1 月零售銷售月減 0.2%。也就是說，經濟沒有熱到必須再收緊，但通膨也沒弱到足以讓 Fed 快速轉鴿。`事實`
+- `傳導鏈`：地緣風險推升油價與通膨擔憂 -> 美元與實質利率受支撐 -> 黃金漲不順、高估值資產擴張受限 -> 只要油價回落，股票先彈；而 BTC 因機構流入與另類避險敘事，暫時比黃金更能吃到資金。`判斷`
 
-## 4. 大市
+## 大市
 
-- [AP 2026-03-16 收盤](https://apnews.com/article/wall-street-stocks-dow-nasdaq-4113edc41a9e942a5a3d14851837f77b)：S&P 500 +1.0% 至 6,699.38，Dow +0.8% 至 46,946.41，Nasdaq +1.2% 至 22,374.18，Russell 2000 +0.9% 至 2,503.29。這是「油價暫降」帶來的跨資產 relief，而非新的成長上修。
-- 利率面仍不算寬鬆。[Fed H.15](https://www.federalreserve.gov/releases/h15/) 最新可得官方資料（截至 2026-03-11）顯示 2Y 約 3.57%、10Y 約 4.15%、10Y TIPS 約 1.82%。這個組合代表名目利率沒有失控，但實質利率仍偏高，對長久期與黃金都不是純利多。
-- 波動率並未回到舒適區。[Cboe](https://www.cboe.com/tradable-products/vix) 官方頁面顯示 2026-03-11 VIX spot 為 24.23；而 [Investopedia 對 2026-03-03 的市場回顧](https://www.investopedia.com/wall-street-fear-index-jumped-what-that-means-for-your-money-vix-volatility-11918291) 指出 VIX 當天一度衝到 28.15、收在 23.57。我的判斷是：市場已從 panic peak 回落，但仍處在「任何新 headline 都能重燃 hedging」的區間。
-- 美元仍偏強。雖然開放網頁受限，但 [Barron's 2026-03-16 live coverage 摘要](https://www.barrons.com/livecoverage/stock-market-news-today-031626/card/u-s-dollar-stays-close-to-9-month-high-as-oil-price-remains-elevated-XNKSCdwaMnYLOgYPtRnb) 顯示 DXY 約在 100.34 附近，貼近九個月高位。這與更高能源價格、避險美元需求、以及降息預期被往後推是一致的。
-- 市場廣度與韌性判斷：目前是「大盤可反彈、但結構仍脆」。Nasdaq 的韌性主要靠 AI 基建鏈；Russell 雖週一跟漲，但若油價再衝、10Y 再上行，小型股與內需敏感股的承受力仍最低。
+- [AP](https://apnews.com/article/4113edc41a9e942a5a3d14851837f77b) 顯示 2026-03-16 收盤：S&P 500 +1.0% 至 6,699.38、Nasdaq +1.2% 至 22,374.18、Dow +0.8% 至 46,946.41、Russell 2000 +0.9% 至 2,503.29。這代表市場願意在油價回落時快速加回風險，但這種反彈目前仍高度 headline-sensitive。
+- [Fed H.15](https://www.federalreserve.gov/releases/h15/) 最新可得官方資料顯示 2Y 約 3.57%、10Y 約 4.15%、10Y TIPS 約 1.82%。名目殖利率不算失控，但實質利率仍高，這讓黃金和高久期成長資產都不能舒服地走單邊多頭。
+- `DXY / 美元`：[Fed H.10](https://www.federalreserve.gov/releases/h10/current/) 顯示 2026-03-09 美元廣義指數約 119.49；[Barron's](https://www.barrons.com/articles/gold-price-iran-war-trump-oil-de5f5806) 指出自 2026-02-27 戰事爆發以來，DXY 已上升約 2.3%。這說明美元現在同時吃到避險需求、油價衝擊下的通膨再定價、以及美國相對政策利差的支撐。
+- `DXY 的市場含義`：對未來 1 到 3 個美股交易日，如果美元續強，黃金更難成為乾淨避險，多數股票反彈也會被壓縮，尤其是小型股與高估值成長股；對 BTC 而言，美元續強 normally 不利，但這一輪若機構流持續，BTC 可能維持「逆 textbook」的相對韌性。
+- [Cboe VIX](https://www.cboe.com/tradable-products/vix) 與 [Investopedia 對 2026-03-03 的回顧](https://www.investopedia.com/wall-street-fear-index-jumped-what-that-means-for-your-money-vix-volatility-11918291) 顯示波動率雖自高點回落，但仍處於不低的位置，市場離 complacency 很遠。
+- 對未來 1 到 3 個美股交易日的判斷：指數有延續反彈的條件，但結構仍脆，前提是油價不再急升、DXY 不再快速走強、且 FOMC 不明顯更鷹。
+- 對本週剩餘交易日的判斷：方向偏中性略多，但更像高波動分化市，不是整體 broad-based bull move。
+- 廣度：仍偏有限，週一的反彈更像由 AI mega-cap 與風險敘事資產帶動，而不是全面 breadth expansion。
+- 領導：Nasdaq / AI 鏈與 crypto-linked beta 仍是主導；Russell 2000 只是跟漲，尚未證明自己能獨立領導。
+- 脆弱點 / 失效條件：若油價重新回到 100 上方、美元與 10Y TIPS 同步再上，這份偏多判斷會很快失效。
 
-## 5. 焦點個股
+## 焦點個股
 
-> 本期未指定個股。我選擇 `NVDA / META / MSTR`，因為它們分別對應目前最重要的三條市場主線：AI 基建需求、AI capex 現金流壓力、以及 BTC 機構化需求。
+> 未指定個股。本次仍選 6 檔最能代表本週主線的 driver：`NVDA / META / MU / MSTR / COIN / HOOD`。
 
 ### NVDA
 
-- `發生了什麼`：[NVIDIA 官方](https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026) 確認 GTC 2026 在 2026-03-16 至 2026-03-19 舉行，Jensen Huang 已在 2026-03-16 keynote。多家即時報導指出 Huang 將 Blackwell / Rubin 到 2027 年的需求展望上修到約 1 兆美元級別，例如 [Financial Times](https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0) 與 [Investor's Business Daily](https://www.investors.com/news/technology/nvidia-stock-nvda-gtc-2026-keynote/)。
-- `為什麼重要`：這不是單一公司故事，而是在回答市場最核心的問題: hyperscaler 與企業端 AI capex 能否跨過「回報率懷疑期」。若 Nvidia 能持續把敘事從 training 轉向 inference，整個半導體與電力 / 散熱 / 伺服器鏈就有續命效果。
-- `對大市的含義`：NVDA 強，代表 Nasdaq 的 duration 壓力可以被 growth narrative 對沖；但若市場開始質疑 1 兆美元需求只是遠期 wishful thinking，AI 鏈將從 leadership 變成拖累。
+- `發生了什麼`：[NVIDIA 官方](https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026) 顯示 GTC 2026 在 3/16-3/19 舉行；[Investor's Business Daily](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-stock-nvda/) 指出市場交易 Jensen Huang 提到的 AI 平台 backlog 與基建敘事。
+- `為什麼重要`：NVDA 仍是 AI capex 能否被市場繼續相信的總代理。
+- `對市場含義`：若 NVDA 撐住，Nasdaq 對利率與美元壓力的承受力會大很多；若 GTC 變成 sell-the-news，AI 鏈估值先鬆。
 
 ### META
 
-- `發生了什麼`：[Barron's](https://www.barrons.com/articles/nebius-stock-price-meta-platforms-ai-2e27cc72) 報導 Nebius 與 Meta 的 AI 算力合作可達 270 億美元級別；同日另有報導指向 [Meta 可能以裁員來對沖 AI 支出壓力](https://nypost.com/2026/03/16/business/meta-shares-jump-as-zuckerberg-reportedly-mulls-layoffs-to-offset-ai-spending/)。
-- `為什麼重要`：META 不只是 AI 受惠股，也是「AI 投資回報率」的壓力測試。當平台股需要同時維持廣告現金流、推高 capex、又靠 cost cuts 維持利潤率，這說明市場願意容忍支出，但容忍的前提是效率敘事不能破。
-- `對大市的含義`：META 若能在高 capex 下仍穩住 EPS 框架，會支撐整個 mega-cap 科技估值；反之，若市場開始把它視為「燒錢換敘事」，那不只拖累社群平台，也會反噬整體 AI capex multiple。
+- `發生了什麼`：[Barron's](https://www.barrons.com/articles/nebius-stock-price-meta-platforms-ai-2e27cc72) 聚焦其 AI 算力支出與合作規模。
+- `為什麼重要`：META 是「大型平台現金流能否承接持續高 capex」的壓力測試。
+- `對市場含義`：若 META 穩，代表市場仍接受 AI 支出是必要投資；若不穩，平台估值會先被打折。
+
+### MU
+
+- `發生了什麼`：[Micron 官方](https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-second-quarter-results-march-18) 顯示財報在 3/18；[MarketWatch](https://www.marketwatch.com/livecoverage/nvidia-gtc-2026-stock-jensen-huang-keynote-ai-rubin/card/micron-s-stock-rises-after-the-company-cheers-an-nvidia-memory-milestone-bQrcFYXcPw9pyVhPasXf) 指出 Micron 對 Nvidia 記憶體平台里程碑的正面更新。
+- `為什麼重要`：MU 決定 AI 需求是否已從 GPU 外溢到記憶體與更完整的硬體 stack。
+- `對市場含義`：若 MU 也強，AI rally 更健康；若 MU 弱，代表 AI 仍只是少數龍頭獨撐。
 
 ### MSTR
 
-- `發生了什麼`：[Strategy 官方 2026-03-09 8-K](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) 顯示公司再買入 17,994 枚 BTC，總持倉升至 738,731 枚。到 2026-03-16，市場又因 BTC 上行與額外買盤敘事推升相關概念股，[Barron's 摘要](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb) 指出 Strategy、Coinbase、Robinhood 等同步上漲。
-- `為什麼重要`：MSTR 是把 BTC 的價格波動與資本市場槓桿結構直接打包的股票化載體。只要 BTC 被視為替代避險與機構資產配置工具，MSTR 就會放大這個敘事。
-- `對大市的含義`：MSTR 強，通常意味市場願意承擔較高敘事風險與波動。它對傳統大盤本身的權重不如 NVDA / META，但對風險偏好指標意義很大。
+- `發生了什麼`：[Barron's](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb) 指出 Strategy 在 3/9-3/15 再買 22,337 枚 BTC；[Strategy 官方](https://www.strategy.com/press/strategy-acquires-17994-btc-and-now-holds-738731-btc_03-09-2026) 已在前一週確認持續加碼。
+- `為什麼重要`：MSTR 是 BTC equity beta 的放大器。
+- `對市場含義`：MSTR 強意味市場願意重新擁抱高波動敘事資產。
 
-## 6. BTC
+### COIN
 
-- 價格結構偏強。綜合 [Economic Times 2026-03-16](https://m.economictimes.com/markets/cryptocurrency/bitcoin-trades-near-73000-ethereum-around-2200-as-crypto-market-awaits-macro-cues/articleshow/129602858.cms) 與 [WSJ 摘要](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/bitcoin-hits-highest-price-in-over-a-month-zR7RPcj5A0kB0iXX4IdU)，BTC 已回到約 73,000 至 74,000 美元區間，創一個多月高點。
-- 資金面支持仍在。[CoinShares 2026-03-09 週報](https://coinshares.com/insights/research-data/fund-flows-09-03-26/) 顯示數位資產投資產品單週流入 6.19 億美元，其中 BTC 流入 5.21 億美元。這是很重要的 `事實`：不是只有散戶反彈，而是有機構資金回流。
-- 傳導邏輯出現了與黃金不同的分化。通常美元偏強、實質利率偏高不利 BTC；但這次 BTC 仍能走強，顯示「機構配置回流 + 敘事資產偏好 + 地緣政治另類避險需求」暫時壓過 textbook 宏觀逆風。
-- 我的判斷是：BTC 現在更像高波動的宏觀替代資產，而不是純 beta。只要 FOMC 沒有把市場帶回更硬的 higher-for-longer，BTC 對風險資產的相對強勢可延續；反之，一旦美元與實質利率再抽高，BTC 仍會先被迫去槓桿。
+- `發生了什麼`：[Barron's](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb) 指出 BTC 反彈時 Coinbase 同步受惠。
+- `為什麼重要`：COIN 除了吃幣價，也吃交易量與市場參與度。
+- `對市場含義`：COIN 若跟得上 BTC，代表這波不是只有被動配置，而是整體 crypto activity 回暖。
 
-## 7. 金價
+### HOOD
 
-- 配置資金的中期背景仍強。[World Gold Council](https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/03) 顯示 2026 年 2 月全球黃金 ETF 已連續第九個月淨流入，當月增加 53 億美元，全球持有量升至歷史高位。這代表結構性避險與官方 / 機構配置需求仍在。
-- 但短線價格不再單向受惠。根據 [Barron's 2026-03-16 摘要](https://www.barrons.com/articles/gold-price-iran-war-trump-oil-de5f5806)，金價當日跌約 0.6% 至每盎司 5,033.40 美元附近，原因是市場對更高油價帶來的通膨壓力、較強美元與較高利率路徑重新定價。
-- 也就是說，黃金當前是在兩股力量間拔河：一邊是地緣政治與 ETF / 儲備需求，另一邊是更高的實質利率與美元。短線後者暫時壓過前者，所以它沒有完全確認「risk-off」。
-- 我的判斷是：黃金中線仍有配置價值，但短線交易訊號不如 BTC 乾淨。若 FOMC 偏鷹、DXY 再上、10Y TIPS 上行，金價還可能繼續跑輸 BTC。
+- `發生了什麼`：[Barron's](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb) 與 [Reuters 摘要轉載](https://www.sahmcapital.com/news/content/buzz-robinhood-rallies-as-bitcoin-bounds-above-70000-2026-03-04) 都指向 Robinhood 與 BTC / crypto-beta 同步走強。
+- `為什麼重要`：HOOD 是散戶風險偏好、options 活動與 crypto 交易熱度的代理。
+- `對市場含義`：HOOD 若續強，代表風險偏好不只在機構，也開始回到散戶層。
 
-## 8. 分日 / 分階段路徑推演
+## BTC
 
-### 週二 2026-03-17
+- [WSJ](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/bitcoin-hits-highest-price-in-over-a-month-zR7RPcj5A0kB0iXX4IdU) 指出 2026-03-16 BTC 升逾 3%，創一個多月高點。
+- [CoinShares](https://coinshares.com/insights/research-data/fund-flows-09-03-26/) 顯示截至 2026-03-09 當週，數位資產投資產品淨流入 6.19 億美元，其中 BTC 佔 5.21 億美元。這代表反彈背後有真實機構流支持。
+- [Barron's](https://www.barrons.com/articles/strategy-coinbase-stock-robinhood-bitcoin-crypto-f3dda5eb) 將 BTC 近期上行與 Strategy 加碼、地緣避險與相關股票同步走強連起來，說明市場目前願意賦予 BTC 某種「高波動宏觀替代資產」身分。
+- 對未來 1 到 3 個美股交易日的判斷：若 FOMC 沒把美元與實質利率再推高，BTC 的相對強勢延續機率仍高。
 
-- `Base case`：市場進入 FOMC 前觀望，股指高位震盪，BTC 偏強但不追價，黃金偏弱整理。
-  - 觸發：油價沒有重回 100+，FOMC 前沒有額外地緣政治升級。
-  - 預期路徑：大盤橫盤偏強，NVDA / AI 鏈相對強，BTC 守住 72k-73k 上方，黃金續受壓。
-  - 失效條件：霍爾木茲供應受阻 headline 再起，或美元急升。
-- `Upside path`：若市場把週一油價回落視為風險高點已過，Nasdaq 延續反彈，BTC 測試更高區間。
-  - 觸發：油價續跌、殖利率續落、GTC 帶來 AI capex 信心。
-  - 失效條件：Fed 傳聲偏鷹或 NVDA 漲不動反成 sell-the-news。
-- `Downside path`：risk-off 回來，週一反彈被當成 bear-market bounce。
-  - 觸發：地緣政治 headline、油價急拉、DXY 上衝。
-  - 失效條件：油價被壓回且 VIX 不再抬升。
-- `主要催化`：[FOMC 兩天會議開始](https://www.federalreserve.gov/newsevents/2026-march.htm)。
+## 金價
 
-### 週三 2026-03-18
+- [World Gold Council](https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/03) 顯示 2026 年 2 月全球黃金 ETF 連續第九個月淨流入，增加 53 億美元。
+- 但 [Barron's](https://www.barrons.com/articles/gold-price-iran-war-trump-oil-de5f5806) 指出 2026-03-16 金價跌約 0.6% 至每盎司 5,033.40 美元，原因是更高油價帶來的通膨擔憂、較強美元與較高利率路徑重估。
+- 這說明黃金現在被兩股力量拉扯：一邊是避險 / 配置需求，另一邊是美元與實質利率。
+- 對本週剩餘交易日的判斷：黃金中期配置邏輯仍在，但短線交易訊號仍不如 BTC 乾淨；若 DXY 與 10Y TIPS 不回落，黃金難有漂亮延伸。
 
-- `Base case`：FOMC 按兵不動，但聲明與記者會維持謹慎，承認能源風險，避免明示近端降息。
-  - 觸發：Fed 不願因單月偏軟成長數據而忽略能源帶來的通膨風險。
-  - 預期路徑：大盤先上後下或先下後上，高波動；BTC 若 Fed 不夠鷹可續強；黃金表現取決於實質利率。
-  - 失效條件：Fed 比市場預期更鴿，明顯暗示恢復降息軌道。
-- `Upside path`：Fed 把能源 shock 描述為暫時性、點陣圖或記者會口風沒有更鷹。
-  - 觸發：市場重新 pricing 2026 下半年寬鬆空間。
-  - 預期路徑：美股特別是 Nasdaq 領漲，BTC 向上擴張，黃金止跌。
-  - 失效條件：10Y / DXY 不跌反升。
-- `Downside path`：Fed 強調通膨再風險，降息預期再往後推。
-  - 觸發：Powell 對能源傳導與二次效應更警惕。
-  - 預期路徑：大盤吐回、small caps 壓力最大、BTC 先被去槓桿、黃金未必受惠。
-  - 失效條件：市場忽略 Fed，轉而只交易油價回落。
-- `主要催化`：[FOMC 決議與記者會](https://www.federalreserve.gov/newsevents/2026-march.htm)、[BLS PPI 排程於 2026-03-18](https://www.bls.gov/schedule/2026/03_sched_list.htm)。
+## 分日 / 分階段路徑推演+推導解讀
 
-### 週四 2026-03-19
+### 週二 2026-03-17（美東週二）
 
-- `Base case`：FOMC 後市場進入二次消化，焦點從利率轉回油價與成長資料。
-  - 觸發：Fed 事件風險落地後，市場重新檢查「油價回落能否持續」。
-  - 預期路徑：指數分化，AI 鏈強於 cyclicals；BTC 保持高位震盪；黃金取決於美元是否回落。
-  - 失效條件：新的中東供應中斷消息打斷冷靜期。
-- `Upside path`：若 Fed 沒再打壓風險偏好，週四可能出現追價延伸。
-  - 觸發：10Y 下行、DXY 回落、VIX 續降。
-  - 預期路徑：Nasdaq 領漲，Russell 補漲，BTC 續強。
-  - 失效條件：大盤上漲但廣度未改善，顯示只是 mega-cap squeeze。
-- `Downside path`：FOMC 後的 hawkish reality 才真正反映到資產價格。
-  - 觸發：長端殖利率補漲、油價止跌回升。
-  - 預期路徑：股票回吐、BTC 回檔、黃金仍弱。
-  - 失效條件：美元不配合上漲。
-- `主要催化`：[Fed 開放董事會會議](https://www.federalreserve.gov/newsevents/2026-march.htm)、[Census 2026-03-19 新屋銷售 / 批發貿易排程](https://www.census.gov/economic-indicators/calendar-listview.html)。
+- `Base case`：FOMC 首日觀望盤，指數震盪偏強，AI / crypto 相對強，黃金偏弱整理。
+- `Upside path`：油價續跌、DXY 轉穩或回落、GTC 持續支撐 AI 情緒。
+- `Downside path`：地緣 headline 或美元急升，週一反彈被定義成暫時性 bounce。
+- `Main catalyst`：[FOMC 兩天會議開始](https://www.federalreserve.gov/newsevents/2026-march.htm)。
+- `推導解讀`：對未來 1 個美股交易日，市場更像是在等 Fed 與美元給方向。只要 DXY 不再加速，美股與 BTC 都能先守住相對強勢；若 DXY 繼續推升，黃金與股票都會重新變笨重。
 
-### 週五 2026-03-20
+### 週三 2026-03-18（美東週三）
 
-- `Base case`：高波動結算日，市場更看 flows 與 positioning，而不只是基本面。
-  - 觸發：3 月標準選擇權到期。
-  - 預期路徑：盤中振幅放大，若前半週已累積漲幅，較容易出現獲利了結；BTC 相對獨立，但若美股 risk-off 也會受牽連。
-  - 失效條件：前一日已完成大幅去槓桿，週五反而低波動。
-- `Upside path`：若 dealer gamma 轉鬆、油價續穩，結算後反而釋放上行空間。
-  - 觸發：波動率下降與 hedging 壓力解除。
-  - 預期路徑：S&P / Nasdaq 守住 FOMC 後漲幅，BTC 續向上試探。
-  - 失效條件：任何新的油價 / 戰事 headline。
-- `Downside path`：季度 OPEX 變成獲利了結與再對沖窗口。
-  - 觸發：週三後漲多、VIX 不降反升。
-  - 預期路徑：指數尾盤承壓、BTC 震盪加劇、黃金可能只出現防守性反彈而非趨勢重啟。
-  - 失效條件：資金明顯重新轉向 beta 追價。
-- `主要催化`：[Cboe 2026 選擇權到期日曆](https://cdn.cboe.com/resources/options/Cboe2026OPTIONSCalendar.pdf)、[BLS 排程的 Employer Costs for Employee Compensation 2026-03-20](https://www.bls.gov/schedule/2026/03_sched_list.htm)。
+- `Base case`：FOMC 按兵不動，但語氣偏謹慎，承認能源風險，避免過早打開降息大門。
+- `Upside path`：Fed 對能源衝擊的表述偏一次性，PPI 沒有嚇人，DXY 與實質利率回落。
+- `Downside path`：Fed 更鷹、PPI 偏強，美元與殖利率再上。
+- `Main catalyst`：[FOMC 決議與記者會](https://www.federalreserve.gov/newsevents/2026-march.htm)、[PPI](https://www.bls.gov/ppi/)。
+- `推導解讀`：對本週剩餘交易日，這是最關鍵的切換點。若美元在 Fed 後轉弱，黃金、股票、BTC 都能鬆口氣；若美元續強，則只有最強敘事資產有機會撐住。
 
-## 9. 關鍵監測清單
+### 週四 2026-03-19（美東週四）
 
-- [2026-03-17 至 2026-03-18 FOMC](https://www.federalreserve.gov/newsevents/2026-march.htm)：最重要的定價事件。
-- [2026-03-18 PPI](https://www.bls.gov/schedule/2026/03_sched_list.htm)：若能源向終端價格傳導超預期，市場會更鷹。
-- 伊朗 / 霍爾木茲 headline：比任何單一經濟數據都更能瞬間改變跨資產方向。
-- 油價能否重新站回 100 美元上方：這是 equity relief 是否失效的最直接門檻。
-- 10Y / 10Y TIPS：若名目利率與實質利率同步上行，股票與黃金都會再受壓。
-- DXY 是否穩守 100 上方：美元若續強，黃金與非美風險資產會更難做多。
-- NVDA 與 AI 鏈對 GTC 的反應：若 keynote 後無法延續，代表 AI capex 敘事可能短線見頂。
-- BTC 是否能穩住 72k-73k 區間：若跌破，代表其「另類避險」敘事暫時失效。
-- [CoinShares 資金流](https://coinshares.com/insights/research-data/fund-flows-09-03-26/) 與 ETF / ETP 後續更新：需確認機構資金是否持續支持 BTC。
-- [World Gold Council 黃金 ETF 流向](https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/03)：中期配置資金仍強，但短線價格與資金未必同步。
+- `Base case`：FOMC 後進入二次消化，市場轉向檢查 BOJ、油價、AI 鏈與資金流是否能支持前一日方向。
+- `Upside path`：DXY 與殖利率在 Fed 後同步回落，Nasdaq 與 BTC 續強，MU 財報提供側翼支撐。
+- `Downside path`：Fed 後 hawkish reality 反而在第二天才完整反映，風險資產普遍回吐。
+- `Main catalyst`：[BOJ Release Schedule](https://www.boj.or.jp/en/announcements/calendar/index.htm)、[Census 3/19 releases](https://www.census.gov/economic-indicators/calendar-listview.html)。
+- `推導解讀`：週四的關鍵是確認而不是首發。若 Fed 後的美元與利率反應被市場接受，風險資產方向會更乾淨；若市場仍反覆，代表本週還是 headline market。
 
-## 10. Bottom Line
+### 週五 2026-03-20（美東週五）
 
-- 主導方向偏向「事件驅動、高波動、暫時喘息中的脆弱市場」，不是乾淨 risk-on。
-- 現在最乾淨的 setup 是 `BTC relative strength`，因為它同時受惠於機構流入與替代避險敘事，而黃金仍受實質利率與美元壓制。
-- 美股 base case 仍是區間震盪偏上，但前提是油價不能重新失控，且 Fed 不能明顯比市場更鷹。
-- 最值得交易的 equity sub-theme 仍是 AI 基建鏈，核心觀察點是 NVDA 能否把 GTC 敘事轉成實際風險偏好延續，而不是 sell-the-news。
-- 黃金中期配置邏輯仍在，但短線交易訊號混雜，暫時不是最乾淨的戰場。
-- 最可能推翻 base case 的因素，是中東供應衝擊再升級，讓油價、美元、實質利率同時上行。
-- 這週最重要的不是單一價格點，而是市場在 `油價 shock` 與 `Fed 定價` 之間最後選哪一個作為主線。
+- `Base case`：季度 OPEX 放大既有方向，盤中波動大。
+- `Upside path`：若前半週已建立「油價穩住 + Fed 不更鷹 + DXY 不續強」共識，OPEX 後反而釋放上行空間。
+- `Downside path`：若前半週只是脆弱反彈，OPEX 會放大獲利了結與再對沖。
+- `Main catalyst`：[Cboe 2026 Options Calendar](https://cdn.cboe.com/resources/options/Cboe2026OPTIONSCalendar.pdf)。
+- `推導解讀`：週五不是單看新聞，而是看資金如何處理已建立的部位。這也是為什麼本週的 DXY 與 Fed 反應，比單一公司新聞更重要。
+
+## 今日熱點新聞
+
+### FOMC 會議開始
+
+- 日期：`2026-03-17 至 2026-03-18`
+- 來源(URL)：https://www.federalreserve.gov/newsevents/2026-march.htm
+- 重點：Fed 兩天會議開始，3/18 發聲明與記者會。
+- 為何市場在乎：這是本週所有風險資產最重要的定價事件。
+- 推導解讀：真正重要的不是「利率不動」本身，而是 Fed 怎麼談油價 shock、通膨風險與下半年路徑。
+
+### Fed closed board meeting 將討論貨幣政策議題
+
+- 日期：`2026-03-17`
+- 來源(URL)：https://www.federalreserve.gov/aboutthefed/boardmeetings/20260317closed.htm
+- 重點：3/17 closed board meeting 議程明列 `Discussion of Monetary Policy Issues`。
+- 為何市場在乎：這讓市場更願意放大閱讀任何政策語氣細節。
+- 推導解讀：當前環境下，政策錯誤代價高，因此任何微妙變化都會被跨資產快速吸收。
+
+### 美國 2 月 CPI 仍偏黏
+
+- 日期：`2026-03-11`
+- 來源(URL)：https://www.bls.gov/news.release/archives/cpi_03112026.htm
+- 重點：CPI 月增 `0.3%`、年增 `2.4%`；核心 CPI 月增 `0.2%`、年增 `2.5%`。
+- 為何市場在乎：這讓 Fed 沒有太多快速轉鴿的空間。
+- 推導解讀：搭配油價 shock，這組數據對 DXY 與實質利率都提供了底部支撐。
+
+### 美國 1 月 retail sales 月減
+
+- 日期：`2026-03-06`
+- 來源(URL)：https://www.census.gov/retail/sales.html
+- 重點：1 月 retail sales 月減 `0.2%`。
+- 為何市場在乎：消費韌性是美國企業盈餘與就業的重要支柱。
+- 推導解讀：這讓市場更不敢假設美國可以無限承受高油價與高利率。
+
+### 2 月 PPI 即將發布
+
+- 日期：`2026-03-18`
+- 來源(URL)：https://www.bls.gov/ppi/
+- 重點：2 月 PPI 將在 3/18 08:30 ET 公布。
+- 為何市場在乎：它會影響市場對 FOMC 語氣的解讀強度。
+- 推導解讀：若 PPI 偏強，美元與殖利率更容易被推高，黃金與股票一起受壓。
+
+### BOJ 會議與政策聲明在本週落地
+
+- 日期：`2026-03-18 至 2026-03-19`
+- 來源(URL)：https://www.boj.or.jp/en/announcements/calendar/index.htm
+- 重點：BOJ 會議在 3/18-3/19，政策聲明於 3/19。
+- 為何市場在乎：日圓與 carry trade 對全球風險資產流動性有外溢效果。
+- 推導解讀：若 BOJ 更偏正常化，全球高槓桿風險部位會更敏感。
+
+### Nvidia GTC 2026 進行中
+
+- 日期：`2026-03-16 至 2026-03-19`
+- 來源(URL)：https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026
+- 重點：GTC 聚焦 AI infrastructure、agentic systems、physical AI。
+- 為何市場在乎：它是 AI 產業鏈重新定價的舞台。
+- 推導解讀：若市場把 GTC 解讀成可量化 capex 延續，AI 鏈就能對沖部分宏觀逆風。
+
+### Micron 財報接棒驗證 AI 記憶體需求
+
+- 日期：`2026-03-18`
+- 來源(URL)：https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-second-quarter-results-march-18
+- 重點：Micron 財報在 3/18。
+- 為何市場在乎：這是檢驗 AI 需求是否從 GPU 外溢到記憶體的重要節點。
+- 推導解讀：若 MU 也能交出強訊號，AI rally 會更像板塊行情而不是單點行情。
+
+### BTC 投資產品恢復大額流入
+
+- 日期：`2026-03-09`
+- 來源(URL)：https://coinshares.com/insights/research-data/fund-flows-09-03-26/
+- 重點：單週數位資產投資產品淨流入 `US$619M`，其中 BTC `US$521M`。
+- 為何市場在乎：代表 BTC 上行背後有真實資金流支撐。
+- 推導解讀：這是 BTC 能逆著美元偏強仍維持相對韌性的核心理由之一。
+
+### Gold ETF 連續九個月淨流入
+
+- 日期：`2026-03-05`
+- 來源(URL)：https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/03
+- 重點：2 月全球黃金 ETF 流入 `US$5.3bn`，連續第九個月淨流入。
+- 為何市場在乎：中期配置需求仍然健康。
+- 推導解讀：黃金短線不強，不等於資金不在，而是時點被美元與實質利率壓住。
+
+### 美元自戰事爆發後顯著走強
+
+- 日期：`2026-03-16`
+- 來源(URL)：https://www.barrons.com/articles/gold-price-iran-war-trump-oil-de5f5806
+- 重點：Barron's 指出自 2/27 戰事爆發以來，DXY 已上升約 `2.3%`。
+- 為何市場在乎：這是目前壓住黃金、限制多數風險資產彈性的核心跨資產變數。
+- 推導解讀：只要 DXY 還在抬，市場就很難形成乾淨、全面的 risk-on。
+
+### 季度 OPEX 在 3/20
+
+- 日期：`2026-03-20`
+- 來源(URL)：https://cdn.cboe.com/resources/options/Cboe2026OPTIONSCalendar.pdf
+- 重點：Cboe 日曆顯示 3/20 為標準選擇權到期日。
+- 為何市場在乎：它會放大 dealer positioning 與再對沖流。
+- 推導解讀：這讓本週後半段的價格路徑不只取決於新聞，也取決於部位結構。
+
+## 關鍵監測清單
+
+- FOMC 語氣是否明顯偏向更長時間維持高利率。
+- 2 月 PPI 是否強化通膨再風險。
+- 油價能否重新站回 100 美元上方。
+- DXY 是否在 Fed 後續創高或至少維持強勢。
+- 10Y TIPS 是否再次走高。
+- BOJ 是否引發日圓與 carry trade 再定價。
+- NVDA / MU 是否共同確認 AI 鏈強勢。
+- BTC 能否穩守近一個月高位區。
+- COIN / HOOD / MSTR 是否持續確認風險偏好回暖。
+
+## Bottom Line
+
+- 對未來 1 到 3 個美股交易日，市場仍可維持偏反彈結構，但前提是油價與 DXY 不再同步上衝。
+- 對本週剩餘交易日，最核心的問題不是股票會不會漲，而是 Fed 與美元會不會容許這波反彈延續。
+- 目前最乾淨的交易 setup 仍是 `BTC relative strength`，其次是 `AI infrastructure confirmation`。
+- 黃金中期配置邏輯沒有壞，但短線仍被美元與實質利率壓制，暫時不是最好做的方向。
+- 這份 base case 最可能被推翻的情況，是油價、DXY、10Y TIPS 同時再上。
+- 真正重要的不是單一 headline，而是跨資產最後會選擇相信 `油價 / 通膨 / 美元再定價`，還是相信 `油價回落後的風險資產續彈`。

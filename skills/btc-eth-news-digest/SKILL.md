@@ -191,10 +191,11 @@ Before finalizing, verify:
 ### 11. Complete with git commit and push
 
 After writing the final report file:
-- Stage only the report file(s) created or updated by this run.
-- Create a non-interactive git commit automatically.
-- Push automatically to the default remote/branch for the current repo.
+- Stage only the output file(s) created or updated by this run.
+- Create a non-interactive git commit automatically for those output files.
+- Push automatically to the default remote/branch for the current repo after that output commit succeeds.
 - Do not ask the user again for commit/push confirmation if the user has already granted standing permission.
+- Do not automatically commit or push when the task is updating the skill itself, its references, templates, metadata, or other implementation files.
 - If commit or push fails, report the failure reason and current git status briefly.
 - Use a clear commit message that includes the report name and date, for example: `add btc-eth-news-digest 2026-03-17-00`.
 

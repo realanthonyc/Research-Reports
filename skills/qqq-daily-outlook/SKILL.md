@@ -173,10 +173,11 @@ File naming rules:
 The English file is the source-of-truth report. The Traditional Chinese file must be a full, natural, professional translation of the English markdown file rather than a separately rewritten variant.
 
 After writing the English and Traditional Chinese files:
-- Stage only the file(s) created or updated by this run.
-- Create a non-interactive git commit automatically.
-- Push automatically to the default remote/branch for the current repo.
+- Stage only the output file(s) created or updated by this run.
+- Create a non-interactive git commit automatically for those output files.
+- Push automatically to the default remote/branch for the current repo after that output commit succeeds.
 - If the user has already granted standing permission for commit/push, do not ask again before doing so.
+- Do not automatically commit or push when the task is updating the skill itself, its references, templates, metadata, or other implementation files.
 - If commit or push fails, report the failure reason and current git status briefly.
 - Use a clear commit message that includes the report date and sequence, for example: `add qqq daily outlook 2026-03-17-00`.
 

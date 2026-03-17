@@ -89,8 +89,9 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - When saving files, use the analysis date for `{YYYY-MM-DD}` unless the user explicitly requests a different report date.
 - Determine the next available `{NN}` by checking existing files for that date before writing new ones, so the English and Traditional Chinese pair always share the same sequence number.
 - In the final response, mention both file paths and summarize the macro regime briefly.
-- After writing the English and Traditional Chinese files, automatically stage only the files created or updated by this run, create a non-interactive git commit, and push to the default remote/branch.
+- After writing the English and Traditional Chinese report output files, automatically stage only the output files created or updated by this run, create a non-interactive git commit, and push to the default remote/branch.
 - If the user has already granted standing permission for commit/push, do not ask again before doing so.
+- Do not automatically commit or push when the task is updating the skill itself, its references, templates, metadata, or other implementation files.
 - If commit or push fails, report the failure reason and current git status briefly.
 - Use a clear commit message that includes the report date and sequence, for example: `add macro intelligence report 2026-03-17-00`.
 - The summary sections must explicitly cover:

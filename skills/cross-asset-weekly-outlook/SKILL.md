@@ -170,7 +170,7 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 
 ## 完成後處理
 
-- 完成報告與相關輸出後，自動以非互動方式建立 git commit 並 push 到預設遠端；除非使用者明確要求不要 commit 或不要 push。
+- 完成報告與相關輸出檔後，自動只針對該次產出的 output files 以非互動方式建立 git commit 並 push 到預設遠端；除非使用者明確要求不要 commit 或不要 push。
 - commit / push 前僅納入本次任務直接產生或修改的相關檔案，避免混入無關變更。
 - 使用者已明確授予 standing permission：對每次新產出的 outlook report，一律直接 commit 與 push，不需再次詢問。
 - 這個 standing permission 只適用於新產出的報告檔，不適用於 skill 本身、reference 檔、agents metadata 或其他非報告變更。

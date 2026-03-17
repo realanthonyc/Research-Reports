@@ -14,7 +14,11 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 1. Lock the analysis date and weekday
 - State the analysis date explicitly.
 - Convert relative references such as `today`, `this week`, `next week`, or `weekend` into absolute dates.
-- Determine the weekday and follow the correct scope ladder in `references/output-structure.md`.
+- Determine the weekday in both the user's timezone and `America/New_York`.
+- In the output header, explicitly write the U.S. market weekday, for example:
+  - `分析日期：2026-03-17`
+  - `分析範圍：2026-03-17 至 2026-03-20（美東週一收盤資料；美東週二至週五展望）`
+- Follow the correct scope ladder in `references/output-structure.md`, but anchor the horizon wording to the U.S. market calendar rather than only the local calendar.
 
 2. Gather current market evidence first
 - Always verify unstable facts with fresh web research before forming a view.
@@ -24,6 +28,7 @@ Always investigate current facts first, then build explicit causal reasoning, sc
   - focus stocks explicitly named by the user; if none are named, select the most relevant market leaders or current tape drivers and say why
   - `BTC`
   - gold
+- Also gather a ranked list of the most valuable current and near-term market news items that must later feed the `今日熱點新聞` section.
 - For each unstable fact, prefer same-day or latest-available sourcing and time-stamp the datapoint when useful.
 
 3. Rank the drivers before discussing prices
@@ -76,18 +81,29 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 - Prefer primary or high-authority sources first: official economic releases, central banks, Treasury/Fed communications, company filings or IR releases, major exchanges, ETF sponsors, and high-quality financial media for context.
 - If the user names specific focus stocks, research those first; otherwise infer the relevant leaders from the current tape and explain the choice.
 - Treat `BTC` and gold as macro assets, not isolated tickers. Interpret them through real yields, dollar direction, liquidity, positioning, ETF flow or institutional demand when relevant.
+- Treat `DXY` as a required analytical pillar, not a side datapoint. Do not merely quote the level:
+  - state the latest level or recent directional move
+  - explain what is driving it: rate differentials, oil shock, safe-haven demand, growth divergence, or policy repricing
+  - explain what the current DXY behavior implies for equities, BTC, and gold
+  - state whether DXY is confirming or contradicting the broader regime
 - Separate what already happened from what the market is waiting for next.
 - If the evidence is conflicting, say so directly and lower confidence instead of forcing a false narrative.
 
 ## Focus-Stock Rules
 
 - If the user provides a list of focus stocks, analyze those exact names.
-- If not, choose a small set of current drivers, usually 3 to 6 names.
+- If the user provides fewer than 6 names, you may add more relevant names so that the section is not too thin, but keep the user-specified names first.
+- If the user does not provide names, choose at least 6 current drivers.
 - Prefer names that materially influence index tone, sector leadership, AI / semiconductor sentiment, consumer risk appetite, or macro sensitivity.
 - For each stock, answer:
   - what happened
   - why it matters beyond the single name
   - whether it confirms or contradicts the broader market regime
+- When no names are specified, prefer a diversified basket across at least 3 distinct market roles, for example:
+  - index-heavy AI / semis
+  - mega-cap platforms or software
+  - macro-sensitive cyclicals / financials / consumer
+  - crypto-linked or commodity-linked expressions when relevant
 
 ## BTC And Gold Rules
 
@@ -109,6 +125,32 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 - Use compact sections and high-signal bullets, but keep causal reasoning explicit.
 - Include source links for major factual claims.
 - Include concrete dates rather than vague time references.
+- Do not number the first-level output section titles. Use plain markdown headings such as `## 標題與日期`, `## 核心判斷`, `## 大市`, and so on.
+- Whenever you make a directional or structural judgment, explicitly state the applicable time span, for example:
+  - `對未來 1 到 3 個美股交易日的判斷`
+  - `對本週剩餘交易日的判斷`
+  - `對未來 1 到 4 週的中短線判斷`
+- Do not write vague lines such as `可以反彈，但結構仍脆` without specifying whether that refers to the next session, the rest of the week, or a multi-week horizon.
+- In the `大市` section, always include a distinct `DXY` bullet or paragraph and a final judgment block that specifies:
+  - the time span of the judgment
+  - directional bias
+  - breadth / leadership condition
+  - fragility or invalidation trigger
+- In section `8. 分日 / 分階段路徑推演+推導解讀`, be more explicit than before:
+  - not only path and catalyst, but also explain why that path is the most coherent read of the current cross-asset evidence
+  - tie the path back to rates, dollar, positioning, sector leadership, BTC, and gold
+  - make the path readable as trading intelligence, not a bare scenario list
+- Add a new section `9. 今日熱點新聞` immediately after section `8`.
+  - Include at least 10 news items.
+  - The section must be proactively researched each time; do not reuse stale template items.
+  - Items may include newly released data, company events, geopolitical developments, policy events, central-bank meetings, upcoming macro releases, or other market-moving expectations that matter for this report.
+  - For each item, include:
+    - `日期`
+    - `來源(URL)`
+    - `重點`
+    - `為何市場在乎`
+    - `推導解讀`
+  - Prioritize signal over volume. The 10+ items should be the most decision-useful developments for the current outlook horizon.
 - If the user wants a chat answer only, keep the same structure without writing files.
 - Default to file output.
 - Save reports in `/reports/outlooks`.
@@ -121,7 +163,8 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 
 - 完成報告與相關輸出後，自動以非互動方式建立 git commit 並 push 到預設遠端；除非使用者明確要求不要 commit 或不要 push。
 - commit / push 前僅納入本次任務直接產生或修改的相關檔案，避免混入無關變更。
-- 若使用者已明確授予 standing permission，執行 commit / push 時不需再次詢問。
+- 使用者已明確授予 standing permission：對每次新產出的 outlook report，一律直接 commit 與 push，不需再次詢問。
+- 這個 standing permission 只適用於新產出的報告檔，不適用於 skill 本身、reference 檔、agents metadata 或其他非報告變更。
 - commit message 應清楚描述報告日期與序號，例如：`add cross-asset weekly outlook 2026-03-17-00`。
 - push 預設使用目前分支與其對應遠端；若 push 失敗，需回報失敗原因與當前 git 狀態。
 

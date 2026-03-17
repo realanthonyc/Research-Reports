@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cross-Asset Weekly Outlook"
+  short_description: "按星期幾輸出跨資產深度行情推演與展望"
+  default_prompt: "Use $cross-asset-weekly-outlook to deeply investigate the latest broad market, focus stocks, BTC, and gold, then produce the correct weekday-specific outlook with explicit reasoning, scenario analysis, and source-backed conclusions."

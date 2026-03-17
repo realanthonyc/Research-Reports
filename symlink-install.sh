@@ -10,6 +10,7 @@ CODEX_SKILLS_DIR="${CODEX_HOME_DIR}/skills"
 SKILLS=(
   "btc-eth-news-digest"
   "comprehensive-equity-research-analysis"
+  "cross-asset-weekly-outlook"
   "global-macro-intelligence"
   "qqq-daily-outlook"
 )

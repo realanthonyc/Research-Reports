@@ -167,6 +167,16 @@ Before finalizing, verify:
 - Translation QA: English and Traditional Chinese sections have identical facts, numbers, signs, links, and caveats.
 - Scope gate: every included item must pass `BTC-only`, `ETH-only`, `Both`, or `BTC/ETH-linked macro` classification.
 
+### 11. Complete with git commit and push
+
+After writing the final report file:
+- Stage only the report file(s) created or updated by this run.
+- Create a non-interactive git commit automatically.
+- Push automatically to the default remote/branch for the current repo.
+- Do not ask the user again for commit/push confirmation if the user has already granted standing permission.
+- If commit or push fails, report the failure reason and current git status briefly.
+- Use a clear commit message that includes the report name and date, for example: `add btc-eth-news-digest 2026-03-17-00`.
+
 ## Quality Rules
 
 - Cite every material claim with links.

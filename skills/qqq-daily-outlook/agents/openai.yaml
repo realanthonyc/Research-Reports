@@ -1,0 +1,4 @@
+interface:
+  display_name: "QQQ Daily Outlook"
+  short_description: "Latest QQQ session outlook with path, odds, and 0DTE risk framing."
+  default_prompt: "Use $qqq-daily-outlook to request my latest QQQ+VIX+DXY+10Y screenshot, determine the correct U.S. trading session from the current timing, search broadly for fresh macro/news catalysts plus upcoming scheduled events, and produce a probability-based QQQ 0DTE outlook for the active or next relevant session."

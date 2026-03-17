@@ -144,7 +144,7 @@ Always investigate current facts first, then build explicit causal reasoning, sc
   - directional bias
   - breadth / leadership condition
   - fragility or invalidation trigger
-- In section `8. 分日 / 分階段路徑推演+推導解讀`, be more explicit than before:
+- In section `分日 / 分階段路徑推演+推導解讀`, be more explicit than before:
   - not only path and catalyst, but also explain why that path is the most coherent read of the current cross-asset evidence
   - tie the path back to rates, dollar, positioning, sector leadership, BTC, and gold
   - make the path readable as trading intelligence, not a bare scenario list

@@ -3,6 +3,7 @@
 ## Default Structure (Trader-Optimized, Bilingual)
 
 Use this structure unless the user requests a different format.
+Keep first-level report section titles unnumbered.
 
 Always produce:
 1. English version

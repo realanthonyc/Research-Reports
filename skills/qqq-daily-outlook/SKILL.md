@@ -198,46 +198,48 @@ Then use exactly these main sections in the English master file:
 
 `QQQ Daily Outlook`
 
-`1. Market Environment`
+- Do not number the first-level report section titles. Use plain section names without prefixes like `1.` or `2.`.
+
+`Market Environment`
 - One-line risk regime: `risk-on / mixed / risk-off` with macro context.
 - Add 1-2 bullets explaining whether the tape is driven more by realized news, upcoming-event caution, or both.
 
-`2. Post-Open Direction Probability (Next 1-4 Hours)`
+`Post-Open Direction Probability (Next 1-4 Hours)`
 - `Bullish: X%`
 - `Bearish: Y%`
 - `Neutral/Chop: Z%`
 - Ensure percentages sum to 100%.
 - `Confidence: Low / Medium / High`
 
-`3. Expected Volatility`
+`Expected Volatility`
 - `Low / Normal / High`
 - `Estimated move: +-X%`
 - 1-2 short bullets for why.
 
-`4. Most Likely Intraday Path`
+`Most Likely Intraday Path`
 - One-line primary path scenario.
 - 3-5 bullets with confirmation, invalidation, and what would shift the market into the secondary scenario.
 
-`5. Key Levels`
+`Key Levels`
 - `Resistance`
 - `Support`
 - `Breakout level`
 - `Invalidation level`
 
-`6. 0DTE Options Implications`
+`0DTE Options Implications`
 - 3-6 bullets on call/put edge, theta burn risk, and continuation vs mean-reversion conditions.
 
-`7. Major Risks Today`
+`Major Risks Today`
 - 3-5 bullets (fake breakout, macro headline whipsaw, midday chop, late reversal).
 
-`8. Catalyst Snapshot (Web-Verified)`
+`Catalyst Snapshot (Web-Verified)`
 - Start with `Dominant Driver Today: ...`
 - 3-6 bullets on today's relevant macro/news catalysts.
 - Add source links inline.
 - If a Tier 1 macro release exists, the first catalyst bullet must cover it.
 - Include at least one bullet on an upcoming scheduled event if it is plausibly affecting positioning today.
 
-`9. Bottom Line`
+`Bottom Line`
 - 3-5 bullets with:
   - dominant probability bias
   - expected volatility
@@ -245,7 +247,7 @@ Then use exactly these main sections in the English master file:
   - what the market is actually trading (for example: growth scare, inflation scare, dovish relief, AI earnings offset, geopolitical risk-off)
   - how the next important macro/event risk could alter that view
 
-`10. Final Quick Summary`
+`Final Quick Summary`
 - 5-7 short bullets in English.
 - Cover: bias, volatility, path, key levels, invalidation, and main risk.
 - Make this section maximally fast-read and explicit.

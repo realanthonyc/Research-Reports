@@ -99,6 +99,7 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - what the market is now waiting for
 - how current pricing reflects or misreads those developments
 - your own forward judgment, not only balanced caveats
+- Keep first-level report section titles unnumbered. Use plain titles instead of prefixes like `1.` or `2.`.
 
 ## Evidence Priorities
 

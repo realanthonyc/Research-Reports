@@ -94,6 +94,7 @@ Also score each retained item explicitly:
 ### 5. Write the digest
 
 Use the output structure in `references/output-template.md`.
+Keep first-level report section titles unnumbered. Use plain section titles instead of prefixes like `1.` or `2.`.
 
 Start the English report with two summary sections before the development list:
 - `Detailed Summary`: a slower, clearer explanation of the most important logic, including at least one explicit judgment or forecast; explain harder concepts in simpler language when needed.

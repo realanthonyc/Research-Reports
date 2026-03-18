@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sector Company Discovery"
+  short_description: "Find and rank the best companies in a sector or theme."
+  default_prompt: "Use $sector-company-discovery to identify candidate public companies in a sector, industry, or theme, compare their business quality, valuation, financial strength, and resilience, and recommend the 1-3 most attractive names for deeper research in Chinese."

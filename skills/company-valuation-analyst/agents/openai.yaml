@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company Valuation Analyst"
+  short_description: "Cross-sector company valuation memo with scenario analysis."
+  default_prompt: "Use $company-valuation-analyst to evaluate whether a public company in any industry is overvalued or undervalued, identify what assumptions are already priced in, assess balance sheet and dilution or financing risk, and return a concise Chinese memo with bear/base/bull scenarios."

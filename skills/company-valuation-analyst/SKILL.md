@@ -80,7 +80,7 @@ Prioritize explicit assumptions, scenario-based fair value, balance-sheet-aware 
 3. If runway is below 12-18 months or leverage is clearly stressed, include financing risk in the base case by default unless there is a clearly funded path through the next major catalyst.
 4. Always discuss downside floor using net cash, asset value, normalized earnings power, or liquidation-like value where applicable.
 5. State missing data clearly instead of pretending precision.
-6. Use concise Chinese by default unless the user asks otherwise.
+6. Use Traditional Chinese by default unless the user asks otherwise.
 
 ## Script Usage
 
@@ -89,6 +89,9 @@ Prioritize explicit assumptions, scenario-based fair value, balance-sheet-aware 
 - Read [`references/scenario-guidelines.md`](references/scenario-guidelines.md) when choosing valuation methods or setting scenario logic by company type.
 - Read [`references/capital-structure-framework.md`](references/capital-structure-framework.md) when financing risk, dilution, debt, or liquidity is central to the thesis.
 - Read [`references/output-template.md`](references/output-template.md) when preparing the final memo structure.
+- Write the final report to `reports/research/company-valuation-analyst-{YYYY-MM-DD}-00.md`.
+- If a version for the same date already exists, increment the suffix to `-01`, `-02`, and so on.
+- After writing the report, stage the report file and push the commit to the current remote.
 
 ## Output
 
@@ -111,3 +114,4 @@ Use this section order unless the user asks for another format:
 - Make uncertainty explicit.
 - Treat low-confidence news as supporting color, not core valuation evidence.
 - Do not pretend a point estimate is more reliable than the inputs allow.
+- Save the report as Markdown and write it in Traditional Chinese.

@@ -62,3 +62,10 @@ Show `bear / base / bull` with:
 - Next catalyst
 - Financing risk
 - Evidence that would change the probability or peak-sales assumption
+
+## Delivery Rules
+
+- Write the report in Traditional Chinese.
+- Save it as a Markdown file in `reports/research/`.
+- Use the filename `company-valuation-analyst-{YYYY-MM-DD}-00.md`, or the next available suffix if that date already exists.
+- After saving the report, stage the report file and push the commit.

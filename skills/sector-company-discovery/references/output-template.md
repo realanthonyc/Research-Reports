@@ -19,6 +19,13 @@
 - define the 3-6 dimensions that matter most
 - explain why these dimensions matter
 
+## Recent Topics And Narratives
+
+- list the 1-3 most important recent topics affecting the sector
+- explain the market narrative around each topic
+- separate what happened from what the market believes happened
+- say whether the narrative is supported by primary sources or is still speculative
+
 ## Comparison Table
 
 Use a compact table with dimensions such as:
@@ -50,3 +57,10 @@ Use a compact table with dimensions such as:
 - say whether to use `company-valuation-analyst`
 - say whether to use `comprehensive-equity-research-analysis`
 - list the specific open questions to solve next
+
+## Delivery Rules
+
+- Write the report in Traditional Chinese.
+- Save it as a Markdown file in `reports/research/`.
+- Use the filename `sector-company-discovery-{YYYY-MM-DD}-00.md`, or the next available suffix if that date already exists.
+- After saving the report, stage the report file and push the commit.

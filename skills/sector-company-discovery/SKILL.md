@@ -1,6 +1,6 @@
 ---
 name: sector-company-discovery
-description: Discover, compare, and shortlist public companies within a sector, industry, theme, or candidate set. Use when the user wants to find the most attractive company in a space, identify which company is the most undervalued, most competitive, most resilient, or best positioned, or narrow a broad universe down to 1-3 names for deeper research by combining broad data gathering, financial statement reading, business-quality comparison, and valuation-aware filtering.
+description: Discover, compare, and shortlist public companies within a sector, industry, theme, or candidate set. Use when the user wants to find the most attractive company in a space, identify which company is the most undervalued, most competitive, most resilient, or best positioned, or narrow a broad universe down to 1-3 names for deeper research by combining broad data gathering, recent topic and narrative research, financial statement reading, business-quality comparison, and valuation-aware filtering.
 ---
 
 # Sector Company Discovery
@@ -49,12 +49,27 @@ Focus on narrowing the universe with evidence rather than writing a full deep-di
   - important customer / supplier / regulatory dependencies
 - Avoid relying only on summaries or secondary commentary when a core conclusion depends on a fact that can be checked in filings.
 
-5. Rank and reduce
+5. Research recent topics and narratives
+- Identify the most relevant recent topics in the sector and for each candidate:
+  - last 30-90 day earnings, guidance, or filing changes
+  - major product launches, partnerships, pricing changes, or contract wins/losses
+  - regulatory, policy, legal, or antitrust developments
+  - management commentary that changed market expectations
+  - conference, investor day, or keynote talking points
+  - analyst estimate revisions, target changes, or rating shifts when they help explain market repricing
+  - market narrative changes such as "AI capex", "pricing power", "China exposure", "demand normalization", or "margin reset"
+- Separate:
+  - what actually happened
+  - what the market seems to believe happened
+  - whether the narrative is supported by filings or still mostly speculative
+- Prefer primary sources for the facts, then use secondary sources only to map the narrative debate.
+
+6. Rank and reduce
 - Produce a ranked list or tiered shortlist.
 - Explain why the leading company wins on the criteria that matter most.
 - If no company is clearly attractive, say so.
 
-6. Hand off to deep research
+7. Hand off to deep research
 - For the final 1-3 names, state what should be researched next.
 - If one company clearly stands out, recommend using [`company-valuation-analyst`](../company-valuation-analyst/SKILL.md) or [`comprehensive-equity-research-analysis`](../comprehensive-equity-research-analysis/SKILL.md) for the next step.
 
@@ -66,7 +81,7 @@ Focus on narrowing the universe with evidence rather than writing a full deep-di
 4. Distinguish `facts`, `assumptions`, and `judgment`.
 5. If the companies serve different end-markets or use different business models, say how that reduces comparability.
 6. If the evidence is mixed, give a top tier instead of forcing a single winner.
-7. Use concise Chinese by default unless the user asks otherwise.
+7. Use Traditional Chinese by default unless the user asks otherwise.
 
 ## Comparison Framework Selection
 
@@ -74,6 +89,10 @@ Focus on narrowing the universe with evidence rather than writing a full deep-di
 - Read [`references/resilience-checklist.md`](references/resilience-checklist.md) when the user emphasizes defensiveness, survivability, or downside protection.
 - Read [`references/output-template.md`](references/output-template.md) when preparing the final shortlist memo.
 - Use [`scripts/rank_candidates.py`](scripts/rank_candidates.py) when deterministic scoring helps organize the shortlist.
+- Write the final report to `reports/research/sector-company-discovery-{YYYY-MM-DD}-00.md`.
+- If a version for the same date already exists, increment the suffix to `-01`, `-02`, and so on.
+- After writing the report, stage the report file and push the commit to the current remote.
+- Prioritize recent topics and narrative interpretation when they materially change the sector ranking.
 
 ## Output
 
@@ -95,3 +114,4 @@ Use this section order unless the user asks for something else:
 - Avoid fake precision in rankings.
 - If the ranking depends heavily on one uncertain assumption, say so clearly.
 - Prefer direct source-backed business understanding over polished market narratives.
+- Save the report as Markdown and write it in Traditional Chinese.

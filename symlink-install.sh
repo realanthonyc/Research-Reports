@@ -17,6 +17,7 @@ SKILLS=(
   "qqq-daily-outlook"
   "sector-company-discovery"
   "company-valuation-analyst"
+  "screening-compounders"
 )
 
 mkdir -p "${CODEX_SKILLS_DIR}"

@@ -18,6 +18,11 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - Actively search for the latest macro data, central-bank signals, market moves, and geopolitical developments before drawing conclusions.
 - Prefer primary and high-authority sources: official economic releases, central banks, Treasury/Fed/ECB/BOJ/PBOC communications, exchange or government data, then high-quality financial media for context.
 - Time-stamp unstable facts such as yields, DXY, futures pricing, ETF flows, and policy probabilities.
+- Actively investigate whether capital is leaving one part of the market and moving into another. Treat cross-asset flow migration as core evidence, not a side note.
+- Explicitly look for signs of `smart money` behavior:
+- where large allocators, institutions, or more informed participants appear to be adding risk
+- where they appear to be reducing exposure or hiding defensively
+- whether the move is showing up in ETF flows, credit spreads, Treasury demand, gold demand, sector rotation, defensive outperformance, BTC ETF flows, volatility term structure, or funding conditions
 - Build an `important happenings radar` every run:
 - `just happened`: what was released or said in the last 0-24 hours
 - `recent`: what still matters from the last 1-7 days
@@ -52,6 +57,11 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - For each asset bucket, explain why it is moving, not just how much it moved.
 - Treat liquidity as a first-order driver, not a side note. When possible, interpret reserves, reverse repo usage, Treasury General Account shifts, Fed balance-sheet change, bank-funding conditions, credit creation, and financial-conditions indexes together rather than discussing only QE/QT headlines.
 - Separate `market liquidity`, `policy liquidity`, and `funding stress`. Explain whether assets are reacting to easier financial conditions, balance-sheet expansion, reduced collateral stress, or merely lower rate expectations.
+- Add an explicit `capital rotation / flow migration` read:
+  - where money appears to be flowing out of
+  - where money appears to be flowing into
+  - whether the move looks like panic hedging, systematic de-risking, duration extension, beta chasing, defensive rotation, or accumulation by stronger hands
+- Do not just say `money moved to safety`. Identify the most credible destination, the likely reason, and whether that flow looks early, crowded, or still underappreciated.
 - Strengthen gold analysis specifically. Do not stop at "safe haven" or "inflation hedge"; explain gold through the interaction of real yields, dollar direction, central-bank buying, geopolitical hedging demand, reserve diversification, and growth scare dynamics.
 - When gold and real yields move in the same direction, explicitly explain the non-rate driver that is overpowering the usual relationship.
 
@@ -99,6 +109,8 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - what the market is now waiting for
 - how current pricing reflects or misreads those developments
 - your own forward judgment, not only balanced caveats
+- where capital appears to be flowing out of and into
+- what that suggests about `smart money` or higher-quality institutional positioning
 - Keep first-level report section titles unnumbered. Use plain titles instead of prefixes like `1.` or `2.`.
 
 ## Evidence Priorities
@@ -128,6 +140,13 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - Incorporate positioning when it changes the market response function.
 - Relevant inputs include `VIX`, options skew, CTA or trend-following dynamics if observable, ETF flows, speculative futures positioning, and credit-spread behavior.
 - Explain whether positioning is reinforcing or dampening the macro impulse.
+- Go beyond static positioning and ask whether capital is actively rotating:
+  - from cyclicals to defensives
+  - from equities to Treasuries
+  - from junk to quality credit
+  - from fiat-sensitive assets into gold or BTC
+  - from crowded winners into laggards, or vice versa
+- If the evidence is good enough, make a direct call on where `smart money` appears to be leaning and whether that flow confirms or contradicts the obvious macro narrative.
 
 ## Deliverable Checklist
 
@@ -138,6 +157,8 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - Rates, liquidity, FX, commodities, crypto, and credit connected
 - Forward risks and monitoring dashboard included
 - Positioning discussed
+- Capital rotation / flow migration discussed
+- Smart-money / institutional flow read included when evidence is sufficient
 - Causal chains made explicit
 - English Markdown report saved in `reports/macro/`
 - Traditional Chinese Markdown translation saved in `reports/macro/`

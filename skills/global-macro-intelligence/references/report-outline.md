@@ -57,6 +57,18 @@ Use this structure unless the user requests a shorter or differently formatted n
 - Synthesize the note into one coherent regime framework.
 - Explain how equities, rates, FX, commodities, credit, and crypto are confirming or contradicting each other.
 
+## Capital Rotation And Smart-Money Read
+- Identify where capital appears to be leaving and where it appears to be going.
+- Use the strongest available evidence: ETF flows, Treasury demand, sector rotation, credit quality preference, gold demand, BTC ETF flows, volatility structure, or funding stress.
+- Distinguish between:
+  - defensive hiding
+  - systematic de-risking
+  - duration extension
+  - beta chasing
+  - selective accumulation by stronger hands
+- State whether the flow picture confirms or contradicts the obvious macro narrative.
+- If the evidence is mixed, say so directly instead of forcing a “smart money” story.
+
 ## Forward-Looking Macro Risks And Opportunities
 - Identify the events or shocks most likely to change the regime.
 - For each, explain the probable transmission path through yields, dollar, liquidity, and risk assets.

@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "9e10b52c2ed8766d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a4dc27d6e2955f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "799246076b05aae5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de65bff177d83a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb54ba4f3946864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98dcf144866337c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d7ccc13b9a3f5753",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f9ec1227212f210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "295f94a00bb5d947",
+    "type": "split",
+    "children": [
+      {
+        "id": "55c20b9775cbf757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6a246f9128e445",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d6af0448b7c5b6c3",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-04 11.28.17.excalidraw.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "83179555a34dc7e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1697505eed3122ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-04 11.28.17.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2026-04-04 11.28.17.excalidraw"
+            }
+          },
+          {
+            "id": "8241a78252751efa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7d7ef84500fe3249",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "799246076b05aae5",
+  "lastOpenFiles": [
+    "reports/outlooks/cross-asset-weekly-outlook-2026-04-04-00.md",
+    "reports/macro/macro-intelligence-report-2026-04-04-00.md",
+    "reports/macro/macro-intelligence-report-2026-04-04-00-zh-tw.md",
+    "reports/crypto/btc-eth-news-digest-2026-04-04-00.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "202604041141.md",
+    "Untitled/Recording 20260404114409.m4a",
+    "Untitled/Recording 20260404114353.m4a",
+    "202604041032.md",
+    "202604041130.md",
+    "Untitled/Recording 20260404114214.m4a",
+    "Untitled/Recording 20260404114313.m4a",
+    "Untitled/Recording 20260404114305.m4a",
+    "Untitled",
+    "Untitled/Recording 20260404112949.m4a",
+    "Excalidraw/Drawing 2026-04-04 11.28.17.excalidraw.md",
+    "Excalidraw",
+    "202604040945.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 3.md",
+    "skills/future-demand-theme-discovery/references/methodology.md",
+    "skills/qqq-daily-outlook/SKILL.md",
+    "skills/company-valuation-analyst/references/capital-structure-framework.md",
+    "reports/outlooks/cross-asset-weekly-outlook-2026-03-21-00.md",
+    "reports/research/company-valuation-analyst-2026-03-21-01.md",
+    "reports/macro/macro-intelligence-report-2026-03-24-00.md",
+    "skills/comprehensive-equity-research-analysis/references/scoring-rubric.md",
+    "skills/comprehensive-equity-research-analysis/references/report-presentation-template.md",
+    "skills/comprehensive-equity-research-analysis/references/news-intelligence-framework.md",
+    "reports/research/comprehensive-research-intc-2026-03-07-00.md",
+    "reports/crypto/btc-eth-news-digest-2026-04-02-00.md",
+    "skills/sector-company-discovery/SKILL.md",
+    "Untitled Kanban 2.md"
+  ]
+}

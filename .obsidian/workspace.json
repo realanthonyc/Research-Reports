@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84a4dc27d6e2955f",
+        "id": "77a0ab9671972e5b",
         "type": "tabs",
         "children": [
           {
-            "id": "799246076b05aae5",
+            "id": "584853d94297732a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "295f94a00bb5d947",
@@ -195,8 +195,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "799246076b05aae5",
+  "active": "584853d94297732a",
   "lastOpenFiles": [
+    "reports/macro/macro-intelligence-report-2026-04-05-00-zh-tw.md",
     "reports/outlooks/cross-asset-weekly-outlook-2026-04-04-00.md",
     "reports/macro/macro-intelligence-report-2026-04-04-00.md",
     "reports/macro/macro-intelligence-report-2026-04-04-00-zh-tw.md",
@@ -231,7 +232,6 @@
     "skills/comprehensive-equity-research-analysis/references/news-intelligence-framework.md",
     "reports/research/comprehensive-research-intc-2026-03-07-00.md",
     "reports/crypto/btc-eth-news-digest-2026-04-02-00.md",
-    "skills/sector-company-discovery/SKILL.md",
-    "Untitled Kanban 2.md"
+    "skills/sector-company-discovery/SKILL.md"
   ]
 }

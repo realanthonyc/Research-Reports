@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77a0ab9671972e5b",
+        "id": "0c336512f65cae09",
         "type": "tabs",
         "children": [
           {
-            "id": "584853d94297732a",
+            "id": "13923c6164c31b26",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "584853d94297732a",
+  "active": "13923c6164c31b26",
   "lastOpenFiles": [
     "reports/macro/macro-intelligence-report-2026-04-05-00-zh-tw.md",
     "reports/outlooks/cross-asset-weekly-outlook-2026-04-04-00.md",

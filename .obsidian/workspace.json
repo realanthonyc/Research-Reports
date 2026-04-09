@@ -11,10 +11,14 @@
             "id": "670d873806b85b86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "reports/outlooks/cross-asset-weekly-outlook-2026-04-08-00.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cross-asset-weekly-outlook-2026-04-08-00"
             }
           }
         ]
@@ -197,6 +201,8 @@
   },
   "active": "670d873806b85b86",
   "lastOpenFiles": [
+    "reports/outlooks/qqq-daily-outlook-2026-03-27-00-zh-tw.md",
+    "reports/macro/macro-intelligence-report-2026-04-08-00-zh-tw.md",
     "reports/macro/macro-intelligence-report-2026-04-05-00-zh-tw.md",
     "reports/outlooks/cross-asset-weekly-outlook-2026-04-04-00.md",
     "reports/macro/macro-intelligence-report-2026-04-04-00.md",
@@ -230,8 +236,6 @@
     "skills/comprehensive-equity-research-analysis/references/scoring-rubric.md",
     "skills/comprehensive-equity-research-analysis/references/report-presentation-template.md",
     "skills/comprehensive-equity-research-analysis/references/news-intelligence-framework.md",
-    "reports/research/comprehensive-research-intc-2026-03-07-00.md",
-    "reports/crypto/btc-eth-news-digest-2026-04-02-00.md",
-    "skills/sector-company-discovery/SKILL.md"
+    "reports/research/comprehensive-research-intc-2026-03-07-00.md"
   ]
 }

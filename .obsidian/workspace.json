@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reports/outlooks/cross-asset-weekly-outlook-2026-04-08-00.md",
+                "file": "reports/outlooks/qqq-daily-outlook-2026-04-09-00-zh-tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cross-asset-weekly-outlook-2026-04-08-00"
+              "title": "qqq-daily-outlook-2026-04-09-00-zh-tw"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "670d873806b85b86",
   "lastOpenFiles": [
+    "reports/outlooks/cross-asset-weekly-outlook-2026-04-08-00.md",
     "reports/outlooks/qqq-daily-outlook-2026-03-27-00-zh-tw.md",
     "reports/macro/macro-intelligence-report-2026-04-08-00-zh-tw.md",
     "reports/macro/macro-intelligence-report-2026-04-05-00-zh-tw.md",
@@ -235,7 +236,6 @@
     "reports/macro/macro-intelligence-report-2026-03-24-00.md",
     "skills/comprehensive-equity-research-analysis/references/scoring-rubric.md",
     "skills/comprehensive-equity-research-analysis/references/report-presentation-template.md",
-    "skills/comprehensive-equity-research-analysis/references/news-intelligence-framework.md",
-    "reports/research/comprehensive-research-intc-2026-03-07-00.md"
+    "skills/comprehensive-equity-research-analysis/references/news-intelligence-framework.md"
   ]
 }

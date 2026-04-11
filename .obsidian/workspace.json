@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49d0c73f9a775416",
+        "id": "2c372b5562157067",
         "type": "tabs",
         "children": [
           {
-            "id": "670d873806b85b86",
+            "id": "e64f9612c8b7e24b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reports/outlooks/qqq-daily-outlook-2026-04-09-00-zh-tw.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "qqq-daily-outlook-2026-04-09-00-zh-tw"
+              "title": "New tab"
             }
           }
         ]
@@ -199,8 +195,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "670d873806b85b86",
+  "active": "d7ccc13b9a3f5753",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "reports/outlooks/cross-asset-weekly-outlook-2026-04-10-00.md",
+    "reports/crypto/btc-eth-news-digest-2026-04-10-00.md",
+    "reports/crypto/btc-eth-news-digest-2026-04-08-00.md",
+    "reports/macro/macro-intelligence-report-2026-04-10-00-zh-tw.md",
+    "reports/outlooks/qqq-daily-outlook-2026-04-09-00-zh-tw.md",
+    "reports/research/sector-company-discovery-2026-04-04-01.md",
+    "skills/comprehensive-equity-research-analysis/SKILL.md",
     "reports/outlooks/cross-asset-weekly-outlook-2026-04-08-00.md",
     "reports/outlooks/qqq-daily-outlook-2026-03-27-00-zh-tw.md",
     "reports/macro/macro-intelligence-report-2026-04-08-00-zh-tw.md",
@@ -211,7 +215,6 @@
     "reports/crypto/btc-eth-news-digest-2026-04-04-00.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Untitled.canvas",
     "Untitled.base",
     "202604041141.md",
     "Untitled/Recording 20260404114409.m4a",
@@ -228,14 +231,6 @@
     "202604040945.md",
     "Untitled Kanban.md",
     "Untitled Kanban 3.md",
-    "skills/future-demand-theme-discovery/references/methodology.md",
-    "skills/qqq-daily-outlook/SKILL.md",
-    "skills/company-valuation-analyst/references/capital-structure-framework.md",
-    "reports/outlooks/cross-asset-weekly-outlook-2026-03-21-00.md",
-    "reports/research/company-valuation-analyst-2026-03-21-01.md",
-    "reports/macro/macro-intelligence-report-2026-03-24-00.md",
-    "skills/comprehensive-equity-research-analysis/references/scoring-rubric.md",
-    "skills/comprehensive-equity-research-analysis/references/report-presentation-template.md",
-    "skills/comprehensive-equity-research-analysis/references/news-intelligence-framework.md"
+    "skills/future-demand-theme-discovery/references/methodology.md"
   ]
 }

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6202c941300dff53",
+        "id": "1c21efd8da0345d2",
         "type": "tabs",
         "children": [
           {
-            "id": "87d6b52a10b0e748",
+            "id": "b14a713f8c578b62",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -195,7 +195,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "87d6b52a10b0e748",
+  "active": "b14a713f8c578b62",
   "lastOpenFiles": [
     "Reports/Research Flow.md",
     "Skills/All Codex Skills/spreadsheet/references/examples/openpyxl/styling_spreadsheet.py",

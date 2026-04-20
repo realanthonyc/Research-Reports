@@ -13,6 +13,7 @@ SKILLS=(
   "btc-eth-news-digest"
   "comprehensive-equity-research-analysis"
   "cross-asset-weekly-outlook"
+  "daily-trading-insights"
   "global-macro-intelligence"
   "qqq-daily-outlook"
   "sector-company-discovery"

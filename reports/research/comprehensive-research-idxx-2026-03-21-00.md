@@ -1,23 +1,23 @@
 ---
-title: "IDEXX (IDXX) 綜合投資研究分析"
+title: IDEXX (IDXX) 綜合投資研究分析
 date: 2026-03-21
-report_type: "comprehensive-equity-research"
-source_skill: "comprehensive-equity-research-analysis"
-folder: "reports/research"
-language: "zh-TW"
+report_type: comprehensive-equity-research
+source_skill: comprehensive-equity-research-analysis
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/comprehensive-equity-research-analysis"
-  - "research-flow/study"
-  - "investing/equity-research"
+  - reports
+  - reports/research
+  - skills/comprehensive-equity-research-analysis
+  - research-flow/study
+  - investing/equity-research
 aliases:
-  - "IDXX 綜合投資研究"
-  - "IDEXX equity research"
-  - "comprehensive-research-idxx-2026-03-21-00"
-  - "IDEXX (IDXX) 綜合投資研究分析 - 2026-03-21"
+  - IDXX 綜合投資研究
+  - IDEXX equity research
+  - comprehensive-research-idxx-2026-03-21-00
+  - IDEXX (IDXX) 綜合投資研究分析 - 2026-03-21
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

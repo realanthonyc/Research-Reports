@@ -1,23 +1,23 @@
 ---
-title: "IDEXX (IDXX) 估值研究備忘錄"
+title: IDEXX (IDXX) 估值研究備忘錄
 date: 2026-03-21
-report_type: "company-valuation"
-source_skill: "company-valuation-analyst"
-folder: "reports/research"
-language: "zh-TW"
+report_type: company-valuation
+source_skill: company-valuation-analyst
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/company-valuation-analyst"
-  - "research-flow/study"
-  - "investing/valuation"
+  - reports
+  - reports/research
+  - skills/company-valuation-analyst
+  - research-flow/study
+  - investing/valuation
 aliases:
-  - "IDEXX 估值研究備忘錄"
-  - "IDXX valuation memo"
-  - "company-valuation-analyst-2026-03-21-00"
-  - "IDEXX (IDXX) 估值研究備忘錄 - 2026-03-21"
+  - IDEXX 估值研究備忘錄
+  - IDXX valuation memo
+  - company-valuation-analyst-2026-03-21-00
+  - IDEXX (IDXX) 估值研究備忘錄 - 2026-03-21
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[company-valuation-analyst]]"
 ---
 

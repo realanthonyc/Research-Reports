@@ -1,23 +1,23 @@
 ---
-title: "QQQ Daily Outlook"
+title: QQQ Daily Outlook
 date: 2026-03-18
-report_type: "qqq-daily-outlook"
-source_skill: "qqq-daily-outlook"
-folder: "reports/outlooks"
-language: "en"
+report_type: qqq-daily-outlook
+source_skill: qqq-daily-outlook
+folder: reports/outlooks
+language: en
 tags:
-  - "reports"
-  - "reports/outlooks"
-  - "skills/qqq-daily-outlook"
-  - "asset/qqq"
-  - "trading/0dte"
-  - "cadence/daily"
+  - reports
+  - reports/outlooks
+  - skills/qqq-daily-outlook
+  - asset/qqq
+  - trading/0dte
+  - cadence/daily
 aliases:
-  - "QQQ Daily Outlook"
-  - "qqq-daily-outlook-2026-03-18-00"
-  - "QQQ Daily Outlook - 2026-03-18"
+  - QQQ Daily Outlook
+  - qqq-daily-outlook-2026-03-18-00
+  - QQQ Daily Outlook - 2026-03-18
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[QQQ Daily Outlook]]"
 ---
 

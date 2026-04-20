@@ -1,22 +1,22 @@
 ---
-title: "Applied Optoelectronics 估值研究備忘錄"
+title: Applied Optoelectronics 估值研究備忘錄
 date: 2026-03-19
-report_type: "company-valuation"
-source_skill: "company-valuation-analyst"
-folder: "reports/research"
-language: "zh-TW"
+report_type: company-valuation
+source_skill: company-valuation-analyst
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/company-valuation-analyst"
-  - "research-flow/study"
-  - "investing/valuation"
+  - reports
+  - reports/research
+  - skills/company-valuation-analyst
+  - research-flow/study
+  - investing/valuation
 aliases:
-  - "Applied Optoelectronics 估值研究備忘錄"
-  - "company-valuation-analyst-2026-03-19-03"
-  - "Applied Optoelectronics 估值研究備忘錄 - 2026-03-19"
+  - Applied Optoelectronics 估值研究備忘錄
+  - company-valuation-analyst-2026-03-19-03
+  - Applied Optoelectronics 估值研究備忘錄 - 2026-03-19
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[company-valuation-analyst]]"
 ---
 

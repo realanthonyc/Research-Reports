@@ -1,22 +1,22 @@
 ---
-title: "電網 / AI 電力基礎設施候選股 Compounder 高標篩選"
+title: 電網 / AI 電力基礎設施候選股 Compounder 高標篩選
 date: 2026-03-22
-report_type: "compounder-screen"
-source_skill: "screening-compounders"
-folder: "reports/research"
-language: "zh-TW"
+report_type: compounder-screen
+source_skill: screening-compounders
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/screening-compounders"
-  - "research-flow/screening"
-  - "investing/compounders"
+  - reports
+  - reports/research
+  - skills/screening-compounders
+  - research-flow/screening
+  - investing/compounders
 aliases:
-  - "電網 / AI 電力基礎設施候選股 Compounder 高標篩選"
-  - "screening-compounders-2026-03-22-00"
-  - "電網 / AI 電力基礎設施候選股 Compounder 高標篩選 - 2026-03-22"
+  - 電網 / AI 電力基礎設施候選股 Compounder 高標篩選
+  - screening-compounders-2026-03-22-00
+  - 電網 / AI 電力基礎設施候選股 Compounder 高標篩選 - 2026-03-22
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[screening-compounders]]"
 ---
 

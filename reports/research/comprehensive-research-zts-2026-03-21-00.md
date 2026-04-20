@@ -1,23 +1,23 @@
 ---
-title: "Zoetis (ZTS) 綜合投資研究分析"
+title: Zoetis (ZTS) 綜合投資研究分析
 date: 2026-03-21
-report_type: "comprehensive-equity-research"
-source_skill: "comprehensive-equity-research-analysis"
-folder: "reports/research"
-language: "zh-TW"
+report_type: comprehensive-equity-research
+source_skill: comprehensive-equity-research-analysis
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/comprehensive-equity-research-analysis"
-  - "research-flow/study"
-  - "investing/equity-research"
+  - reports
+  - reports/research
+  - skills/comprehensive-equity-research-analysis
+  - research-flow/study
+  - investing/equity-research
 aliases:
-  - "ZTS 綜合投資研究"
-  - "Zoetis equity research"
-  - "comprehensive-research-zts-2026-03-21-00"
-  - "Zoetis (ZTS) 綜合投資研究分析 - 2026-03-21"
+  - ZTS 綜合投資研究
+  - Zoetis equity research
+  - comprehensive-research-zts-2026-03-21-00
+  - Zoetis (ZTS) 綜合投資研究分析 - 2026-03-21
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

@@ -1,23 +1,23 @@
 ---
-title: "Alphabet (GOOG) 綜合投資研究分析"
+title: Alphabet (GOOG) 綜合投資研究分析
 date: 2026-03-18
-report_type: "comprehensive-equity-research"
-source_skill: "comprehensive-equity-research-analysis"
-folder: "reports/research"
-language: "zh-TW"
+report_type: comprehensive-equity-research
+source_skill: comprehensive-equity-research-analysis
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/comprehensive-equity-research-analysis"
-  - "research-flow/study"
-  - "investing/equity-research"
+  - reports
+  - reports/research
+  - skills/comprehensive-equity-research-analysis
+  - research-flow/study
+  - investing/equity-research
 aliases:
-  - "GOOG 綜合投資研究"
-  - "Alphabet equity research"
-  - "comprehensive-research-goog-2026-03-18-00"
-  - "Alphabet (GOOG) 綜合投資研究分析 - 2026-03-18"
+  - GOOG 綜合投資研究
+  - Alphabet equity research
+  - comprehensive-research-goog-2026-03-18-00
+  - Alphabet (GOOG) 綜合投資研究分析 - 2026-03-18
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

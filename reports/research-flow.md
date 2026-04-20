@@ -21,16 +21,16 @@ related:
   - "[[BTC & ETH News Digest]]"
   - "[[QQQ Daily Outlook]]"
 ---
-
 **The Flow:**
 1. Discovery
 	- Upcoming Themes Discovery
+	- Daily Trading Insights
 2. Screening:
-	- sector-company-discovery
-	- screening-compounders
+	- Sector Company Discovery
+	- Screening Compounders
 3. Study:
-	- company-valuation-analyst
-	- comprehensive-equity-research-analysis
+	- Company Valuation Analyst
+	- Comprehensive Equity Research Analysis
 
 **Daily:**
 * Global Macro Intelligence
@@ -39,4 +39,3 @@ related:
 
 **Trading:**
 * QQQ Daily Outlook
-

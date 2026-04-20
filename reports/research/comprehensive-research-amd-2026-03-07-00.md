@@ -1,22 +1,22 @@
 ---
-title: "AMD 綜合股權投資研究報告"
+title: AMD 綜合股權投資研究報告
 date: 2026-03-07
-report_type: "comprehensive-equity-research"
-source_skill: "comprehensive-equity-research-analysis"
-folder: "reports/research"
-language: "zh-TW"
+report_type: comprehensive-equity-research
+source_skill: comprehensive-equity-research-analysis
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/comprehensive-equity-research-analysis"
-  - "research-flow/study"
-  - "investing/equity-research"
+  - reports
+  - reports/research
+  - skills/comprehensive-equity-research-analysis
+  - research-flow/study
+  - investing/equity-research
 aliases:
-  - "AMD 綜合股權投資研究報告"
-  - "comprehensive-research-amd-2026-03-07-00"
-  - "AMD 綜合股權投資研究報告 - 2026-03-07"
+  - AMD 綜合股權投資研究報告
+  - comprehensive-research-amd-2026-03-07-00
+  - AMD 綜合股權投資研究報告 - 2026-03-07
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

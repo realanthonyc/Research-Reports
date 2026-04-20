@@ -1,22 +1,22 @@
 ---
-title: "AI 版塊公司篩選報告"
+title: AI 版塊公司篩選報告
 date: 2026-03-19
-report_type: "sector-company-discovery"
-source_skill: "sector-company-discovery"
-folder: "reports/research"
-language: "zh-TW"
+report_type: sector-company-discovery
+source_skill: sector-company-discovery
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/sector-company-discovery"
-  - "research-flow/screening"
-  - "investing/equities"
+  - reports
+  - reports/research
+  - skills/sector-company-discovery
+  - research-flow/screening
+  - investing/equities
 aliases:
-  - "AI 版塊公司篩選報告"
-  - "sector-company-discovery-2026-03-19-00"
-  - "AI 版塊公司篩選報告 - 2026-03-19"
+  - AI 版塊公司篩選報告
+  - sector-company-discovery-2026-03-19-00
+  - AI 版塊公司篩選報告 - 2026-03-19
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[sector-company-discovery]]"
 ---
 

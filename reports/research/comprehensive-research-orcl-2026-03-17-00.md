@@ -1,22 +1,22 @@
 ---
-title: "Oracle 綜合投資研究分析"
+title: Oracle 綜合投資研究分析
 date: 2026-03-17
-report_type: "comprehensive-equity-research"
-source_skill: "comprehensive-equity-research-analysis"
-folder: "reports/research"
-language: "zh-TW"
+report_type: comprehensive-equity-research
+source_skill: comprehensive-equity-research-analysis
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/comprehensive-equity-research-analysis"
-  - "research-flow/study"
-  - "investing/equity-research"
+  - reports
+  - reports/research
+  - skills/comprehensive-equity-research-analysis
+  - research-flow/study
+  - investing/equity-research
 aliases:
-  - "Oracle 綜合投資研究分析"
-  - "comprehensive-research-orcl-2026-03-17-00"
-  - "Oracle 綜合投資研究分析 - 2026-03-17"
+  - Oracle 綜合投資研究分析
+  - comprehensive-research-orcl-2026-03-17-00
+  - Oracle 綜合投資研究分析 - 2026-03-17
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

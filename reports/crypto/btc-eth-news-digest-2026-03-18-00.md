@@ -1,24 +1,24 @@
 ---
-title: "BTC & ETH News Digest (last 24 hours)"
+title: BTC & ETH News Digest (last 24 hours)
 date: 2026-03-18
-report_type: "crypto-news-digest"
-source_skill: "btc-eth-news-digest"
-folder: "reports/crypto"
-language: "en"
+report_type: crypto-news-digest
+source_skill: btc-eth-news-digest
+folder: reports/crypto
+language: en
 tags:
-  - "reports"
-  - "reports/crypto"
-  - "skills/btc-eth-news-digest"
-  - "asset-class/crypto"
-  - "asset/btc"
-  - "asset/eth"
-  - "cadence/daily"
+  - reports
+  - reports/crypto
+  - skills/btc-eth-news-digest
+  - asset-class/crypto
+  - asset/btc
+  - asset/eth
+  - cadence/daily
 aliases:
-  - "BTC & ETH News Digest (last 24 hours)"
-  - "btc-eth-news-digest-2026-03-18-00"
-  - "BTC & ETH News Digest (last 24 hours) - 2026-03-18"
+  - BTC & ETH News Digest (last 24 hours)
+  - btc-eth-news-digest-2026-03-18-00
+  - BTC & ETH News Digest (last 24 hours) - 2026-03-18
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[BTC & ETH News Digest]]"
 ---
 

@@ -1,22 +1,22 @@
 ---
-title: "全球總體情報"
+title: 全球總體情報
 date: 2026-04-05
-report_type: "global-macro-intelligence"
-source_skill: "global-macro-intelligence"
-folder: "reports/macro"
-language: "zh-TW"
+report_type: global-macro-intelligence
+source_skill: global-macro-intelligence
+folder: reports/macro
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/macro"
-  - "skills/global-macro-intelligence"
-  - "asset-class/macro"
-  - "cadence/daily"
+  - reports
+  - reports/macro
+  - skills/global-macro-intelligence
+  - asset-class/macro
+  - cadence/daily
 aliases:
-  - "全球總體情報"
-  - "macro-intelligence-report-2026-04-05-00-zh-tw"
-  - "全球總體情報 - 2026-04-05"
+  - 全球總體情報
+  - macro-intelligence-report-2026-04-05-00-zh-tw
+  - 全球總體情報 - 2026-04-05
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[Global Macro Intelligence]]"
 ---
 

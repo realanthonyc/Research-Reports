@@ -1,22 +1,22 @@
 ---
-title: "全球總經情報告"
+title: 全球總經情報告
 date: 2026-03-23
-report_type: "global-macro-intelligence"
-source_skill: "global-macro-intelligence"
-folder: "reports/macro"
-language: "zh-TW"
+report_type: global-macro-intelligence
+source_skill: global-macro-intelligence
+folder: reports/macro
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/macro"
-  - "skills/global-macro-intelligence"
-  - "asset-class/macro"
-  - "cadence/daily"
+  - reports
+  - reports/macro
+  - skills/global-macro-intelligence
+  - asset-class/macro
+  - cadence/daily
 aliases:
-  - "全球總經情報告"
-  - "macro-intelligence-report-2026-03-23-00-zh-tw"
-  - "全球總經情報告 - 2026-03-23"
+  - 全球總經情報告
+  - macro-intelligence-report-2026-03-23-00-zh-tw
+  - 全球總經情報告 - 2026-03-23
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[Global Macro Intelligence]]"
 ---
 

@@ -1,23 +1,23 @@
 ---
-title: "QQQ 每日展望 - 2026-04-09-00"
+title: QQQ 每日展望 - 2026-04-09-00
 date: 2026-04-09
-report_type: "qqq-daily-outlook"
-source_skill: "qqq-daily-outlook"
-folder: "reports/outlooks"
-language: "zh-TW"
+report_type: qqq-daily-outlook
+source_skill: qqq-daily-outlook
+folder: reports/outlooks
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/outlooks"
-  - "skills/qqq-daily-outlook"
-  - "asset/qqq"
-  - "trading/0dte"
-  - "cadence/daily"
+  - reports
+  - reports/outlooks
+  - skills/qqq-daily-outlook
+  - asset/qqq
+  - trading/0dte
+  - cadence/daily
 aliases:
-  - "QQQ 每日展望 - 2026-04-09-00"
-  - "qqq-daily-outlook-2026-04-09-00-zh-tw"
-  - "QQQ 每日展望 - 2026-04-09-00 - 2026-04-09"
+  - QQQ 每日展望 - 2026-04-09-00
+  - qqq-daily-outlook-2026-04-09-00-zh-tw
+  - QQQ 每日展望 - 2026-04-09-00 - 2026-04-09
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[QQQ Daily Outlook]]"
 ---
 

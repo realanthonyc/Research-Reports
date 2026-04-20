@@ -1,22 +1,22 @@
 ---
 title: "Screening Compounders: healthcare + biotech + medicine"
 date: 2026-03-21
-report_type: "compounder-screen"
-source_skill: "screening-compounders"
-folder: "reports/research"
-language: "zh-TW"
+report_type: compounder-screen
+source_skill: screening-compounders
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/screening-compounders"
-  - "research-flow/screening"
-  - "investing/compounders"
+  - reports
+  - reports/research
+  - skills/screening-compounders
+  - research-flow/screening
+  - investing/compounders
 aliases:
   - "Screening Compounders: healthcare + biotech + medicine"
-  - "screening-compounders-2026-03-21-00"
+  - screening-compounders-2026-03-21-00
   - "Screening Compounders: healthcare + biotech + medicine - 2026-03-21"
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[screening-compounders]]"
 ---
 

@@ -1,22 +1,22 @@
 ---
-title: "Cross-Asset Weekly Outlook"
+title: Cross-Asset Weekly Outlook
 date: 2026-04-12
-report_type: "cross-asset-outlook"
-source_skill: "cross-asset-weekly-outlook"
-folder: "reports/outlooks"
-language: "zh-TW"
+report_type: cross-asset-outlook
+source_skill: cross-asset-weekly-outlook
+folder: reports/outlooks
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/outlooks"
-  - "skills/cross-asset-weekly-outlook"
-  - "asset-class/cross-asset"
-  - "cadence/weekly"
+  - reports
+  - reports/outlooks
+  - skills/cross-asset-weekly-outlook
+  - asset-class/cross-asset
+  - cadence/weekly
 aliases:
-  - "Cross-Asset Weekly Outlook"
-  - "cross-asset-weekly-outlook-2026-04-12-00"
-  - "Cross-Asset Weekly Outlook - 2026-04-12"
+  - Cross-Asset Weekly Outlook
+  - cross-asset-weekly-outlook-2026-04-12-00
+  - Cross-Asset Weekly Outlook - 2026-04-12
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[Cross-Asset Weekly Outlook]]"
 ---
 

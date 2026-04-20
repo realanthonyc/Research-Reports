@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Trading Insights"
+  short_description: "Bilingual daily U.S. trading intelligence brief"
+  default_prompt: "Use $daily-trading-insights to produce today's bilingual Daily Trading Insights report in one Markdown file, English first and Traditional Chinese below, with 20+ ranked market abstracts, 12+ U.S. stock/ETF hot picks, current market regime, actionable timing, confidence, sources, risks, a final action map, and Obsidian-optimized frontmatter saved under reports/outlooks."

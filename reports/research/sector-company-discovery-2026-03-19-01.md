@@ -1,22 +1,22 @@
 ---
-title: "光模組 / 光通訊產業公司篩選報告"
+title: 光模組 / 光通訊產業公司篩選報告
 date: 2026-03-19
-report_type: "sector-company-discovery"
-source_skill: "sector-company-discovery"
-folder: "reports/research"
-language: "zh-TW"
+report_type: sector-company-discovery
+source_skill: sector-company-discovery
+folder: reports/research
+language: zh-TW
 tags:
-  - "reports"
-  - "reports/research"
-  - "skills/sector-company-discovery"
-  - "research-flow/screening"
-  - "investing/equities"
+  - reports
+  - reports/research
+  - skills/sector-company-discovery
+  - research-flow/screening
+  - investing/equities
 aliases:
-  - "光模組 / 光通訊產業公司篩選報告"
-  - "sector-company-discovery-2026-03-19-01"
-  - "光模組 / 光通訊產業公司篩選報告 - 2026-03-19"
+  - 光模組 / 光通訊產業公司篩選報告
+  - sector-company-discovery-2026-03-19-01
+  - 光模組 / 光通訊產業公司篩選報告 - 2026-03-19
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[sector-company-discovery]]"
 ---
 

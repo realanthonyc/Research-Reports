@@ -1,22 +1,22 @@
 ---
-title: "Macro Intelligence Report"
+title: Macro Intelligence Report
 date: 2026-03-07
-report_type: "global-macro-intelligence"
-source_skill: "global-macro-intelligence"
-folder: "reports/macro"
-language: "en"
+report_type: global-macro-intelligence
+source_skill: global-macro-intelligence
+folder: reports/macro
+language: en
 tags:
-  - "reports"
-  - "reports/macro"
-  - "skills/global-macro-intelligence"
-  - "asset-class/macro"
-  - "cadence/daily"
+  - reports
+  - reports/macro
+  - skills/global-macro-intelligence
+  - asset-class/macro
+  - cadence/daily
 aliases:
-  - "Macro Intelligence Report"
-  - "macro-intelligence-report-2026-03-07-00"
-  - "Macro Intelligence Report - 2026-03-07"
+  - Macro Intelligence Report
+  - macro-intelligence-report-2026-03-07-00
+  - Macro Intelligence Report - 2026-03-07
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[Global Macro Intelligence]]"
 ---
 

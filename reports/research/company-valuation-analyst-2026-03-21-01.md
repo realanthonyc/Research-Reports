@@ -1,3 +1,26 @@
+---
+title: "Zoetis (ZTS) 估值研究備忘錄"
+date: 2026-03-21
+report_type: "company-valuation"
+source_skill: "company-valuation-analyst"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/company-valuation-analyst"
+  - "research-flow/study"
+  - "investing/valuation"
+aliases:
+  - "Zoetis 估值研究備忘錄"
+  - "ZTS valuation memo"
+  - "company-valuation-analyst-2026-03-21-01"
+  - "Zoetis (ZTS) 估值研究備忘錄 - 2026-03-21"
+related:
+  - "[[Research Flow]]"
+  - "[[company-valuation-analyst]]"
+---
+
 # Snapshot
 
 - `Ticker / 交易所 / 分析日期`：ZTS / NYSE / 2026-03-21（JST）

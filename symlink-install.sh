@@ -18,7 +18,7 @@ SKILLS=(
   "sector-company-discovery"
   "company-valuation-analyst"
   "screening-compounders"
-  "future-demand-theme-discovery"
+  "upcoming-themes-discovery"
 )
 
 mkdir -p "${CODEX_SKILLS_DIR}"

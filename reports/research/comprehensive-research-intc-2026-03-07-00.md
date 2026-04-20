@@ -1,3 +1,25 @@
+---
+title: "Intel Corporation (INTC) 綜合投資研究報告"
+date: 2026-03-07
+report_type: "comprehensive-equity-research"
+source_skill: "comprehensive-equity-research-analysis"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/comprehensive-equity-research-analysis"
+  - "research-flow/study"
+  - "investing/equity-research"
+aliases:
+  - "Intel Corporation (INTC) 綜合投資研究報告"
+  - "comprehensive-research-intc-2026-03-07-00"
+  - "Intel Corporation (INTC) 綜合投資研究報告 - 2026-03-07"
+related:
+  - "[[Research Flow]]"
+  - "[[comprehensive-equity-research-analysis]]"
+---
+
 # Intel Corporation (INTC) 綜合投資研究報告
 
 - 分析日期：2026-03-07（Asia/Tokyo）

@@ -1,3 +1,25 @@
+---
+title: "Macro Intelligence Report"
+date: 2026-03-17
+report_type: "global-macro-intelligence"
+source_skill: "global-macro-intelligence"
+folder: "reports/macro"
+language: "en"
+tags:
+  - "reports"
+  - "reports/macro"
+  - "skills/global-macro-intelligence"
+  - "asset-class/macro"
+  - "cadence/daily"
+aliases:
+  - "Macro Intelligence Report"
+  - "macro-intelligence-report-2026-03-17-00"
+  - "Macro Intelligence Report - 2026-03-17"
+related:
+  - "[[Research Flow]]"
+  - "[[Global Macro Intelligence]]"
+---
+
 # Macro Intelligence Report
 
 Analysis date: March 17, 2026  

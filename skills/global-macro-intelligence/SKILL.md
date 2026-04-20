@@ -162,3 +162,32 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - Causal chains made explicit
 - English Markdown report saved in `reports/macro/`
 - Traditional Chinese Markdown translation saved in `reports/macro/`
+## Obsidian Knowledge Output
+
+Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
+
+```yaml
+---
+title: <human-readable report title>
+date: <YYYY-MM-DD analysis date>
+report_type: global-macro-intelligence
+source_skill: global-macro-intelligence
+folder: reports/macro
+language: <en | zh-TW | bilingual>
+tags:
+  - reports
+  - reports/macro
+  - skills/global-macro-intelligence
+  - asset-class/macro
+  - cadence/daily
+
+aliases:
+  - <filename stem>
+  - <short report title and date>
+related:
+  - "[[Research Flow]]"
+  - "[[global-macro-intelligence]]"
+---
+```
+
+Use Obsidian wikilinks only for internal vault relationships, and keep external citations as standard Markdown links. Preserve the report's existing section order and filename rules. Do not add prose that explains Obsidian usage inside the report body.

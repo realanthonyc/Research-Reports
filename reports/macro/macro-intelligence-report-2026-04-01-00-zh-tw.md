@@ -1,3 +1,25 @@
+---
+title: "Global Macro Intelligence"
+date: 2026-04-01
+report_type: "global-macro-intelligence"
+source_skill: "global-macro-intelligence"
+folder: "reports/macro"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/macro"
+  - "skills/global-macro-intelligence"
+  - "asset-class/macro"
+  - "cadence/daily"
+aliases:
+  - "Global Macro Intelligence"
+  - "macro-intelligence-report-2026-04-01-00-zh-tw"
+  - "Global Macro Intelligence - 2026-04-01"
+related:
+  - "[[Research Flow]]"
+  - "[[Global Macro Intelligence]]"
+---
+
 # Global Macro Intelligence
 
 Generated: 2026年4月1日 09:11 JST / 2026年3月31日 20:11 EDT

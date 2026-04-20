@@ -1,3 +1,26 @@
+---
+title: "QQQ Daily Outlook"
+date: 2026-03-18
+report_type: "qqq-daily-outlook"
+source_skill: "qqq-daily-outlook"
+folder: "reports/outlooks"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/outlooks"
+  - "skills/qqq-daily-outlook"
+  - "asset/qqq"
+  - "trading/0dte"
+  - "cadence/daily"
+aliases:
+  - "QQQ Daily Outlook"
+  - "qqq-daily-outlook-2026-03-18-00-zh-tw"
+  - "QQQ Daily Outlook - 2026-03-18"
+related:
+  - "[[Research Flow]]"
+  - "[[QQQ Daily Outlook]]"
+---
+
 # QQQ Daily Outlook
 
 目標 session：2026年3月18日美股交易時段  

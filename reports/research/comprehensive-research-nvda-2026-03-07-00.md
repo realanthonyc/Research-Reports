@@ -1,3 +1,25 @@
+---
+title: "NVIDIA Corporation (NVDA) 綜合投資研究報告"
+date: 2026-03-07
+report_type: "comprehensive-equity-research"
+source_skill: "comprehensive-equity-research-analysis"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/comprehensive-equity-research-analysis"
+  - "research-flow/study"
+  - "investing/equity-research"
+aliases:
+  - "NVIDIA Corporation (NVDA) 綜合投資研究報告"
+  - "comprehensive-research-nvda-2026-03-07-00"
+  - "NVIDIA Corporation (NVDA) 綜合投資研究報告 - 2026-03-07"
+related:
+  - "[[Research Flow]]"
+  - "[[comprehensive-equity-research-analysis]]"
+---
+
 # NVIDIA Corporation (NVDA) 綜合投資研究報告
 
 - 分析日期：2026-03-07（Asia/Tokyo）

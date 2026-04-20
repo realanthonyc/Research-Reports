@@ -1,3 +1,25 @@
+---
+title: "全球總體情報報告"
+date: 2026-03-22
+report_type: "global-macro-intelligence"
+source_skill: "global-macro-intelligence"
+folder: "reports/macro"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/macro"
+  - "skills/global-macro-intelligence"
+  - "asset-class/macro"
+  - "cadence/daily"
+aliases:
+  - "全球總體情報報告"
+  - "macro-intelligence-report-2026-03-22-00-zh-tw"
+  - "全球總體情報報告 - 2026-03-22"
+related:
+  - "[[Research Flow]]"
+  - "[[Global Macro Intelligence]]"
+---
+
 # 全球總體情報報告
 
 分析日期：2026年3月22日（Asia/Tokyo）  

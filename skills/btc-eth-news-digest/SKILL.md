@@ -200,6 +200,38 @@ After writing the final report file:
 - If commit or push fails, report the failure reason and current git status briefly.
 - Use a clear commit message that includes the report name and date, for example: `add btc-eth-news-digest 2026-03-17-00`.
 
+## Obsidian Knowledge Output
+
+Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
+
+```yaml
+---
+title: <human-readable report title>
+date: <YYYY-MM-DD analysis date>
+report_type: crypto-news-digest
+source_skill: btc-eth-news-digest
+folder: reports/crypto
+language: <en | zh-TW | bilingual>
+tags:
+  - reports
+  - reports/crypto
+  - skills/btc-eth-news-digest
+  - asset-class/crypto
+  - asset/btc
+  - asset/eth
+  - cadence/daily
+
+aliases:
+  - <filename stem>
+  - <short report title and date>
+related:
+  - "[[Research Flow]]"
+  - "[[btc-eth-news-digest]]"
+---
+```
+
+Use Obsidian wikilinks only for internal vault relationships, and keep external citations as standard Markdown links. Preserve the report's existing section order and filename rules. Do not add prose that explains Obsidian usage inside the report body.
+
 ## Quality Rules
 
 - Cite every material claim with links.

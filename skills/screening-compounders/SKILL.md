@@ -99,6 +99,36 @@ Default to U.S.-listed equities and write the final report in Traditional Chines
 - If a file with the same date already exists, increment the suffix to `-01`, `-02`, and so on.
 - Use the final memo order in [`references/output-template.md`](references/output-template.md).
 
+## Obsidian Knowledge Output
+
+Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
+
+```yaml
+---
+title: <human-readable report title>
+date: <YYYY-MM-DD analysis date>
+report_type: compounder-screen
+source_skill: screening-compounders
+folder: reports/research
+language: <en | zh-TW | bilingual>
+tags:
+  - reports
+  - reports/research
+  - skills/screening-compounders
+  - research-flow/screening
+  - investing/compounders
+
+aliases:
+  - <filename stem>
+  - <short report title and date>
+related:
+  - "[[Research Flow]]"
+  - "[[screening-compounders]]"
+---
+```
+
+Use Obsidian wikilinks only for internal vault relationships, and keep external citations as standard Markdown links. Preserve the report's existing section order and filename rules. Do not add prose that explains Obsidian usage inside the report body.
+
 ## Completion Handling
 
 - After the research report and any directly related output files are completed and saved, automatically stage only the files created or modified for that specific research task, then create a non-interactive git commit and push to the default remote.

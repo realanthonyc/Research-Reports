@@ -184,3 +184,32 @@ Always investigate current facts first, then build explicit causal reasoning, sc
 - Acknowledge uncertainty and mixed evidence.
 - 在證據允許的範圍內，避免只有保守含糊的空話；要明確講出理解與判斷。
 - Do not give personal financial advice or guarantee outcomes.
+## Obsidian Knowledge Output
+
+Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
+
+```yaml
+---
+title: <human-readable report title>
+date: <YYYY-MM-DD analysis date>
+report_type: cross-asset-outlook
+source_skill: cross-asset-weekly-outlook
+folder: reports/outlooks
+language: <en | zh-TW | bilingual>
+tags:
+  - reports
+  - reports/outlooks
+  - skills/cross-asset-weekly-outlook
+  - asset-class/cross-asset
+  - cadence/weekly
+
+aliases:
+  - <filename stem>
+  - <short report title and date>
+related:
+  - "[[Research Flow]]"
+  - "[[cross-asset-weekly-outlook]]"
+---
+```
+
+Use Obsidian wikilinks only for internal vault relationships, and keep external citations as standard Markdown links. Preserve the report's existing section order and filename rules. Do not add prose that explains Obsidian usage inside the report body.

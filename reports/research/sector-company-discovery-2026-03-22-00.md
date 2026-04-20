@@ -1,3 +1,25 @@
+---
+title: "電網 / 高壓電力設備 / AI 相關電力基礎設施產業短名單研究"
+date: 2026-03-22
+report_type: "sector-company-discovery"
+source_skill: "sector-company-discovery"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/sector-company-discovery"
+  - "research-flow/screening"
+  - "investing/equities"
+aliases:
+  - "電網 / 高壓電力設備 / AI 相關電力基礎設施產業短名單研究"
+  - "sector-company-discovery-2026-03-22-00"
+  - "電網 / 高壓電力設備 / AI 相關電力基礎設施產業短名單研究 - 2026-03-22"
+related:
+  - "[[Research Flow]]"
+  - "[[sector-company-discovery]]"
+---
+
 # 電網 / 高壓電力設備 / AI 相關電力基礎設施產業短名單研究
 
 分析日期：2026-03-22  

@@ -1,3 +1,27 @@
+---
+title: "BTC & ETH News Digest"
+date: 2026-04-02
+report_type: "crypto-news-digest"
+source_skill: "btc-eth-news-digest"
+folder: "reports/crypto"
+language: "en"
+tags:
+  - "reports"
+  - "reports/crypto"
+  - "skills/btc-eth-news-digest"
+  - "asset-class/crypto"
+  - "asset/btc"
+  - "asset/eth"
+  - "cadence/daily"
+aliases:
+  - "BTC & ETH News Digest"
+  - "btc-eth-news-digest-2026-04-02-00"
+  - "BTC & ETH News Digest - 2026-04-02"
+related:
+  - "[[Research Flow]]"
+  - "[[BTC & ETH News Digest]]"
+---
+
 # BTC & ETH News Digest
 
 Generated at: April 2, 2026 12:52 JST / April 1, 2026 23:52 EDT

@@ -1,3 +1,25 @@
+---
+title: "未來需求主題探索報告"
+date: 2026-04-20
+report_type: "theme-discovery"
+source_skill: "upcoming-themes-discovery"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/upcoming-themes-discovery"
+  - "research-flow/discovery"
+  - "investing/themes"
+aliases:
+  - "未來需求主題探索報告"
+  - "upcoming-themes-discovery-2026-04-20-00"
+  - "未來需求主題探索報告 - 2026-04-20"
+related:
+  - "[[Research Flow]]"
+  - "[[Upcoming Themes Discovery]]"
+---
+
 # 未來需求主題探索報告
 
 日期：2026-04-20  

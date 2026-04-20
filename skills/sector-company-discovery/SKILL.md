@@ -107,6 +107,36 @@ Use this section order unless the user asks for something else:
 7. `Main reasons the leading idea could be wrong`
 8. `Next step for deep research`
 
+## Obsidian Knowledge Output
+
+Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
+
+```yaml
+---
+title: <human-readable report title>
+date: <YYYY-MM-DD analysis date>
+report_type: sector-company-discovery
+source_skill: sector-company-discovery
+folder: reports/research
+language: <en | zh-TW | bilingual>
+tags:
+  - reports
+  - reports/research
+  - skills/sector-company-discovery
+  - research-flow/screening
+  - investing/equities
+
+aliases:
+  - <filename stem>
+  - <short report title and date>
+related:
+  - "[[Research Flow]]"
+  - "[[sector-company-discovery]]"
+---
+```
+
+Use Obsidian wikilinks only for internal vault relationships, and keep external citations as standard Markdown links. Preserve the report's existing section order and filename rules. Do not add prose that explains Obsidian usage inside the report body.
+
 ## Quality Bar
 
 - Compare like with like.

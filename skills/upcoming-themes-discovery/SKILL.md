@@ -1,9 +1,9 @@
 ---
-name: future-demand-theme-discovery
-description: Discover and rank underappreciated sectors or cross-industry themes that have a strong chance of becoming the next major market focus before they are fully crowded, where real demand may accelerate within 6-24 months, become genuinely large in magnitude, and persist for 1-2 years or longer, using deep web research, source-backed study, adoption-stage analysis, value-chain mapping, capital-cycle checks, and mispricing judgment. Use when the user wants to find future high-demand themes early, identify sectors to research before they become consensus, build an ambush watchlist for low-price accumulation, or understand which themes are likely to become durable investment opportunities rather than short-lived market hypes.
+name: upcoming-themes-discovery
+description: Discover and rank underappreciated upcoming sectors or cross-industry themes that have a strong chance of becoming the next major market focus before they are fully crowded, where real demand may accelerate within 6-24 months, become genuinely large in magnitude, and persist for 1-2 years or longer, using deep web research, source-backed study, adoption-stage analysis, value-chain mapping, capital-cycle checks, and mispricing judgment. Use when the user wants to find upcoming high-demand themes early, identify sectors to research before they become consensus, build an ambush watchlist for low-price accumulation, or understand which themes are likely to become durable investment opportunities rather than short-lived market hypes.
 ---
 
-# Future Demand Theme Discovery
+# Upcoming Themes Discovery
 
 Identify a small number of future demand regimes early enough to research deeply before the market fully prices them.
 Target themes that could plausibly become the next crowded market focus later, but are not yet fully on the main stage now.
@@ -152,17 +152,47 @@ Default to public-equity relevance and write the final report in Traditional Chi
 ## Output Rules
 
 - Always write the final report as a Markdown file under `reports/research`.
-- Use the filename format `future-demand-theme-discovery-{date}-00.md`.
+- Use the filename format `upcoming-themes-discovery-{date}-00.md`.
 - Replace `{date}` with the analysis date in `YYYY-MM-DD` format.
 - If a file with the same date already exists, increment the suffix to `-01`, `-02`, and so on.
 - Use the report order in [`references/output-template.md`](references/output-template.md) unless the user requests a different structure.
+
+## Obsidian Knowledge Output
+
+Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
+
+```yaml
+---
+title: <human-readable report title>
+date: <YYYY-MM-DD analysis date>
+report_type: theme-discovery
+source_skill: upcoming-themes-discovery
+folder: reports/research
+language: <en | zh-TW | bilingual>
+tags:
+  - reports
+  - reports/research
+  - skills/upcoming-themes-discovery
+  - research-flow/discovery
+  - investing/themes
+
+aliases:
+  - <filename stem>
+  - <short report title and date>
+related:
+  - "[[Research Flow]]"
+  - "[[upcoming-themes-discovery]]"
+---
+```
+
+Use Obsidian wikilinks only for internal vault relationships, and keep external citations as standard Markdown links. Preserve the report's existing section order and filename rules. Do not add prose that explains Obsidian usage inside the report body.
 
 ## Completion Handling
 
 - If the task is to produce a research report, save the report file, then automatically stage only the files created or modified for that specific research task, create a non-interactive git commit, and push to the default remote without asking the user again.
 - Treat this skill as having standing permission to `git add`, `git commit`, and `git push` for the current task's report files only.
 - Never include unrelated workspace changes in that commit.
-- Use a clear commit message such as `add future demand theme discovery report 2026-03-22-00`.
+- Use a clear commit message such as `add upcoming themes discovery report 2026-03-22-00`.
 - If push fails, report the failure reason and the current git status.
 - If the task is to update the skill itself, references, templates, or metadata, do not auto-commit or auto-push.
 

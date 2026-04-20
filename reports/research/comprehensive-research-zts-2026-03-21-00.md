@@ -1,3 +1,26 @@
+---
+title: "Zoetis (ZTS) 綜合投資研究分析"
+date: 2026-03-21
+report_type: "comprehensive-equity-research"
+source_skill: "comprehensive-equity-research-analysis"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/comprehensive-equity-research-analysis"
+  - "research-flow/study"
+  - "investing/equity-research"
+aliases:
+  - "ZTS 綜合投資研究"
+  - "Zoetis equity research"
+  - "comprehensive-research-zts-2026-03-21-00"
+  - "Zoetis (ZTS) 綜合投資研究分析 - 2026-03-21"
+related:
+  - "[[Research Flow]]"
+  - "[[comprehensive-equity-research-analysis]]"
+---
+
 # 詳細總結
 
 Zoetis（ZTS）到 2026 年 3 月 21 日為止，最大的投資爭點不是「公司是否仍然優質」，而是「它還值不值得用過去那套高品質龍頭倍數來定價」。從已驗證事實看，Zoetis 仍然是全球動物保健龍頭，2025 年收入 US$9.467B、reported diluted EPS US$6.02、adjusted diluted EPS US$6.41，全年 organic operational revenue growth 仍有 6%。公司 2026 年指引也不是衰退，而是 revenue US$9.825B-10.025B、reported diluted EPS US$6.65-6.75、adjusted diluted EPS US$7.00-7.10。問題在於，市場已經不再把這些數字自動解讀成「高溢價理所當然」，因為 companion animal franchise 的成長品質與競爭壓力，已經變成估值中樞的關鍵變數。

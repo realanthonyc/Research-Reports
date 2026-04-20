@@ -1,3 +1,25 @@
+---
+title: "全球總體情報"
+date: 2026-04-05
+report_type: "global-macro-intelligence"
+source_skill: "global-macro-intelligence"
+folder: "reports/macro"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/macro"
+  - "skills/global-macro-intelligence"
+  - "asset-class/macro"
+  - "cadence/daily"
+aliases:
+  - "全球總體情報"
+  - "macro-intelligence-report-2026-04-05-00-zh-tw"
+  - "全球總體情報 - 2026-04-05"
+related:
+  - "[[Research Flow]]"
+  - "[[Global Macro Intelligence]]"
+---
+
 # 全球總體情報
 
 生成時間：2026年4月5日 09:51 JST / 2026年4月4日 20:51 EDT

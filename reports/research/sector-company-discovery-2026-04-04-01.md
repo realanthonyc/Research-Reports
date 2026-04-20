@@ -1,3 +1,25 @@
+---
+title: "AI 晶片設計與先進製造產業篩選備忘錄附錄：Intel 與 Arm"
+date: 2026-04-04
+report_type: "sector-company-discovery"
+source_skill: "sector-company-discovery"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/sector-company-discovery"
+  - "research-flow/screening"
+  - "investing/equities"
+aliases:
+  - "AI 晶片設計與先進製造產業篩選備忘錄附錄：Intel 與 Arm"
+  - "sector-company-discovery-2026-04-04-01"
+  - "AI 晶片設計與先進製造產業篩選備忘錄附錄：Intel 與 Arm - 2026-04-04"
+related:
+  - "[[Research Flow]]"
+  - "[[sector-company-discovery]]"
+---
+
 # AI 晶片設計與先進製造產業篩選備忘錄附錄：Intel 與 Arm
 
 分析日期：2026-04-04  

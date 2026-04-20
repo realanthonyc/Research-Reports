@@ -1,3 +1,27 @@
+---
+title: "BTC & ETH News Digest (Last 24 Hours Default Window)"
+date: 2026-03-31
+report_type: "crypto-news-digest"
+source_skill: "btc-eth-news-digest"
+folder: "reports/crypto"
+language: "en"
+tags:
+  - "reports"
+  - "reports/crypto"
+  - "skills/btc-eth-news-digest"
+  - "asset-class/crypto"
+  - "asset/btc"
+  - "asset/eth"
+  - "cadence/daily"
+aliases:
+  - "BTC & ETH News Digest (Last 24 Hours Default Window)"
+  - "btc-eth-news-digest-2026-03-31-00"
+  - "BTC & ETH News Digest (Last 24 Hours Default Window) - 2026-03-31"
+related:
+  - "[[Research Flow]]"
+  - "[[BTC & ETH News Digest]]"
+---
+
 # BTC & ETH News Digest (Last 24 Hours Default Window)
 
 Generated at: March 31, 2026 09:00 JST / March 30, 2026 20:00 EDT

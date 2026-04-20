@@ -1,3 +1,25 @@
+---
+title: "Global Macro Intelligence Report"
+date: 2026-03-18
+report_type: "global-macro-intelligence"
+source_skill: "global-macro-intelligence"
+folder: "reports/macro"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/macro"
+  - "skills/global-macro-intelligence"
+  - "asset-class/macro"
+  - "cadence/daily"
+aliases:
+  - "Global Macro Intelligence Report"
+  - "macro-intelligence-report-2026-03-18-00-zh-tw"
+  - "Global Macro Intelligence Report - 2026-03-18"
+related:
+  - "[[Research Flow]]"
+  - "[[Global Macro Intelligence]]"
+---
+
 # Global Macro Intelligence Report
 
 分析日期：2026年3月18日（Asia/Tokyo）  

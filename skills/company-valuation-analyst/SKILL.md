@@ -107,6 +107,36 @@ Use this section order unless the user asks for another format:
 8. `Critical unknowns`
 9. `What to watch next`
 
+## Obsidian Knowledge Output
+
+Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
+
+```yaml
+---
+title: <human-readable report title>
+date: <YYYY-MM-DD analysis date>
+report_type: company-valuation
+source_skill: company-valuation-analyst
+folder: reports/research
+language: <en | zh-TW | bilingual>
+tags:
+  - reports
+  - reports/research
+  - skills/company-valuation-analyst
+  - research-flow/study
+  - investing/valuation
+
+aliases:
+  - <filename stem>
+  - <short report title and date>
+related:
+  - "[[Research Flow]]"
+  - "[[company-valuation-analyst]]"
+---
+```
+
+Use Obsidian wikilinks only for internal vault relationships, and keep external citations as standard Markdown links. Preserve the report's existing section order and filename rules. Do not add prose that explains Obsidian usage inside the report body.
+
 ## Quality Bar
 
 - Prefer simple, auditable math.

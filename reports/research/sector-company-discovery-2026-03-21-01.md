@@ -1,3 +1,25 @@
+---
+title: "醫療防守型 Compounders 篩選備忘錄（更正版）"
+date: 2026-03-21
+report_type: "sector-company-discovery"
+source_skill: "sector-company-discovery"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/sector-company-discovery"
+  - "research-flow/screening"
+  - "investing/equities"
+aliases:
+  - "醫療防守型 Compounders 篩選備忘錄（更正版）"
+  - "sector-company-discovery-2026-03-21-01"
+  - "醫療防守型 Compounders 篩選備忘錄（更正版） - 2026-03-21"
+related:
+  - "[[Research Flow]]"
+  - "[[sector-company-discovery]]"
+---
+
 # 醫療防守型 Compounders 篩選備忘錄（更正版）
 
 分析日期：2026-03-21  

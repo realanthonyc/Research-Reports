@@ -1,3 +1,25 @@
+---
+title: "減肥藥 / Fitness 相關上市公司短名單研究"
+date: 2026-03-24
+report_type: "sector-company-discovery"
+source_skill: "sector-company-discovery"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/sector-company-discovery"
+  - "research-flow/screening"
+  - "investing/equities"
+aliases:
+  - "減肥藥 / Fitness 相關上市公司短名單研究"
+  - "sector-company-discovery-2026-03-24-00"
+  - "減肥藥 / Fitness 相關上市公司短名單研究 - 2026-03-24"
+related:
+  - "[[Research Flow]]"
+  - "[[sector-company-discovery]]"
+---
+
 # 減肥藥 / Fitness 相關上市公司短名單研究
 
 分析日期：2026-03-24  

@@ -1,3 +1,25 @@
+---
+title: "NVIDIA 綜合投資研究分析"
+date: 2026-03-17
+report_type: "comprehensive-equity-research"
+source_skill: "comprehensive-equity-research-analysis"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/comprehensive-equity-research-analysis"
+  - "research-flow/study"
+  - "investing/equity-research"
+aliases:
+  - "NVIDIA 綜合投資研究分析"
+  - "comprehensive-research-nvda-2026-03-17-00"
+  - "NVIDIA 綜合投資研究分析 - 2026-03-17"
+related:
+  - "[[Research Flow]]"
+  - "[[comprehensive-equity-research-analysis]]"
+---
+
 # NVIDIA 綜合投資研究分析
 
 ## Investment Verdict

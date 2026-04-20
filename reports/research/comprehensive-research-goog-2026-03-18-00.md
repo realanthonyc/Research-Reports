@@ -1,3 +1,26 @@
+---
+title: "Alphabet (GOOG) 綜合投資研究分析"
+date: 2026-03-18
+report_type: "comprehensive-equity-research"
+source_skill: "comprehensive-equity-research-analysis"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/comprehensive-equity-research-analysis"
+  - "research-flow/study"
+  - "investing/equity-research"
+aliases:
+  - "GOOG 綜合投資研究"
+  - "Alphabet equity research"
+  - "comprehensive-research-goog-2026-03-18-00"
+  - "Alphabet (GOOG) 綜合投資研究分析 - 2026-03-18"
+related:
+  - "[[Research Flow]]"
+  - "[[comprehensive-equity-research-analysis]]"
+---
+
 # 詳細總結
 
 Alphabet（以下以 Google / GOOG 指稱）現在最值得投資人把握的核心，不是單純「這是一家優質公司」，而是市場正在重新定價它作為 `AI 基建 + Cloud + Search/Ads 現金流平台` 的綜合資產價值。2026 年 2 月 4 日公布的 2025 年第四季與全年業績，最重要的訊號有三個：第一，核心搜尋與廣告現金流仍然非常強；第二，Google Cloud 已明顯成為估值重心之一，Q4 Cloud 收入達 `US$13.624bn`、年增約 `32%`，營業利益 `US$2.092bn`；第三，CapEx 升至 `US$23.6bn`，說明管理層正在更積極投入 AI 基礎設施。市場對這份財報的主要解讀是：基本面夠強，但資本支出也夠大，接下來要看 Cloud / Gemini / AI 工具商業化能否把高投入轉成更高成長與更高估值中樞。[A1](https://abc.xyz/investor/static/pdf/2025Q4_alphabet_earnings_release.pdf)

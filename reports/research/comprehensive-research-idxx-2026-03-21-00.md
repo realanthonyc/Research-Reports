@@ -1,3 +1,26 @@
+---
+title: "IDEXX (IDXX) 綜合投資研究分析"
+date: 2026-03-21
+report_type: "comprehensive-equity-research"
+source_skill: "comprehensive-equity-research-analysis"
+folder: "reports/research"
+language: "zh-TW"
+tags:
+  - "reports"
+  - "reports/research"
+  - "skills/comprehensive-equity-research-analysis"
+  - "research-flow/study"
+  - "investing/equity-research"
+aliases:
+  - "IDXX 綜合投資研究"
+  - "IDEXX equity research"
+  - "comprehensive-research-idxx-2026-03-21-00"
+  - "IDEXX (IDXX) 綜合投資研究分析 - 2026-03-21"
+related:
+  - "[[Research Flow]]"
+  - "[[comprehensive-equity-research-analysis]]"
+---
+
 # 詳細總結
 
 IDEXX（IDXX）到 `2026-03-21` 為止，核心投資問題不是「公司夠不夠好」，而是「這麼好的公司還剩多少估值容錯空間」。從已驗證事實看，IDEXX 2025 年交出的數字仍然非常強：收入 US$4.304B、年增 10.4%，CAG revenue US$3.953B、年增 10.6%，gross margin 61.8%，diluted EPS US$13.08；2026 年公司指引 revenue US$4.632B-4.720B、diluted EPS US$14.29-14.80。更重要的是，12% 的 premium instrument installed base 成長、inVue Dx 加速放量、Cancer Dx 擴展，以及持續回購，都在強化「高品質複利機」敘事。

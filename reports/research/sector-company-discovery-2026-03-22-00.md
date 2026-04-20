@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-03-22-00
   - 電網 / 高壓電力設備 / AI 相關電力基礎設施產業短名單研究 - 2026-03-22
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[sector-company-discovery]]"
 ---
 

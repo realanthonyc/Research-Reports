@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-04-04-01
   - AI 晶片設計與先進製造產業篩選備忘錄附錄：Intel 與 Arm - 2026-04-04
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[sector-company-discovery]]"
 ---
 
@@ -125,12 +125,12 @@ related:
 ## Next Step For Deep Research
 
 - 若你想往下走，我建議：
-- 對 `ARM` 用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/skills/company-valuation-analyst/SKILL.md)
+- 對 `ARM` 用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/Skills/research-skills/company-valuation-analyst/SKILL.md)
   - 重點看：
   - `CSS / Neoverse / AGI CPU` 到底能否把 royalty 與 platform value 再抬高一層
   - 現價是否已過度 price in AI 基礎設施成功
 
-- 對 `INTC` 若要研究，反而更適合用 [`comprehensive-equity-research-analysis`](/Users/anthony/Git/realanthonyc/Research-Reports/skills/comprehensive-equity-research-analysis/SKILL.md)
+- 對 `INTC` 若要研究，反而更適合用 [`comprehensive-equity-research-analysis`](/Users/anthony/Git/realanthonyc/Research-Reports/Skills/research-skills/comprehensive-equity-research-analysis/SKILL.md)
   - 重點看：
   - `18A` 真實量產與外部客戶證據
   - foundry 損益表修復路徑

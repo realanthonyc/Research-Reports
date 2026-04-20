@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screening Compounders"
+  short_description: "Screen 5-10 durable long-term compounders"
+  default_prompt: "Use $screening-compounders to screen a U.S. sector, theme, or industry for 5-10 long-term compounder candidates and save the Markdown report to Reports/research/screening-compounders-{date}-00.md."

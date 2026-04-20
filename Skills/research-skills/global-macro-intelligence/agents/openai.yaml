@@ -1,0 +1,4 @@
+interface:
+  display_name: "Global Macro Intelligence"
+  short_description: "Institutional macro cross-asset research notes."
+  default_prompt: "Use $global-macro-intelligence to produce a current institutional-style macro intelligence report, detect the next available zero-padded daily sequence, save the English version to Reports/macro/macro-intelligence-report-{date}-{NN}.md, then save a Traditional Chinese translation to Reports/macro/macro-intelligence-report-{date}-{NN}-zh-tw.md."

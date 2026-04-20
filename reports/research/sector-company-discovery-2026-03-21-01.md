@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-03-21-01
   - 醫療防守型 Compounders 篩選備忘錄（更正版） - 2026-03-21
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[sector-company-discovery]]"
 ---
 
@@ -152,7 +152,7 @@ related:
 
 ## Next Step For Deep Research
 
-- 第一優先：用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/skills/company-valuation-analyst/SKILL.md) 深挖 `ZTS`
+- 第一優先：用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/Skills/research-skills/company-valuation-analyst/SKILL.md) 深挖 `ZTS`
   - 問題重點：
   - `Lenivia / Portela` 的中長期峰值收入與對整體動保組合的拉動
   - 2026 指引是否仍保守

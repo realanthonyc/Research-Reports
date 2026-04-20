@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-04-04-00
   - AI 晶片設計與先進製造產業篩選備忘錄 - 2026-04-04
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[sector-company-discovery]]"
 ---
 
@@ -161,7 +161,7 @@ related:
 
 ## Next Step For Deep Research
 
-- 第一優先：用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/skills/company-valuation-analyst/SKILL.md) 深挖 `TSM`
+- 第一優先：用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/Skills/research-skills/company-valuation-analyst/SKILL.md) 深挖 `TSM`
 - 問題重點：
 - advanced packaging / CoWoS 收益佔比未來兩年如何體現到每股價值
 - 美國擴產對回報率與資本支出的稀釋效應多大

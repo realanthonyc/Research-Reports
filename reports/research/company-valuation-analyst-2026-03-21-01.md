@@ -17,7 +17,7 @@ aliases:
   - company-valuation-analyst-2026-03-21-01
   - Zoetis (ZTS) 估值研究備忘錄 - 2026-03-21
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[company-valuation-analyst]]"
 ---
 

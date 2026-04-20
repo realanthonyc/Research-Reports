@@ -16,7 +16,7 @@ aliases:
   - screening-compounders-2026-03-21-00
   - "Screening Compounders: healthcare + biotech + medicine - 2026-03-21"
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[screening-compounders]]"
 ---
 
@@ -24,7 +24,7 @@ related:
 
 分析日期：2026-03-21（Asia/Tokyo）  
 研究範圍：美股上市、成熟醫療/醫藥/醫療設備/生命科學與部分 biotech 名單  
-方法：嚴格套用 [`$screening-compounders`](/Users/anthony/Git/realanthonyc/Research-Reports/skills/screening-compounders/SKILL.md) 流程；若資料不足以用同一口徑重建 10 年 EBIT-based ROCE，寧可不硬塞進最終名單。
+方法：嚴格套用 [`$screening-compounders`](/Users/anthony/Git/realanthonyc/Research-Reports/Skills/research-skills/screening-compounders/SKILL.md) 流程；若資料不足以用同一口徑重建 10 年 EBIT-based ROCE，寧可不硬塞進最終名單。
 
 ## 研究範圍與篩選宇宙
 

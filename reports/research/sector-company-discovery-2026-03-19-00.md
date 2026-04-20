@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-03-19-00
   - AI 版塊公司篩選報告 - 2026-03-19
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[sector-company-discovery]]"
 ---
 

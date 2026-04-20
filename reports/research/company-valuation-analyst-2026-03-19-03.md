@@ -16,7 +16,7 @@ aliases:
   - company-valuation-analyst-2026-03-19-03
   - Applied Optoelectronics 估值研究備忘錄 - 2026-03-19
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[company-valuation-analyst]]"
 ---
 

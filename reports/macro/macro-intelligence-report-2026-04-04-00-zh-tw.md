@@ -16,7 +16,7 @@ aliases:
   - macro-intelligence-report-2026-04-04-00-zh-tw
   - Global Macro Intelligence - 2026-04-04
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[Global Macro Intelligence]]"
 ---
 

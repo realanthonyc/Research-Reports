@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-03-24-00
   - 減肥藥 / Fitness 相關上市公司短名單研究 - 2026-03-24
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[sector-company-discovery]]"
 ---
 
@@ -245,7 +245,7 @@ related:
 
 ## Next step for deep research
 
-- 第一優先：用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/skills/company-valuation-analyst/SKILL.md) 深挖 `LLY`
+- 第一優先：用 [`company-valuation-analyst`](/Users/anthony/Git/realanthonyc/Research-Reports/Skills/research-skills/company-valuation-analyst/SKILL.md) 深挖 `LLY`
   - 要回答的問題：
   - `Zepbound / Mounjaro` 在價格壓力下的中期毛利率與滲透率。
   - `orforglipron` 上市後是擴大市場，還是稀釋注射劑 economics。

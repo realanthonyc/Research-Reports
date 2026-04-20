@@ -16,7 +16,7 @@ aliases:
   - screening-compounders-2026-03-22-00
   - 電網 / AI 電力基礎設施候選股 Compounder 高標篩選 - 2026-03-22
 related:
-  - "[[research-flow]]"
+  - "[[Research Flow]]"
   - "[[screening-compounders]]"
 ---
 

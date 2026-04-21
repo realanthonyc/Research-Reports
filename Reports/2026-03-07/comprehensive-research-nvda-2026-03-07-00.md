@@ -16,7 +16,7 @@ aliases:
   - comprehensive-research-nvda-2026-03-07-00
   - NVIDIA Corporation (NVDA) 綜合投資研究報告 - 2026-03-07
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

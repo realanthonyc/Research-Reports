@@ -16,7 +16,7 @@ aliases:
   - company-valuation-analyst-2026-03-19-00
   - Microsoft 估值研究備忘錄 - 2026-03-19
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[company-valuation-analyst]]"
 ---
 

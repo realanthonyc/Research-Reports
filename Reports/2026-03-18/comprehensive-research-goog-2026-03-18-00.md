@@ -17,7 +17,7 @@ aliases:
   - comprehensive-research-goog-2026-03-18-00
   - Alphabet (GOOG) 綜合投資研究分析 - 2026-03-18
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

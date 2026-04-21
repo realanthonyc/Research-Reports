@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-03-21-01
   - 醫療防守型 Compounders 篩選備忘錄（更正版） - 2026-03-21
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[sector-company-discovery]]"
 ---
 

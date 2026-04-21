@@ -16,7 +16,7 @@ aliases:
   - upcoming-themes-discovery-2026-04-20-00
   - 未來需求主題探索報告 - 2026-04-20
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[Upcoming Themes Discovery]]"
 ---
 

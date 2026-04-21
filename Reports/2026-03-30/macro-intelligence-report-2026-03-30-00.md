@@ -16,7 +16,7 @@ aliases:
   - macro-intelligence-report-2026-03-30-00
   - Global Macro Intelligence - 2026-03-30
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[Global Macro Intelligence]]"
 ---
 

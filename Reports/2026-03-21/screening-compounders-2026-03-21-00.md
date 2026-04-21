@@ -16,7 +16,7 @@ aliases:
   - screening-compounders-2026-03-21-00
   - "Screening Compounders: healthcare + biotech + medicine - 2026-03-21"
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[screening-compounders]]"
 ---
 

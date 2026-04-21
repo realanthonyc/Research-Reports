@@ -16,7 +16,7 @@ aliases:
   - comprehensive-research-intc-2026-03-07-00
   - Intel Corporation (INTC) 綜合投資研究報告 - 2026-03-07
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

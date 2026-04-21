@@ -17,7 +17,7 @@ aliases:
   - comprehensive-research-idxx-2026-03-21-00
   - IDEXX (IDXX) 綜合投資研究分析 - 2026-03-21
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

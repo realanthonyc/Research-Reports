@@ -16,7 +16,7 @@ aliases:
   - qqq-daily-outlook-2026-04-20-00-zh-tw
   - QQQ 每日展望 2026-04-20
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[qqq-daily-outlook]]"
 ---
 

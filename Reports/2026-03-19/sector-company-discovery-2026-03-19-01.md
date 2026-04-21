@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-03-19-01
   - 光模組 / 光通訊產業公司篩選報告 - 2026-03-19
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[sector-company-discovery]]"
 ---
 

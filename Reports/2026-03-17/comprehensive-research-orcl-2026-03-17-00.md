@@ -16,7 +16,7 @@ aliases:
   - comprehensive-research-orcl-2026-03-17-00
   - Oracle 綜合投資研究分析 - 2026-03-17
 related:
-  - "[[Research Flow]]"
+  - "[[research-flow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

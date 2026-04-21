@@ -117,7 +117,7 @@ Explain the current regime through cross-asset evidence, not vibes. If signals c
 
 - Follow `references/output-template.md`.
 - Output English first, then Traditional Chinese at the bottom in the same Markdown file.
-- The English and Traditional Chinese versions must preserve the same facts, figures, directional calls, timestamps, source links, caveats, and ordering.
+- The English and Traditional Chinese versions must preserve the same facts, figures, directional calls, timestamps, source links, caveats, formatting (including listing and paragraph formatting) and ordering.
 - Use source links for every material factual claim.
 - Use absolute dates and timestamps where useful.
 - Keep sections compact but do not remove the reasoning chain.

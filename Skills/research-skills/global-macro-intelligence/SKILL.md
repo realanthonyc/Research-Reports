@@ -90,14 +90,14 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - Include source links for material factual claims when the task expects a fully sourced note.
 - If the user requests a shorter product, compress the depth but preserve the same causal structure.
 - Default to file output, not chat-only output.
-- Write the original English report to `Reports/macro/macro-intelligence-report-{YYYY-MM-DD}-{NN}.md`.
-- After the English report is complete, translate that English report into Traditional Chinese and write it to `Reports/macro/macro-intelligence-report-{YYYY-MM-DD}-{NN}-zh-tw.md`.
+- Write the original English report to `Reports/{YYYY-MM-DD}/macro-intelligence-report-{YYYY-MM-DD}-{NN}.md`; create the date folder if needed.
+- After the English report is complete, translate that English report into Traditional Chinese and write it to `Reports/{YYYY-MM-DD}/macro-intelligence-report-{YYYY-MM-DD}-{NN}-zh-tw.md`.
 - Use a zero-padded daily sequence for `{NN}`.
 - For the first report generated on a given analysis date, use `00`.
 - If multiple reports are generated for the same analysis date, increment the suffix to `01`, `02`, `03`, and so on for both the English and Traditional Chinese files.
 - Keep the Chinese file as a faithful translation of the English report rather than a newly re-authored variant.
 - When saving files, use the analysis date for `{YYYY-MM-DD}` unless the user explicitly requests a different report date.
-- Determine the next available `{NN}` by checking existing files for that date before writing new ones, so the English and Traditional Chinese pair always share the same sequence number.
+- Determine the next available `{NN}` by checking existing files in `Reports/{YYYY-MM-DD}/` before writing new ones, so the English and Traditional Chinese pair always share the same sequence number.
 - In the final response, mention both file paths and summarize the macro regime briefly.
 - After writing the English and Traditional Chinese report output files, automatically stage only the output files created or updated by this run, create a non-interactive git commit, and push to the default remote/branch.
 - If the user has already granted standing permission for commit/push, do not ask again before doing so.
@@ -160,8 +160,8 @@ Produce a current macro research note with explicit cause-and-effect reasoning, 
 - Capital rotation / flow migration discussed
 - Smart-money / institutional flow read included when evidence is sufficient
 - Causal chains made explicit
-- English Markdown report saved in `Reports/macro/`
-- Traditional Chinese Markdown translation saved in `Reports/macro/`
+- English Markdown report saved in `Reports/<YYYY-MM-DD>/`
+- Traditional Chinese Markdown translation saved in `Reports/<YYYY-MM-DD>/`
 ## Obsidian Knowledge Output
 
 Make every saved report usable as an Obsidian knowledge-bank note. Before the first visible heading, add YAML frontmatter with these fields:
@@ -172,11 +172,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: global-macro-intelligence
 source_skill: global-macro-intelligence
-folder: Reports/macro
+folder: Reports/<YYYY-MM-DD>
 language: <en | zh-TW | bilingual>
 tags:
   - Reports
-  - Reports/macro
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/global-macro-intelligence
   - asset-class/macro
   - cadence/daily

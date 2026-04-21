@@ -89,8 +89,8 @@ Prioritize explicit assumptions, scenario-based fair value, balance-sheet-aware 
 - Read [`references/scenario-guidelines.md`](references/scenario-guidelines.md) when choosing valuation methods or setting scenario logic by company type.
 - Read [`references/capital-structure-framework.md`](references/capital-structure-framework.md) when financing risk, dilution, debt, or liquidity is central to the thesis.
 - Read [`references/output-template.md`](references/output-template.md) when preparing the final memo structure.
-- Write the final report to `Reports/research/company-valuation-analyst-{YYYY-MM-DD}-00.md`.
-- If a version for the same date already exists, increment the suffix to `-01`, `-02`, and so on.
+- Write the final report to `Reports/{YYYY-MM-DD}/company-valuation-analyst-{YYYY-MM-DD}-00.md`; create the date folder if needed.
+- If a version for the same date already exists in `Reports/{YYYY-MM-DD}/`, increment the suffix to `-01`, `-02`, and so on.
 - After writing the report, stage the report file and push the commit to the current remote.
 
 ## Output
@@ -117,11 +117,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: company-valuation
 source_skill: company-valuation-analyst
-folder: Reports/research
+folder: Reports/<YYYY-MM-DD>
 language: <en | zh-TW | bilingual>
 tags:
   - Reports
-  - Reports/research
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/company-valuation-analyst
   - research-flow/study
   - investing/valuation

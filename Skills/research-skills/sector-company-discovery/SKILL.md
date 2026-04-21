@@ -89,8 +89,8 @@ Focus on narrowing the universe with evidence rather than writing a full deep-di
 - Read [`references/resilience-checklist.md`](references/resilience-checklist.md) when the user emphasizes defensiveness, survivability, or downside protection.
 - Read [`references/output-template.md`](references/output-template.md) when preparing the final shortlist memo.
 - Use [`scripts/rank_candidates.py`](scripts/rank_candidates.py) when deterministic scoring helps organize the shortlist.
-- Write the final report to `Reports/research/sector-company-discovery-{YYYY-MM-DD}-00.md`.
-- If a version for the same date already exists, increment the suffix to `-01`, `-02`, and so on.
+- Write the final report to `Reports/{YYYY-MM-DD}/sector-company-discovery-{YYYY-MM-DD}-00.md`; create the date folder if needed.
+- If a version for the same date already exists in `Reports/{YYYY-MM-DD}/`, increment the suffix to `-01`, `-02`, and so on.
 - After writing the report, stage the report file and push the commit to the current remote.
 - Prioritize recent topics and narrative interpretation when they materially change the sector ranking.
 
@@ -117,11 +117,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: sector-company-discovery
 source_skill: sector-company-discovery
-folder: Reports/research
+folder: Reports/<YYYY-MM-DD>
 language: <en | zh-TW | bilingual>
 tags:
   - Reports
-  - Reports/research
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/sector-company-discovery
   - research-flow/screening
   - investing/equities

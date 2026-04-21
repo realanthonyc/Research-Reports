@@ -16,11 +16,11 @@ title: Daily Trading Insights - <YYYY-MM-DD>
 date: <YYYY-MM-DD>
 report_type: daily-trading-insights
 source_skill: daily-trading-insights
-folder: Reports/outlooks
+folder: Reports/<YYYY-MM-DD>
 language: en
 tags:
   - Reports
-  - Reports/outlooks
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/daily-trading-insights
   - asset-class/equities
   - cadence/daily
@@ -153,11 +153,11 @@ title: 每日交易洞察 - <YYYY-MM-DD>
 date: <YYYY-MM-DD>
 report_type: daily-trading-insights
 source_skill: daily-trading-insights
-folder: Reports/outlooks
+folder: Reports/<YYYY-MM-DD>
 language: zh-TW
 tags:
   - Reports
-  - Reports/outlooks
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/daily-trading-insights
   - asset-class/equities
   - cadence/daily

@@ -7,7 +7,7 @@ description: Create detailed, trader-optimized, source-cited digests of the late
 
 ## Overview
 
-Produce a high-signal BTC/ETH briefing for traders with source links, exact dates, market reaction context, short-term macro impact analysis, and actionable framing. Prioritize factual reporting, de-duplicate repeated headlines, and clearly separate confirmed facts from trading interpretation. Keep the report strictly BTC/ETH-focused: only include BTC/ETH-native events or macro events with explicit, sourced BTC/ETH transmission evidence. Save the final output as a Markdown report file under the repo-root `Reports/crypto/` folder on every run.
+Produce a high-signal BTC/ETH briefing for traders with source links, exact dates, market reaction context, short-term macro impact analysis, and actionable framing. Prioritize factual reporting, de-duplicate repeated headlines, and clearly separate confirmed facts from trading interpretation. Keep the report strictly BTC/ETH-focused: only include BTC/ETH-native events or macro events with explicit, sourced BTC/ETH transmission evidence. Save the final output as a Markdown report file under the repo-root `Reports/YYYY-MM-DD/` date folder on every run.
 
 ## Workflow
 
@@ -157,10 +157,10 @@ Translation requirements:
 - Preserve "confirmed / developing / speculative" semantics accurately
 - Preserve any explicit "inference" labels
 
-### 9. Save the output as a Markdown file in `Reports/crypto`
+### 9. Save the output as a Markdown file in `Reports/YYYY-MM-DD`
 
 Always save the final report as a Markdown file at the repo root:
-- Folder: `Reports/crypto/` (create it if it does not exist)
+- Folder: `Reports/<YYYY-MM-DD>/`, where `<YYYY-MM-DD>` is the report date in absolute format (create it if it does not exist)
 - Format: Markdown (`.md`)
 - Filename: `<report-name>-<YYYY-MM-DD>-<NN>.md`
 
@@ -172,12 +172,12 @@ Filename rules:
 - Always append a zero-padded daily sequence suffix as `NN`
 - Start the first report for a given report name and date at `00`
 - If multiple reports are generated for the same report name on the same date, increment the suffix to `01`, `02`, `03`, and so on
-- When selecting the next filename, scan existing files for the same `<report-name>` and `<YYYY-MM-DD>` prefix and choose the next available zero-padded suffix
+- When selecting the next filename, scan existing files in `Reports/<YYYY-MM-DD>/` for the same `<report-name>` and `<YYYY-MM-DD>` prefix and choose the next available zero-padded suffix
 
 Examples:
-- `Reports/crypto/btc-eth-news-digest-2026-02-23-00.md`
-- `Reports/crypto/btc-eth-news-digest-2026-02-23-01.md`
-- `Reports/crypto/btc-eth-news-digest-2026-02-23-02.md`
+- `Reports/2026-02-23/btc-eth-news-digest-2026-02-23-00.md`
+- `Reports/2026-02-23/btc-eth-news-digest-2026-02-23-01.md`
+- `Reports/2026-02-23/btc-eth-news-digest-2026-02-23-02.md`
 
 ### 10. Enforce data integrity gates before final output
 
@@ -210,11 +210,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: crypto-news-digest
 source_skill: btc-eth-news-digest
-folder: Reports/crypto
+folder: Reports/<YYYY-MM-DD>
 language: <en | zh-TW | bilingual>
 tags:
   - Reports
-  - Reports/crypto
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/btc-eth-news-digest
   - asset-class/crypto
   - asset/btc
@@ -247,7 +247,7 @@ Use Obsidian wikilinks only for internal vault relationships, and keep external 
 - Exclude non-BTC/ETH thematic news unless direct BTC/ETH impact is demonstrated with sources.
 - Ensure the Traditional Chinese version matches the English version in facts and caveats.
 - Ensure the saved Markdown file contains both English and Traditional Chinese sections.
-- Do not return only inline text when the task is executed; write the report file under `Reports/crypto/` first, then provide/quote the path.
+- Do not return only inline text when the task is executed; write the report file under `Reports/<YYYY-MM-DD>/` first, then provide/quote the path.
 - Use a short risk disclosure block: this is market analysis, not investment advice.
 - When reporting "observed reaction," include the reaction timestamp.
 

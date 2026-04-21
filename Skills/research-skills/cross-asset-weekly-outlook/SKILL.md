@@ -162,11 +162,11 @@ Always investigate current facts first, then build explicit causal reasoning, sc
   - Prioritize signal over volume. The 10+ items should be the most decision-useful developments for the current outlook horizon.
 - If the user wants a chat answer only, keep the same structure without writing files.
 - Default to file output.
-- Save reports in `Reports/outlooks`.
+- Save reports in `Reports/<YYYY-MM-DD>/`, where `<YYYY-MM-DD>` is the report date; create the date folder if needed.
 - Use this filename convention: `cross-asset-weekly-outlook-{YYYY-MM-DD}-{NN}.md`.
 - Start the first report of the day at `-00`.
 - If multiple reports are generated on the same date, increment sequentially to `-01`, `-02`, `-03`, and so on.
-- Determine the next available `{NN}` by checking existing files in `Reports/outlooks` for the same date before writing the new report.
+- Determine the next available `{NN}` by checking existing files in `Reports/<YYYY-MM-DD>/` for the same date before writing the new report.
 
 ## 完成後處理
 
@@ -194,11 +194,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: cross-asset-outlook
 source_skill: cross-asset-weekly-outlook
-folder: Reports/outlooks
+folder: Reports/<YYYY-MM-DD>
 language: <en | zh-TW | bilingual>
 tags:
   - Reports
-  - Reports/outlooks
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/cross-asset-weekly-outlook
   - asset-class/cross-asset
   - cadence/weekly

@@ -3,7 +3,7 @@
 Use this order unless the user requests a different format.
 
 Save the final report to:
-- `Reports/research/screening-compounders-{YYYY-MM-DD}-00.md`
+- `Reports/{YYYY-MM-DD}/screening-compounders-{YYYY-MM-DD}-00.md`
 
 If the same date already exists, increment the suffix to `-01`, `-02`, and so on.
 

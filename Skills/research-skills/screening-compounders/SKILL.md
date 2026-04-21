@@ -93,10 +93,10 @@ Default to U.S.-listed equities and write the final report in Traditional Chines
 
 ## Output Rules
 
-- Always write the final report as a Markdown file under `Reports/research`.
+- Always write the final report as a Markdown file under `Reports/<YYYY-MM-DD>/`, where `<YYYY-MM-DD>` is the analysis date; create the date folder if needed.
 - Use the filename format `screening-compounders-{date}-00.md`.
 - Replace `{date}` with the analysis date in `YYYY-MM-DD` format.
-- If a file with the same date already exists, increment the suffix to `-01`, `-02`, and so on.
+- If a file with the same date already exists in `Reports/<YYYY-MM-DD>/`, increment the suffix to `-01`, `-02`, and so on.
 - Use the final memo order in [`references/output-template.md`](references/output-template.md).
 
 ## Obsidian Knowledge Output
@@ -109,11 +109,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: compounder-screen
 source_skill: screening-compounders
-folder: Reports/research
+folder: Reports/<YYYY-MM-DD>
 language: <en | zh-TW | bilingual>
 tags:
   - Reports
-  - Reports/research
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/screening-compounders
   - research-flow/screening
   - investing/compounders

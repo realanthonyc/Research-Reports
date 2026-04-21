@@ -66,6 +66,6 @@ Show `bear / base / bull` with:
 ## Delivery Rules
 
 - Write the report in Traditional Chinese.
-- Save it as a Markdown file in `Reports/research/`.
+- Save it as a Markdown file in `Reports/<YYYY-MM-DD>/`, where `<YYYY-MM-DD>` is the analysis date.
 - Use the filename `company-valuation-analyst-{YYYY-MM-DD}-00.md`, or the next available suffix if that date already exists.
 - After saving the report, stage the report file and push the commit.

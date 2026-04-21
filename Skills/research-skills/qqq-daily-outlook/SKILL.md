@@ -158,17 +158,17 @@ Adjust for event timing (e.g., major data release, Fed speaker, headline shock).
 
 ## Required Output Format
 
-Write two markdown files into `Reports/outlooks` for each run:
+Write two markdown files into `Reports/<date>` for each run, creating the date folder if needed:
 
-- English master file: `Reports/outlooks/qqq-daily-outlook-{date}-{nn}.md`
-- Traditional Chinese translation: `Reports/outlooks/qqq-daily-outlook-{date}-{nn}-zh-tw.md`
+- English master file: `Reports/{date}/qqq-daily-outlook-{date}-{nn}.md`
+- Traditional Chinese translation: `Reports/{date}/qqq-daily-outlook-{date}-{nn}-zh-tw.md`
 
 File naming rules:
 - Use the local current date in `YYYY-MM-DD` format for `{date}`.
 - Use a two-digit daily sequence for `{nn}` starting at `00`.
 - If no report with that date exists yet, write `...-{date}-00.md`.
 - If one or more reports already exist for the same date, increment sequentially: `01`, `02`, `03`, and so on.
-- Determine the next sequence by inspecting existing files in `Reports/outlooks` before writing.
+- Determine the next sequence by inspecting existing files in `Reports/{date}/` before writing.
 
 The English file is the source-of-truth report. The Traditional Chinese file must be a full, natural, professional translation of the English markdown file rather than a separately rewritten variant.
 
@@ -286,11 +286,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: qqq-daily-outlook
 source_skill: qqq-daily-outlook
-folder: Reports/outlooks
+folder: Reports/<YYYY-MM-DD>
 language: <en | zh-TW | bilingual>
 tags:
   - Reports
-  - Reports/outlooks
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/qqq-daily-outlook
   - asset/qqq
   - trading/0dte

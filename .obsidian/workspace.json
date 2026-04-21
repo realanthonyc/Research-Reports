@@ -11,10 +11,14 @@
             "id": "1b9e7a86b8250bd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Market/My Digest/Market Today - 20260421.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Market Today - 20260421"
             }
           }
         ]
@@ -197,6 +201,10 @@
   },
   "active": "1b9e7a86b8250bd2",
   "lastOpenFiles": [
+    "Market/market-signals-discovery-2026042102.md",
+    "Market/market-signals-discovery-2026042101.md",
+    "Market/market-signals-discovery-2026042100.md",
+    "Market/market-signals-discovery-2026042005.md",
     "Reports/Research Flow.md",
     "Skills/All Codex Skills/spreadsheet/references/examples/openpyxl/styling_spreadsheet.py",
     "Skills/All Codex Skills/spreadsheet/references/examples/openpyxl/read_existing_spreadsheet.py",
@@ -230,10 +238,6 @@
     "Skills/All Codex Skills/cloudflare-deploy/references/workflows/patterns.md",
     "Skills/All Codex Skills/cloudflare-deploy/references/workflows/gotchas.md",
     "Skills/All Codex Skills/cloudflare-deploy/references/workflows/configuration.md",
-    "Skills/All Codex Skills/cloudflare-deploy/references/workflows/api.md",
-    "Skills/All Codex Skills/cloudflare-deploy/references/workflows/README.md",
-    "Skills/All Codex Skills/cloudflare-deploy/references/workers-playground/patterns.md",
-    "Skills/All Codex Skills/cloudflare-deploy/references/workers-playground/gotchas.md",
     "Skills/All Codex Skills/codex-primary-runtime/slides/assets/file-presentation.png",
     "Skills/All Codex Skills/transcribe/assets/transcribe.png",
     "Skills/All Codex Skills/transcribe/assets/transcribe-small.svg",

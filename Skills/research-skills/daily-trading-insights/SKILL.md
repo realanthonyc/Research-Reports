@@ -197,13 +197,13 @@ Before saving the `-zh-tw` file, run a manual translation QA pass:
 
 ## File Output
 
-Default to saving the report as Markdown under the repo-root `Reports/outlooks/` folder unless the user asks for chat-only output.
+Default to saving the report as Markdown under the repo-root `Reports/<YYYY-MM-DD>/` date folder unless the user asks for chat-only output. Create the date folder if needed.
 
 Filename:
 - English: `daily-trading-insights-{YYYY-MM-DD}-{NN}.md`
 - Traditional Chinese: `daily-trading-insights-{YYYY-MM-DD}-{NN}-zh-tw.md`
 - Start each date at `00`.
-- If either file for the date exists, increment both reports to the next shared `NN` pair (`01`, `02`, and so on).
+- If either file for the date exists in `Reports/<YYYY-MM-DD>/`, increment both reports to the next shared `NN` pair (`01`, `02`, and so on).
 
 Add Obsidian-compatible YAML frontmatter before the first visible heading:
 
@@ -213,11 +213,11 @@ title: <human-readable report title>
 date: <YYYY-MM-DD analysis date>
 report_type: daily-trading-insights
 source_skill: daily-trading-insights
-folder: Reports/outlooks
+folder: Reports/<YYYY-MM-DD>
 language: en
 tags:
   - Reports
-  - Reports/outlooks
+  - Reports/<YYYY-MM-DD>
   - Skills/research-skills/daily-trading-insights
   - asset-class/equities
   - cadence/daily

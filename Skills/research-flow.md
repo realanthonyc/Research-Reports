@@ -35,7 +35,10 @@ related:
 **Daily:**
 * Global Macro Intelligence
 * Cross-Asset Weekly Outlook
-* BTC & ETH News Digest
+* BTC & ETH News Digest (optional)
 
 **Trading:**
 * QQQ Daily Outlook
+
+Market Digest:
+- Market Signals Discovery (with "Market Today" brief)

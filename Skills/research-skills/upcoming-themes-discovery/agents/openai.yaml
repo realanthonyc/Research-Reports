@@ -1,4 +1,0 @@
-interface:
-  display_name: "Upcoming Themes Discovery"
-  short_description: "Find early, huge-demand upcoming themes"
-  default_prompt: "Use $upcoming-themes-discovery to deeply research 3-5 sectors or cross-industry themes that could become the next major market focus before they are fully crowded, where real demand may surge within 6-24 months and last 1-2 years or longer, with candidate-funnel screening, value-chain winners, and mispricing analysis."

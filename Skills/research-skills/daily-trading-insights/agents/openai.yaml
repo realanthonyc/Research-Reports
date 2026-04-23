@@ -1,4 +1,0 @@
-interface:
-  display_name: "Daily Trading Insights"
-  short_description: "Daily U.S. trading brief with separate English and Traditional Chinese reports"
-  default_prompt: "Use $daily-trading-insights to produce today's Daily Trading Insights report as two Markdown files saved under Reports/{date}: an English report first and a faithful, polished Traditional Chinese translation saved with -zh-tw. Include 20+ ranked market abstracts, 12+ U.S. stock/ETF hot picks, today's mega-cap special attention points and expected moves for Google/Alphabet, Apple, Microsoft, Meta, Nvidia, Amazon, and Tesla, current market regime, actionable timing, confidence, sources, risks, a final action map, and Obsidian-optimized frontmatter."

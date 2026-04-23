@@ -1,4 +1,0 @@
-interface:
-  display_name: "Comprehensive Equity Research Analysis"
-  short_description: "整合估值模型、評分卡、風險催化與策略建議的公司投資研究報告"
-  default_prompt: "Use $comprehensive-equity-research-analysis to produce a fact-checked Traditional Chinese equity research report for [公司名稱或Ticker] with valuation scenarios, weighted scorecard, bull/base/bear thesis, risk/catalyst mapping, and actionable swing-to-mid-term strategy."

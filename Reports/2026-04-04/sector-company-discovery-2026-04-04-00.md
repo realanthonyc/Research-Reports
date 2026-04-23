@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-04-04-00
   - AI 晶片設計與先進製造產業篩選備忘錄 - 2026-04-04
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[sector-company-discovery]]"
 ---
 

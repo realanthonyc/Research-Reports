@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-03-24-00
   - 減肥藥 / Fitness 相關上市公司短名單研究 - 2026-03-24
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[sector-company-discovery]]"
 ---
 

@@ -1,4 +1,0 @@
-interface:
-  display_name: "BTC & ETH News Digest"
-  short_description: "Summarize latest BTC/ETH news with citations"
-  default_prompt: "Use $btc-eth-news-digest to produce a detailed trader-focused BTC/ETH news briefing for the last 24 hours with source links, exact timing, short-term macro impact analysis, and a full Traditional Chinese translation after the English version."

@@ -16,7 +16,7 @@ aliases:
   - daily-trading-insights-2026-04-20-00
   - Daily Trading Insights 2026-04-20
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[daily-trading-insights]]"
 ---
 

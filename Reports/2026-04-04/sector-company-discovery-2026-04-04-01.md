@@ -16,7 +16,7 @@ aliases:
   - sector-company-discovery-2026-04-04-01
   - AI 晶片設計與先進製造產業篩選備忘錄附錄：Intel 與 Arm - 2026-04-04
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[sector-company-discovery]]"
 ---
 

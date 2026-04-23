@@ -1,4 +1,0 @@
-interface:
-  display_name: "Cross-Asset Weekly Outlook"
-  short_description: "按美東交易週期輸出含 DXY 與熱點新聞的跨資產深度展望"
-  default_prompt: "Use $cross-asset-weekly-outlook to deeply investigate the latest broad market, DXY, at least six focus stocks if none are specified, BTC, gold, and the most important current and upcoming market news, then produce the correct U.S.-market-weekday-specific outlook with explicit time-scoped judgments, scenario analysis, hot-news interpretation, and source-backed conclusions."

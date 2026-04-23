@@ -17,7 +17,7 @@ aliases:
   - comprehensive-research-zts-2026-03-21-00
   - Zoetis (ZTS) 綜合投資研究分析 - 2026-03-21
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

@@ -17,7 +17,7 @@ aliases:
   - company-valuation-analyst-2026-03-21-00
   - IDEXX (IDXX) 估值研究備忘錄 - 2026-03-21
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[company-valuation-analyst]]"
 ---
 

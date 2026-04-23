@@ -16,7 +16,7 @@ aliases:
   - company-valuation-analyst-2026-03-19-02
   - Fabrinet 估值研究備忘錄 - 2026-03-19
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[company-valuation-analyst]]"
 ---
 

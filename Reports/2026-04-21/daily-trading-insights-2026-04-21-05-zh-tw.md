@@ -16,7 +16,7 @@ aliases:
   - daily-trading-insights-2026-04-21-05-zh-tw
   - 每日交易洞察 2026-04-21
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[daily-trading-insights]]"
 ---
 

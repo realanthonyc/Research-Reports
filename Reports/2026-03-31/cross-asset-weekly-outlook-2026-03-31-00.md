@@ -16,7 +16,7 @@ aliases:
   - cross-asset-weekly-outlook-2026-03-31-00
   - Cross-Asset Weekly Outlook - 2026-03-31
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[Cross-Asset Weekly Outlook]]"
 ---
 

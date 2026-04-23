@@ -16,7 +16,7 @@ aliases:
   - macro-intelligence-report-2026-03-23-00-zh-tw
   - 全球總經情報告 - 2026-03-23
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[Global Macro Intelligence]]"
 ---
 

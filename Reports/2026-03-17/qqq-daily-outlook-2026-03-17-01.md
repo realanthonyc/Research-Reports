@@ -17,7 +17,7 @@ aliases:
   - qqq-daily-outlook-2026-03-17-01
   - QQQ Daily Outlook - 2026-03-17-01 - 2026-03-17
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[QQQ Daily Outlook]]"
 ---
 

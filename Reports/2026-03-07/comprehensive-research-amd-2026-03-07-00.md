@@ -16,7 +16,7 @@ aliases:
   - comprehensive-research-amd-2026-03-07-00
   - AMD 綜合股權投資研究報告 - 2026-03-07
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[comprehensive-equity-research-analysis]]"
 ---
 

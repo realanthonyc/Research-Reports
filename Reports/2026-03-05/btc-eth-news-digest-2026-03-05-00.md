@@ -18,7 +18,7 @@ aliases:
   - btc-eth-news-digest-2026-03-05-00
   - BTC & ETH News Digest (Last 24 Hours) - 2026-03-05
 related:
-  - "[[research-flow]]"
+  - "[[research-workflow]]"
   - "[[BTC & ETH News Digest]]"
 ---
 

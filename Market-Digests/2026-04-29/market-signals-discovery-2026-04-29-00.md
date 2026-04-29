@@ -1,92 +1,96 @@
 # Market Signals Discovery
 
-輸入來源：`Market-Intelligence/2026-04-29`；`Reports/2026-04-29` 本地不存在，未檢視到今日 Reports。
-涵蓋期間：主要為 2026-04-28 至 2026-04-29 的盤前、盤中與社群/訂閱內容，另有少量舊文被今日 feed 重新帶出。
-已檢視文件：5 / 5
-輸出時間：2026-04-29 20:27:37 JST
+輸入來源：`Market-Intelligence/2026-04-29`、`Reports/2026-04-29`
+涵蓋期間：主要為 2026-04-28 至 2026-04-29 的美股盤前、盤中、訂閱/社群內容與同日研究報告；另有少量舊文被今日 feed 重新帶出，已按時效性降權。
+已檢視文件：12 / 12
+輸出時間：2026-04-29 20:59:24 JST
 
 ## 高價值市場訊號
 
-1. **AI 交易從「故事」轉向「能否交付現金流」，OpenAI 相關鏈條短線估值折價**
-   - 來源：`每日美股策略調研報告：2026年4月29日 (週三).md`、`2026年4月29日（星期三）美股開盤前全盤調研報告.md`、`on-substack-today-20260429.md`、`on-x-today-20260429.md`
-   - 時效性：2026-04-28 至 2026-04-29 的新訊號；已用 WSJ 轉載/彙整報導交叉確認 OpenAI missed internal revenue/user targets 的市場反應。
-   - 訊號：多份今日文件都指向同一條線：OpenAI 未達內部營收與週活目標的報導，引發 Oracle、CoreWeave、NVDA、AMD 等 AI infrastructure / shovel stocks 被折價；但 Bloom Energy、Seagate、Silicon Motion 等實際財報與指引又顯示資料中心電力、儲存、控制 IC 需求仍在兌現。
-   - 解讀 / 疑點：這不是單純「AI 泡沫破裂」或「AI 需求消失」，而是市場開始區分合約可兌現性、現金流、交付能力與終端 token demand。短線對 ORCL、CRWV、過度綁定 OpenAI 的名字偏負面；但 BE、STX、SIMO、AI power / storage / data-center bottleneck 供應鏈若財報確認，反而可能享有更好的風險報酬。待 MSFT、GOOGL、META、AMZN 財報會議確認 capex、power constrained、compute constrained 口徑。
+1. **今日不是乾淨 risk-on，而是 Fed、mega-cap earnings、oil/geopolitics 三重事件定價**
+   - 來源：`macro-intelligence-report-2026-04-29-00-zh-tw.md`、`cross-asset-weekly-outlook-2026-04-29-00.md`、`daily-trading-insights-2026-04-29-00-zh-tw.md`、`trading-opportunities-discovery-2026-04-29-00.md`
+   - 時效性：2026-04-29 同日報告；FOMC 為 2026-04-28 至 2026-04-29 官方會議窗口，屬今日最高權重事件。
+   - 訊號：多份報告一致指出，市場主軸是 FOMC / Powell、MSFT / GOOGL / META / AMZN 等 mega-cap earnings，以及 Iran / Hormuz 油價風險。最重要的確認不是單一股價，而是 Powell 後 2Y yield、DXY、VIX、QQQ breadth 與 gold / oil 的同步反應。
+   - 解讀 / 疑點：若 Powell 不偏鷹且 2Y / DXY 下行，QQQ、SMH、MSFT、NVDA、BTC 會有 relief / squeeze 空間；若 oil 和 DXY 同時轉強，則 GLD、XLE、防禦現金流優先，小型股、unprofitable growth、BTC 與高估值 AI beta 的風險報酬轉差。信號本身高信心，但方向需等事件後市場反應確認。
    - 信心度：高
 
-2. **Bloom Energy 財報把 AI 電力瓶頸從敘事推進到訂單與指引，BE / distributed power 仍是高 RR 主線**
+2. **AI 交易開始從「總量敘事」轉向「可兌現訂單、現金流與瓶頸資產」**
+   - 來源：`on-substack-today-20260429.md`、`on-x-today-20260429.md`、`每日美股策略調研報告：2026年4月29日 (週三).md`、`trading-opportunities-discovery-2026-04-29-00.md`
+   - 時效性：2026-04-28 至 2026-04-29 新訊號；OpenAI 目標未達的市場反應已用 NY Post / Business Insider / Investopedia / Tom's Hardware 對 WSJ 報導的彙整交叉確認。
+   - 訊號：OpenAI 未達內部營收與週活目標的報導，使市場重新折價 ORCL、CoreWeave、SoftBank proxy、NVDA、AMD 等與 AI infrastructure / compute contracts 綁定的資產；但同時，Bloom Energy、Seagate、Silicon Motion、storage / power / memory 等實際財報線索顯示 AI 資本支出仍在落地。
+   - 解讀 / 疑點：這不是「AI 需求消失」，而是市場開始區分終端 token demand、長約品質、capex ROI、交付能力與現金流。短線避免把所有 AI shovel stocks 一起追高；較好的 RR 在財報已驗證的 data-center power、storage、memory、ASIC / optical interconnect，以及能被 hyperscaler earnings 口徑確認的供應鏈。
+   - 信心度：高
+
+3. **Bloom Energy 把 AI power bottleneck 從故事推進到財報，BE 是今日高信心但需等價位的主線**
    - 來源：`on-substack-today-20260429.md`、`on-x-today-20260429.md`
-   - 時效性：2026-04-29 今日財報後討論；Bloom 官方 2026-04-28 Q1 release 已確認營收 7.511 億美元、年增 130.4%，並將 2026 全年營收指引上修至 34-38 億美元。
-   - 訊號：社群與長文都把 Bloom 的重點放在資料中心「自建/分散式供電」：產品收入大增、毛利率改善、服務合約與預付款使現金流轉正，需求來源從 Oracle 擴散到 hyperscaler、NeoCloud 與託管服務商。
-   - 解讀 / 疑點：AI 資本支出是否過熱仍有爭議，但電力供應、併網時間、變壓器與銅材瓶頸是更硬的約束。BE 不是低風險股票，且財報後已急漲，但 pullback 到支撐/均線時仍比單純追 OpenAI 概念更有基本面驗證。可延伸觀察 VRT、ETN、CEG、SLR/Solaris Energy、gas infrastructure、data-center REITs。
+   - 時效性：Bloom Energy 2026-04-28 Q1 release；今日社群與研究報告集中討論。
+   - 訊號：Bloom 官方確認 Q1 revenue 7.51054 億美元、年增 130.4%，non-GAAP gross margin 31.5%，並將 2026 全年 revenue guidance 上修至 34-38 億美元。公司把自身定位為 data center on-site power，Oracle AI data center 與 Brookfield 相關需求使市場把 BE 視為 AI 電力瓶頸受益者。
+   - 解讀 / 疑點：AI data center 的短板正在落到併網、變壓器、銅材、電力交付和現場供電，這比純粹模型敘事更接近收入確認。BE 財報後已急漲，追價 RR 不如等缺口回測、VWAP / 10-20 日線或量縮承接；延伸觀察 VRT、ETN、CEG、gas infrastructure、data-center REITs。
    - 信心度：高
 
-3. **DeepSeek V4 + Huawei Ascend 950 形成中國 AI 本土化加速訊號，但同時被美國設備限制壓制供給**
+4. **DeepSeek V4 + Huawei Ascend 950 使中國 AI 本土化需求升溫，但供給受出口管制牽制**
    - 來源：`on-x-today-20260429.md`
-   - 時效性：2026-04-29 新聞；Reuters/Investing.com、Japan Times 等來源確認中國大型互聯網公司向華為追單 Ascend 950，Reuters 亦報導美國商務部要求部分設備商暫停向華虹供貨。
-   - 訊號：DeepSeek V4 採用華為 Ascend 950 後，ByteDance、Tencent、Alibaba 與 GPU rental / cloud compute 服務商追單，華為規劃今年約 75 萬顆 950PR，4 月量產、下半年全面出貨。同一時間，美國對 Hua Hong 的工具供應限制，壓制中國 7nm / AI accelerator 產能爬坡。
-   - 解讀 / 疑點：這是一個「需求確定、供給受限」的雙向訊號。對中國 AI cloud / 國產替代敘事偏正面，對 AMAT、LRCX、KLAC 的中國收入風險偏負面；但若限制導致華為供給追不上需求，短期受益可能更多落在可用算力租賃、封測、先進封裝與國產替代設備。中美政策 headlines 會造成高波動。
+   - 時效性：2026-04-29 新聞；Reuters / Investing.com 確認 ByteDance、Tencent、Alibaba 等大廠追單 Huawei Ascend 950。
+   - 訊號：DeepSeek V4 轉向 Huawei Ascend 950 後，中國大型互聯網、cloud compute 與 GPU rental 服務商加速下單；同時市場仍擔心美國對中國設備、Hua Hong 及相關先進製程供給的限制。
+   - 解讀 / 疑點：這是「需求明確、供給卡住」的雙向訊號。對中國 AI cloud、國產替代、可用算力租賃、封測與先進封裝偏正面；對 AMAT、LRCX、KLAC 的中國收入和出口限制風險偏負面。短線不宜把 Reuters 需求訊號直接外推成所有中國半導體單日追價，因實際交付能力仍是核心不確定性。
    - 信心度：高
 
-4. **美伊封鎖與油價仍是市場最大外生風險，但能源交易出現分歧：高油價 vs UAE/OPEC 鬆動**
-   - 來源：`on-x-today-20260429.md`、`on-substack-today-20260429.md`、`2026年4月29日（星期三）美股開盤前全盤調研報告.md`
-   - 時效性：2026-04-28 至 2026-04-29；WSJ 報導 Trump 要求準備延長對伊朗封鎖，WSJ live 指出 Brent 一度因消息升破 107 美元。
-   - 訊號：一邊是伊朗港口/霍爾木茲封鎖拖長，使油價、通膨與航空/運輸成本風險上升；另一邊社群長文提到 UAE 退出 OPEC 與可能增產，試圖打破 cartel premium，並提出波灣主權基金因油收增加而回流西方資產的慢錢支撐。
-   - 解讀 / 疑點：能源不是單邊交易。短線油價受封鎖 headlines 支撐，APA/OXY/CVX 與能源服務可能受惠；但若 UAE 供給、外交緩和或機構 energy exit signature 延續，追高油股的 RR 下降。更好的用法是把油價當作通膨/利率/成長股估值壓力的風險儀表。
+5. **Oil / Hormuz 是 Fed 前最重要的通膨風險輸入，能源多頭與廣泛風險資產多頭不能同時無條件成立**
+   - 來源：`macro-intelligence-report-2026-04-29-00-zh-tw.md`、`cross-asset-weekly-outlook-2026-04-29-00.md`、`on-substack-today-20260429.md`、`2026年4月29日（星期三）美股開盤前全盤調研報告.md`
+   - 時效性：2026-04-28 至 2026-04-29；部分油價與封鎖 headline 仍需即時盤面確認。
+   - 訊號：Iran / Hormuz 風險使 oil risk premium 進入 inflation expectations、Fed patience、consumer margin、airlines / transports 與 long-duration multiple 的傳導鏈。另一方面，社群長文提到 UAE / Fujairah bypass、OPEC 鬆動與機構 energy exit signature，提示追高油價不是無風險交易。
+   - 解讀 / 疑點：oil 強若伴隨 gold 強、DXY 強，對 QQQ / IWM / BTC 通常不是好訊號；但能源股、GLD、防禦現金流可做 hedge。若外交緩和或供給旁路被市場接受，能源追高勝率下降，油價應更多被當成通膨/利率風險儀表，而不是單邊重倉理由。
    - 信心度：中
 
-5. **市場寬度惡化、SOXX 放量不創新高，4/29 Fed + mega-cap 財報是趨勢驗證日**
-   - 來源：`on-patreon-today-20260429.md`、`每日美股策略調研報告：2026年4月29日 (週三).md`
-   - 時效性：Patreon 筆記為 2026-04-27 至 2026-04-29 feed；今日交易仍適用。
-   - 訊號：SPY / QQQ 創高或接近高位，但 RSP 微跌、寬度下降，SOXX 連漲後放量且未再創新高。筆記認為市場尚未出現完整見頂，但 4/29 的 FOMC 與 AMZN、META、GOOG、MSFT 等大型科技財報，是空頭最可能改變上行慣性的外力。
-   - 解讀 / 疑點：這使 0DTE / earnings straddle / hedged long 更合理，裸追高 beta AI 的 RR 變差。若 mega-cap 財報確認 AI capex 不降且雲端需求強，半導體回調可視為整理；若 capex 或 monetization 口徑保守，SOXX / NVDA / AMD / CRWV / ORCL 仍可能延續估值壓縮。
+6. **BTC / ETH 今日主要是 liquidity beta；BTC ETF flow 反轉削弱短線多頭確認**
+   - 來源：`btc-eth-news-digest-2026-04-29-00.md`、`macro-intelligence-report-2026-04-29-00-zh-tw.md`、`cross-asset-weekly-outlook-2026-04-29-00.md`
+   - 時效性：2026-04-27 至 2026-04-29 ETF flow 與 FOMC 前市場資訊。
+   - 訊號：BTC 約在 77,000 美元附近、ETH 約在 2,300 美元附近交易；BTC ETF 在 4 月中旬連續流入後，4/27 與 4/28 轉為淨流出，短線從「持續機構買盤」變成「需要重新確認」。Bitmine ETH treasury 是結構性支撐，但短線仍難抵銷 Powell / DXY / yields。
+   - 解讀 / 疑點：BTC / IBIT 不如 GLD 乾淨，因它需要 DXY 下行、yields 放鬆、QQQ 不崩以及 ETF flow 恢復。若 FOMC 後 BTC 守不住 76,000-77,000 區，ETF outflow 可能變成多日 de-risking；若重回 80,000 且 ETF flow 轉正，才是較清楚的多頭確認。
+   - 信心度：中
+
+7. **市場廣度仍脆弱，SOXX 放量不創新高使 0DTE 更適合事件波動而非裸追方向**
+   - 來源：`on-patreon-today-20260429.md`、`daily-trading-insights-2026-04-29-00-zh-tw.md`、`trading-opportunities-discovery-2026-04-29-00.md`
+   - 時效性：Patreon 筆記為 2026-04-27 至 2026-04-29 feed；今日 FOMC / earnings 前仍有效。
+   - 訊號：SPY / QQQ 高位附近但 RSP、IWM、breadth 仍偏弱；SOXX 連漲後放量但未再創高，顯示半導體上行慣性開始需要 earnings / capex 確認。
+   - 解讀 / 疑點：今日較合理的是 Fed / earnings 後跟隨 rates、DXY、breadth 做方向，而不是提前重倉高 beta。若 mega-cap earnings 驗證 AI capex 與 cloud demand，SOXX / NVDA / SMH 回調可成買點；若 capex 被市場解讀為 ROI 變差或 margin 壓力，AI beta 仍會被壓縮。
    - 信心度：高
 
-6. **防禦與現金流資產短線相對佔優：KO、V、PFE 等比高 beta 更適合 Fed 前配置**
-   - 來源：`每日美股策略調研報告：2026年4月29日 (週三).md`、`on-x-today-20260429.md`、`on-substack-today-20260429.md`
-   - 時效性：2026-04-29 今日財報/盤前訊號。
-   - 訊號：KO Q1 被多處提到為收入超預期、內生增長強，V Q2 也顯示營收與 EPS 高於預期；PFE 被交易筆記列為近期較好走勢之一。相對於 AI / 半導體的財報要求變高，市場在 Fed 與油價壓力前尋找現金流與定價權。
-   - 解讀 / 疑點：這條不是長期高成長主線，而是高波動週的資金避風港。適合做 barbell 的防守端，降低 mega-cap 財報與政策 headline 對組合的 beta。
-   - 信心度：中
-
-7. **HOOD Q1 低於預期，但弱點更偏產品組合與加密週期，不宜簡化為平台失效**
+8. **HOOD 財報與產品方向被市場質疑，短線屬於反彈需證明的弱勢名單**
    - 來源：`on-x-today-20260429.md`、`on-substack-today-20260429.md`
-   - 時效性：2026-04-29 財報後。
-   - 訊號：HOOD 營收 10.7 億美元、EPS 0.38，低於市場預期；加密交易收入大幅回落，但股票/期權/預測市場仍有成長。社群對 HOOD 轉向 prediction markets、raffles、crapcoin listing 的產品方向有負評，另提到 IBKR 開放韓股與韓國槓桿 ETF，對高活躍交易客戶有競爭壓力。
-   - 解讀 / 疑點：HOOD 短線 earnings reaction 偏負面，且加密熱度下降會壓 ARPU；但若市場波動與交易量回升，仍有可選擇權。較佳策略是等待指引與費用支出路徑更清楚，不急於接財報後第一根跌勢。
+   - 時效性：2026-04-29 財報後討論。
+   - 訊號：HOOD Q1 營收與 EPS 被社群/研究記錄為低於市場預期，加密交易收入回落，且產品方向被批評偏向 prediction markets、raffles 與低品質幣種上架；另有 IBKR 開放韓股與韓國槓桿 ETF 的競爭線索。
+   - 解讀 / 疑點：HOOD 不是平台徹底失效，但短線 earnings reaction、crypto cycle 和產品信任度都不乾淨。除非量價快速修復並證明交易活躍度回升，較好的策略是等待，而不是財報後第一時間接刀。
    - 信心度：中
-
-8. **Tesla / OpenAI / SpaceX 相關傳言很多，但可交易信號較弱，僅保留觀察**
-   - 來源：`on-x-today-20260429.md`、`on-substack-today-20260429.md`、`on-patreon-today-20260429.md`
-   - 時效性：多數為今日社群討論，但含大量未驗證推測。
-   - 訊號：TSLA 有 FSD V14 Lite 可能支援全球 HW3 車型、Chamath 提及 TSLA-SpaceX 合併可能、Musk/Altman 訴訟首日等內容；另有 TSLA AI/robotaxi 長期估值推演。
-   - 解讀 / 疑點：FSD 滲透率和 HW3 延壽對訂閱收入有正面敘事，但合併與訴訟解讀高度不確定，短線不應作為核心交易依據。TSLA 若要納入，應等 price action 或官方產品/監管進度確認。
-   - 信心度：低
 
 ## 觀察名單 / 弱訊號
 
-- **AMKR / 先進封裝**：Substack 多次出現 AMKR 被視為「美版日月光」與 advanced packaging re-rating 候選；若 AI capex 不降，OSAT 估值折價可能被修正，但個股財報後下跌顯示市場仍在挑毛利與週期風險。
-- **STX / SIMO / SNDK / MU 記憶體與儲存**：AI 推論與資料湖需求正在把儲存/NAND/HBM 從傳統消費電子循環推向資料中心 capex；財報確認度高於純敘事，但部分目標價與營收推演偏激進。
-- **TMDX / ICHR / LITE**：X watchlist 提到 TMDX 94 美元強支撐、ICHR 半導體弱勢中相對強、LITE 長期未破 60MA；這是技術面弱訊號，需盤中量價確認。
-- **中國自動駕駛監管**：Bloomberg/X 訊息稱中國暫停發放新自動駕駛牌照，Baidu 港股短線下跌；若確認，對 Robotaxi / Apollo 類敘事偏負面。
-- **Goldman Hong Kong 禁用 Claude**：FT/X 訊息偏企業採用與合規風險，對 Anthropic 商業化是小負面，但未必直接影響可交易上市資產。
+- **STX / SIMO / SNDK / MU / memory-storage**：AI inference、nearline storage、NAND / HBM 需求正在重塑傳統記憶體循環。財報確認度高於純敘事，但部分目標價與成長推演偏激進，適合等分歧回落。
+- **AMKR / OSAT / advanced packaging**：Substack 多次提到 AMKR 作為「美版日月光」與 advanced packaging re-rating 候選；但個股財報後反應顯示市場仍重視毛利、週期與估值天花板。
+- **MRVL / AVGO / optical interconnect / custom ASIC**：Google、Microsoft、Amazon Trainium 等多客戶 ASIC 線索支持 AI capex 不是單一 NVDA 交易，但仍需 hyperscaler 財報確認。
+- **KO / V / PFE / 防禦現金流**：在 Fed、oil 與 AI valuation 壓力前，定價權、支付網路、醫藥防禦有 barbell 價值，但不是最強 upside 主線。
+- **TSLA / FSD / SpaceX 合併傳言**：HW3/FSD V14 Lite 對訂閱敘事有幫助，但 TSLA-SpaceX 合併、OpenAI 訴訟推演與長期 robotaxi 估值多為高噪音，先列觀察。
+- **中國自動駕駛監管**：X / Bloomberg 線索稱中國暫停新自動駕駛牌照，若確認對 Baidu / Apollo / robotaxi 敘事偏負面。
+- **TMDX / ICHR / LITE**：技術面 watchlist 有局部 RR，但需要盤中量價確認，不應脫離大盤與半導體 beta。
 
 ## 已過濾噪音
 
-- 多數非市場內容、生活/旅行/政治調侃、純廣告、鎖文入口、舊文重貼、無證據的單句情緒評論。
-- 2026-04-29 feed 中出現的 2026-04-01 至 2026-04-12 舊貼，除 AI 算力、半導體結構性需求與能源框架外，大多未列為今日新訊號。
-- TSLA-SpaceX 合併、OpenAI 破產、UAE 退出 OPEC 等未完全確認或敘事化很強的內容，已降級為觀察/中低信心。
+- Patreon 鎖文入口、廣告、生活/旅行/政治調侃、舊文重貼、無證據單句情緒評論。
+- 今日 feed 重新帶出的 2026-04-01 至 2026-04-12 舊貼，多數未列為今日新訊號；只有 AI infrastructure、能源框架與半導體結構性需求作為背景保留。
+- TSLA-SpaceX 合併、OpenAI 破產、UAE 退出 OPEC 等高度敘事化或未完整確認內容已降級，避免當作核心交易依據。
 
 ## 待確認事項
 
-- 盤後 MSFT、GOOGL/GOOG、META、AMZN 的 AI capex、cloud demand、power/compute constrained 口徑，將決定半導體回調是買點還是估值壓縮起點。
-- FOMC / Powell 對油價、通膨預期與政策路徑的措辭，會影響長端利率與高估值科技股。
-- Iran blockade 是否升級、Brent/WTI 是否站穩高位，以及 UAE/OPEC 供給消息是否被主流能源市場確認。
-- Huawei Ascend 950 實際交付能力、Hua Hong 限制範圍、以及中國 cloud 平台是否快速轉化為付費 AI 使用量。
-- BE 財報後若大幅高開，需觀察是否能守住缺口與機構買盤；追價 RR 低於等待 pullback。
+- FOMC statement 與 Powell press conference 後，2Y、10Y、DXY、VIX、QQQ breadth 是否一致確認 risk relief 或 multiple compression。
+- MSFT、GOOGL/GOOG、META、AMZN 的 cloud growth、AI capex、power / compute constrained 與 capex ROI 口徑，將決定 AI 回調是買點還是估值壓縮。
+- BTC ETF flow 是否恢復流入，以及 BTC 是否能守住 76,000-77,000 或重回 80,000。
+- Iran / Hormuz headline、Brent / WTI 是否站穩高位，以及 UAE / OPEC / Fujairah bypass 敘事是否被主流能源市場確認。
+- Huawei Ascend 950 實際交付能力、Hua Hong / 中國設備限制範圍，以及中國 cloud demand 是否轉化為付費 AI 使用量。
+- BE 財報後若大幅高開，需觀察缺口、VWAP、10/20 日線與機構買盤是否承接；追價 RR 低於等待 pullback。
 
 ## Web verification used
 
-- Reuters/Investing.com 與 Japan Times：Huawei Ascend 950 需求、Hua Hong 設備限制。
-- Bloom Energy investor release：Q1 2026 revenue、gross margin、full-year guidance。
-- WSJ / Investing.com / Business Insider / Tom's Hardware：OpenAI missed targets、Iran blockade 與油價反應。
+- Bloom Energy investor release / WSJ / MarketWatch：Q1 2026 revenue、gross margin、full-year guidance、AI data-center power demand。
+- Reuters / Investing.com、Huawei Central：Huawei Ascend 950 demand after DeepSeek V4。
+- NY Post、Business Insider、Investopedia、Tom's Hardware：OpenAI missed internal targets and related AI infrastructure stock reaction, traced to WSJ reporting.
+- Federal Reserve / U.S. Treasury / Conference Board sources cited inside same-day Reports：FOMC calendar、yield curve、consumer confidence context。
